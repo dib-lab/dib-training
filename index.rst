@@ -25,6 +25,8 @@ You can be notified of new workshops by signing up for the
 Upcoming Workshops
 ------------------
 
+Please click on the link for more information.
+
 * March 3-4, 2015: :doc:`2015-03-04-mRNAseq-semimodel` (mRNAseq, ab initio, intro)
 
 Planned workshops
