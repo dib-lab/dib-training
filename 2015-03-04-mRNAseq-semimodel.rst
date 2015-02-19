@@ -6,7 +6,7 @@ mRNAseq for semi-model organisms
 Who: `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ (lead
 instructor); others TBD.
 
-When: March 3 and 4, 2015
+When: March 4 and 5, 2015
 
 Times: 9am-3pm on both days
 
