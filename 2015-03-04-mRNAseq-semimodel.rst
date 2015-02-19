@@ -12,6 +12,8 @@ Times: 9am-3pm on both days
 
 Where: Valley Hall, UC Davis campus.  Day 1: 2030 Valley; Day 2: 1041 Valley.
 
+Cost: there is no fee.
+
 This workshop is open to everyone, including graduate students,
 postdocs, staff, faculty, and community members.  We have extra space
 for UC Davis VetMed affiliates; contact the lead instructor if you are

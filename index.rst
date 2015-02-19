@@ -37,8 +37,9 @@ Planned workshops
 These are tentative dates and topics; we will post information about
 the workshops closer to the date.
 
-* May 4-5, 2015: mRNAseq for non-model organisms (mRNAseq, 
 * April 27, 2015: mothur, command line, and multivariate stats (intro, microbial)
+* May 4-5, 2015: mRNAseq for non-model organisms (mRNAseq, de novo, intro)
+* Early July: Software Carpentry/reproducible research (intermediate)
 
 Past Workshops
 --------------
