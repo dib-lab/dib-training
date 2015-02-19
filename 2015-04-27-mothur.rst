@@ -1,0 +1,42 @@
+mothur, command line, and multivariate stats
+============================================
+
+Who: `Dr. Tracy Teal <mailto:tkteal@datacarpentry.org>`__ (lead
+instructor); others TBD.
+
+When: April 27, 2015
+
+Times: 9am-5pm
+
+Where: `Bennett Conference Room, Center for Companion Animal Health <http://www.vetmed.ucdavis.edu/ccah/about_ccah/facility.cfm>`__
+
+Cost: there is no fee.
+
+This workshop is open to everyone, including graduate students,
+postdocs, staff, faculty, and community members.  We have extra space
+for UC Davis VetMed affiliates; contact the lead instructor if you are
+an SVM affiliate.
+
+.. `> Register here < <https://www.eventbrite.com/e/mrnaseq-workshop-semi-model-organisms-registration-15830131349>`__
+---------------------------------------------------------------------------------------------------------------
+
+Description
+-----------
+
+This one-day hands-on workshop...
+
+Topics overview
+~~~~~~~~~~~~~~~
+
+* topic 1
+
+A more detailed schedule will be posted prior to the workshop.  Note that
+attendees should plan to be at the entire workshop.
+
+Computer and software requirements
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+...
+
+
+
