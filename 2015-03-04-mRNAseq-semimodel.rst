@@ -1,6 +1,8 @@
 mRNAseq for semi-model organisms 
 ================================
 
+.. @add mailing list info
+
 Who: `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ (lead
 instructor); others TBD.
 
