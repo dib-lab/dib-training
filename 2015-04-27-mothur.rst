@@ -43,7 +43,7 @@ attendees should plan to be at the entire workshop.
 
 Computer and software requirements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+This is a hands on workshop, so please bring a network-enabled laptop
 ...
 
 
