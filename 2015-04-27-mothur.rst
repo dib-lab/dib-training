@@ -1,4 +1,4 @@
-mothur, command line, and multivariate stats
+mothur and multivariate statistics for amplicon analysis
 ============================================
 
 Who: `Dr. Tracy Teal <mailto:tkteal@datacarpentry.org>`__ (lead
@@ -23,12 +23,20 @@ an SVM affiliate.
 Description
 -----------
 
-This one-day hands-on workshop...
+We will be running a mothur workshop focused on analyzing MiSeq amplicon data.  This workshop is intended for anyone 
+new to amplicon analysis or mothur or those want to more efficiently analyze MiSeq data.  We will work with sample 
+data in this workshop and follow the standard SOP, but by the end you should be able to do these analyses with your 
+own data.  We will show you how to run mothur using cloud computing and some multivariate statistics for analysis of
+OTU-based community data. 
 
 Topics overview
 ~~~~~~~~~~~~~~~
 
-* topic 1
+* Brief introduction to the command line
+* Connecting to cloud resources
+* MiSeq amplicon analysis with mothur, following the Schloss MiSeq SOP (http://www.mothur.org/wiki/MiSeq_SOP)
+* mothur batch mode
+* Multivariate statistics for OTU-based analyses
 
 A more detailed schedule will be posted prior to the workshop.  Note that
 attendees should plan to be at the entire workshop.
