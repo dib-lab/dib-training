@@ -3,8 +3,8 @@ mRNAseq for semi-model organisms
 
 .. @add mailing list info
 
-Who: `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ (lead
-instructor); others TBD.
+Who: `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ (lead instructor);
+Dr. Isabelle Laforest-Lapointe; Dr. Tamer Mansour.
 
 When: March 4 and 5, 2015
 
@@ -17,7 +17,8 @@ Cost: there is no fee.
 This workshop is open to everyone, including graduate students,
 postdocs, staff, faculty, and community members.  We have extra space
 for UC Davis VetMed affiliates; contact the lead instructor if you are
-an SVM affiliate.
+an SVM affiliate.  (These spaces will be released to the wait list
+on Thursday, February 26th.)
 
 `> Register here < <https://www.eventbrite.com/e/mrnaseq-workshop-semi-model-organisms-registration-15830131349>`__
 ---------------------------------------------------------------------------------------------------------------
@@ -53,8 +54,16 @@ held at MSU
 and we will link to the updated materials from this site.  All materials
 will be available indefinitely after the workshop.
 
-A more detailed schedule will be posted prior to the workshop.  Note that
-attendees should plan to be at the entire workshop.
+Schedule
+~~~~~~~~
+
+* Wed, 9am-noon: Amazon cloud, read trimming, basic sequence cleaning
+* Wed, noon-1pm: lunch
+* Wed, 1-3pm, building gene models
+
+* Thursday, 9am-noon: mapping, quantification
+* Thursday, noon-1pm: lunch
+* Thursday, 1pm-3pm: differential expression analysis
 
 Computer requirements
 ~~~~~~~~~~~~~~~~~~~~~

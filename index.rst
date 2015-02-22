@@ -35,7 +35,8 @@ Planned workshops
 -----------------
 
 These are tentative dates and topics; we will post information about
-the workshops closer to the date.
+the workshops closer to the date.  All workshops are on UC Davis
+campus unless otherwise specified.
 
 * April 27, 2015: mothur, command line, and multivariate stats (intro, microbial)
 * May 4-5, 2015: mRNAseq for non-model organisms (mRNAseq, de novo, intro)
@@ -56,7 +57,8 @@ are part of the fledgling Data Sciences Initiative at UC Davis.
 ---
 
 `UC Davis Genome Center <http://genomecenter.ucdavis.edu/>`__ - Dr. Brown
-is a member of the Genome Center at UC Davis.
+is a member of the Genome Center at UC Davis.  Note that the Genome Center
+hosts a `Bioinformatics Training Program <http://training.bioinformatics.ucdavis.edu/>`__!
 
 ---
 
