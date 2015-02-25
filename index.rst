@@ -10,8 +10,6 @@
 Welcome to the Data Intensive Biology training program Web site!
 ================================================================
 
-.. @add link to GC
-
 This is the overview Web site for the Data Intensive Biology training
 program at UC Davis, run by Dr. C. Titus Brown.  This is a series of
 workshops primarily focused on sequence analysis, using a short-course
@@ -30,6 +28,7 @@ Upcoming Workshops
 Please click on the link for more information.
 
 * March 4-5, 2015: :doc:`2015-03-04-mRNAseq-semimodel` (mRNAseq, ab initio, intro)
+* May 4-5, 2015: :doc:`2015-05-04-mRNAseq-nonmodel` (mRNAseq, de novo, intro)
 
 Planned workshops
 -----------------
@@ -39,7 +38,6 @@ the workshops closer to the date.  All workshops are on UC Davis
 campus unless otherwise specified.
 
 * April 27, 2015: mothur, command line, and multivariate stats (intro, microbial)
-* May 4-5, 2015: mRNAseq for non-model organisms (mRNAseq, de novo, intro)
 * Early July: Software Carpentry/reproducible research (intermediate)
 
 Past Workshops
