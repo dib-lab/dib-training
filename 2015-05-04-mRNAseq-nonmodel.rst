@@ -20,7 +20,7 @@ for UC Davis VetMed affiliates; contact the lead instructor if you are
 an SVM affiliate.  (These spaces will be released to the wait list on
 Monday, April 27th.)
 
-.. `> Register here < <https://www.eventbrite.com/e/mrnaseq-workshop-non-model-organisms-registration-15909516793>`__
+`> Register here < <https://www.eventbrite.com/e/mrnaseq-workshop-non-model-organisms-registration-15909516793>`__
 ---------------------------------------------------------------------------------------------------------------
 
 Description
