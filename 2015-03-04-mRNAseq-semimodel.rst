@@ -20,7 +20,7 @@ for UC Davis VetMed affiliates; contact the lead instructor if you are
 an SVM affiliate.
 
 .. (These spaces will be released to the wait list
-on Thursday, February 26th.)
+   on Thursday, February 26th.)
 
 .. `> Register here < <https://www.eventbrite.com/e/mrnaseq-workshop-semi-model-organisms-registration-15830131349>`__
 ---------------------------------------------------------------------------------------------------------------
