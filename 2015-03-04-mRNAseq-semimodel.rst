@@ -17,11 +17,16 @@ Cost: there is no fee.
 This workshop is open to everyone, including graduate students,
 postdocs, staff, faculty, and community members.  We have extra space
 for UC Davis VetMed affiliates; contact the lead instructor if you are
-an SVM affiliate.  (These spaces will be released to the wait list
+an SVM affiliate.
+
+.. (These spaces will be released to the wait list
 on Thursday, February 26th.)
 
-`> Register here < <https://www.eventbrite.com/e/mrnaseq-workshop-semi-model-organisms-registration-15830131349>`__
+.. `> Register here < <https://www.eventbrite.com/e/mrnaseq-workshop-semi-model-organisms-registration-15830131349>`__
 ---------------------------------------------------------------------------------------------------------------
+
+`> Materials link < <http://2015-mar-semimodel.readthedocs.org/en/latest/>`__
+---------------------------------------------------------------------------
 
 Description
 -----------
@@ -65,9 +70,11 @@ Schedule
 * Thursday, noon-1pm: lunch
 * Thursday, 1pm-3pm: differential expression analysis
 
-Computer requirements
-~~~~~~~~~~~~~~~~~~~~~
+Computer and workshop requirements
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Attendees will need to bring a computer with a Web browser, an
 Internet connection, and an ssh client; Windows users should install
 `MobaXterm <http://mobaxterm.mobatek.net/>`__ before the workshop.
+
+Please sign up for an account at http://aws.amazon.com/ before the workshop.
