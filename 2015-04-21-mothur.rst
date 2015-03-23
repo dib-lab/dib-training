@@ -1,14 +1,14 @@
 mothur and multivariate statistics for amplicon analysis
-============================================
+========================================================
 
 Who: `Dr. Tracy Teal <mailto:tkteal@datacarpentry.org>`__ (lead
 instructor); others TBD.
 
-When: April 27, 2015
+When: April 21, 2015
 
 Times: 9am-5pm
 
-Where: `Bennett Conference Room, Center for Companion Animal Health <http://www.vetmed.ucdavis.edu/ccah/about_ccah/facility.cfm>`__
+Where: `2030 Valley Hall <http://campusmap.ucdavis.edu/?b=178>`__
 
 Cost: there is no fee.
 
@@ -23,11 +23,14 @@ an SVM affiliate.
 Description
 -----------
 
-We will be running a mothur workshop focused on analyzing MiSeq amplicon data.  This workshop is intended for anyone 
-new to amplicon analysis or mothur or those want to more efficiently analyze MiSeq data.  We will work with sample 
-data in this workshop and follow the standard SOP, but by the end you should be able to do these analyses with your 
-own data.  We will show you how to run mothur using cloud computing and some multivariate statistics for analysis of
-OTU-based community data. 
+We will be running a mothur workshop focused on analyzing MiSeq
+amplicon data.  This workshop is intended for anyone new to amplicon
+analysis or mothur or those want to more efficiently analyze MiSeq
+data.  We will work with sample data in this workshop and follow the
+standard SOP, but by the end you should be able to do these analyses
+with your own data.  We will show you how to run mothur using cloud
+computing and some multivariate statistics for analysis of OTU-based
+community data.
 
 Topics overview
 ~~~~~~~~~~~~~~~
@@ -38,13 +41,10 @@ Topics overview
 * mothur batch mode
 * Multivariate statistics for OTU-based analyses
 
-A more detailed schedule will be posted prior to the workshop.  Note that
-attendees should plan to be at the entire workshop.
+A more detailed schedule will be posted prior to the workshop.  Note
+that attendees should plan to be at the entire workshop.
 
 Computer and software requirements
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 This is a hands on workshop, so please bring a network-enabled laptop
-
-
-
-

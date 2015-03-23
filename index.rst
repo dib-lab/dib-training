@@ -37,7 +37,7 @@ These are tentative dates and topics; we will post information about
 the workshops closer to the date.  All workshops are on UC Davis
 campus unless otherwise specified.
 
-* April 27, 2015: mothur, command line, and multivariate stats (intro, microbial)
+* April 21st, 2015: mothur, command line, and multivariate stats (intro, microbial)
 * Early July: Software Carpentry/reproducible research (intermediate)
 
 Past Workshops
