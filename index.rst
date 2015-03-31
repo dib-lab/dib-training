@@ -27,7 +27,7 @@ Upcoming Workshops
 
 Please click on the link for more information.
 
-* March 4-5, 2015: :doc:`2015-03-04-mRNAseq-semimodel` (mRNAseq, ab initio, intro)
+* April 21st, 2015::doc:`2015-04-21-mothur` (intro, microbial)
 * May 4-5, 2015: :doc:`2015-05-04-mRNAseq-nonmodel` (mRNAseq, de novo, intro)
 
 Planned workshops
@@ -37,12 +37,12 @@ These are tentative dates and topics; we will post information about
 the workshops closer to the date.  All workshops are on UC Davis
 campus unless otherwise specified.
 
-* April 21st, 2015: mothur, command line, and multivariate stats (intro, microbial)
 * Early July: Software Carpentry/reproducible research (intermediate)
 
 Past Workshops
 --------------
 
+* March 4-5, 2015: :doc:`2015-03-04-mRNAseq-semimodel` (mRNAseq, ab initio, intro)
 * Feb 9-10, 2015: `Data Carpentry workshop <http://datacarpentry.github.io/2015-02-09-ucdavis/>`__ (data carpentry, intro)
 * Jan 6-8, 2015: `Software and Data Carpentry Instructor Training <http://ivory.idyll.org/blog/2014-davis-swc-training.html>`__ (instructor, t3)
 
