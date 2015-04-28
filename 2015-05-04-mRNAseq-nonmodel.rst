@@ -56,7 +56,7 @@ Schedule
 * Mon, noon-1pm: lunch
 * Mon, 1-3pm, assembly
 
-* Tuesday, 9am-noon: mapping, annotation
+* Tuesday, 9am-noon: annotation, mapping
 * Tuesday, noon-1pm: lunch
 * Tuesday, 1pm-3pm: quantification and differential expression analysis
 
