@@ -17,11 +17,14 @@ Cost: there is no fee.
 This workshop is open to everyone, including graduate students,
 postdocs, staff, faculty, and community members.  We have extra space
 for UC Davis VetMed affiliates; contact the lead instructor if you are
-an SVM affiliate.  (These spaces will be released to the wait list on
-Monday, April 27th.)
+an SVM affiliate.
 
-`> Register here < <https://www.eventbrite.com/e/mrnaseq-workshop-non-model-organisms-registration-15909516793>`__
----------------------------------------------------------------------------------------------------------------
+.. `> Register here < <https://www.eventbrite.com/e/mrnaseq-workshop-non-model-organisms-registration-15909516793>`__
+.. ---------------------------------------------------------------------------------------------------------------
+
+`> Materials link < <http://2015-may-nonmodel.readthedocs.org/en/latest/>`__
+--------------------------------------------------------------------------
+
 
 Description
 -----------
@@ -44,10 +47,11 @@ Topics overview
 * Building a new reference transcriptome with khmer and Trinity
 * Data analysis & differential expression
 
-The materials will be based off of `the Eel Pond mRNAseq protocol
+The materials for this workshop are available indefinitely
+`here <http://2015-may-nonmodel.readthedocs.org/en/latest/>`__.
+You might also be interested in `the Eel Pond mRNAseq protocol
 <https://khmer-protocols.readthedocs.org/en/latest/mrnaseq/index.html>`__,
-and we will link to the final workshop materials from this site.  All
-materials will be available indefinitely after the workshop.
+which lays out a more general protocol for de novo mRNAseq assembly.
 
 Schedule
 ~~~~~~~~

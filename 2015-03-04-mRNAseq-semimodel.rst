@@ -23,7 +23,7 @@ an SVM affiliate.
    on Thursday, February 26th.)
 
 .. `> Register here < <https://www.eventbrite.com/e/mrnaseq-workshop-semi-model-organisms-registration-15830131349>`__
----------------------------------------------------------------------------------------------------------------
+.. ---------------------------------------------------------------------------------------------------------------
 
 `> Materials link < <http://2015-mar-semimodel.readthedocs.org/en/latest/>`__
 ---------------------------------------------------------------------------
@@ -53,11 +53,8 @@ Topics overview
 * Processing another sample with TopHat and HTSeq
 * Data analysis & differential expression
 
-The materials will be based off of `these materials from a 2014 course
-held at MSU
-<http://2014-msu-rnaseq.readthedocs.org/en/latest/semi-orgs.html>`__,
-and we will link to the updated materials from this site.  All materials
-will be available indefinitely after the workshop.
+The materials for this workshop are available indefinitely
+`here <http://2015-mar-semimodel.readthedocs.org/en/latest/>`__.
 
 Schedule
 ~~~~~~~~
