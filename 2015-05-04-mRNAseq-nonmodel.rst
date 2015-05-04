@@ -3,8 +3,8 @@ mRNAseq for non-model organisms
 
 .. @add mailing list info
 
-Who: `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ (lead instructor); others
-TBD.
+Who: `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ (lead instructor); Camille
+Scott; Tamer Mansour.
 
 When: May 4 and 5, 2015
 
