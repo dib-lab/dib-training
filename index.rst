@@ -1,8 +1,3 @@
-.. labibi documentation master file, created by
-   sphinx-quickstart on Sun Nov  4 10:10:29 2012.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 .. image:: _static/school_college_marks_vetmed.gif
    :target: http://www.vetmed.ucdavis.edu/index.cfm
    :align: right
@@ -18,30 +13,43 @@ format taken from the `Next-Gen Sequence Analysis Workshops
 <http://software-carpentry.org/>`__ and `Data Carpentry
 <http://datacarpentry.org>`__.
 
-You can be notified of new workshops by signing up for the
-`dib-training mailing list
-<http://lists.idyll.org/listinfo/dib-training>`__.
+* All workshops are on UC Davis campus unless otherwise specified.
+* Workshops are open to everyone whether or not they are part
+  of the UC Davis community, subject to space constraints.
+* Workshops are free unless otherwise specified.
 
-Upcoming Workshops
+If you want to be notified of new workshops you can sign up for the
+`dib-training mailing list
+<http://lists.idyll.org/listinfo/dib-training>`__; workshops are
+generally announced there first.
+
+Upcoming Workshops and Dates
+----------------------------
+
+.. Please click on the link for more information.
+
+* July 6-7: Software Carpentry workshop
+
+.. Planned workshops
+.. -----------------
+
+.. These are tentative dates and topics; we will post information about
+.. the workshops closer to the date.  
+
+Workshop materials
 ------------------
 
-Please click on the link for more information.
+All workshop materials are available under an open license, and they are
+available indefinitely.  Please feel free to send them on to others.
 
-* April 21st, 2015::doc:`2015-04-21-mothur` (intro, microbial)
-* May 4-5, 2015: :doc:`2015-05-04-mRNAseq-nonmodel` (mRNAseq, de novo, intro)
-
-Planned workshops
------------------
-
-These are tentative dates and topics; we will post information about
-the workshops closer to the date.  All workshops are on UC Davis
-campus unless otherwise specified.
-
-* Early July: Software Carpentry/reproducible research (intermediate)
+* `mRNAseq on non-model systems <http://2015-may-nonmodel.readthedocs.org/en/dev/>`__ (last updated: May 2015)
+* `mRNAseq assembly with a reference genome <http://2015-mar-semimodel.readthedocs.org/en/latest/>`__ (last updated: March 2015)
 
 Past Workshops
 --------------
 
+* April 21st, 2015::doc:`2015-04-21-mothur` (intro, microbial)
+* May 4-5, 2015: :doc:`2015-05-04-mRNAseq-nonmodel` (mRNAseq, de novo, intro)
 * March 4-5, 2015: :doc:`2015-03-04-mRNAseq-semimodel` (mRNAseq, ab initio, intro)
 * Feb 9-10, 2015: `Data Carpentry workshop <http://datacarpentry.github.io/2015-02-09-ucdavis/>`__ (data carpentry, intro)
 * Jan 6-8, 2015: `Software and Data Carpentry Instructor Training <http://ivory.idyll.org/blog/2014-davis-swc-training.html>`__ (instructor, t3)
