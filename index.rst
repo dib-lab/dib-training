@@ -6,9 +6,10 @@ Welcome to the Data Intensive Biology training program Web site!
 ================================================================
 
 This is the overview Web site for the Data Intensive Biology training
-program at UC Davis, run by Dr. C. Titus Brown.  This is a series of
-workshops primarily focused on sequence analysis, using a short-course
-format taken from the `Next-Gen Sequence Analysis Workshops
+program at UC Davis, run by `Dr. C. Titus Brown
+<http://ivory.idyll.org/lab/>`__.  This is a series of workshops
+primarily focused on sequence analysis, using a short-course format
+taken from the `Next-Gen Sequence Analysis Workshops
 <http://angus.readthedocs.org/>`__ and inspired by `Software Carpentry
 <http://software-carpentry.org/>`__ and `Data Carpentry
 <http://datacarpentry.org>`__.
@@ -28,7 +29,7 @@ Upcoming Workshops and Dates
 
 .. Please click on the link for more information.
 
-* July 6-7: Software Carpentry workshop
+* July 6-7: `Software Carpentry <http://dib-lab.github.io/2015-07-06-ucdavis/>`__
 
 .. Planned workshops
 .. -----------------
