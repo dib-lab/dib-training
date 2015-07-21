@@ -29,13 +29,24 @@ Upcoming Workshops and Dates
 
 .. Please click on the link for more information.
 
-* July 6-7: `Software Carpentry <http://dib-lab.github.io/2015-07-06-ucdavis/>`__
 
-.. Planned workshops
-.. -----------------
+Planned workshops
+-----------------
 
-.. These are tentative dates and topics; we will post information about
-.. the workshops closer to the date.  
+These are tentative dates and topics; we will post details about
+the workshops closer to the date.  
+
+.. nov 9, 10 - microbial genomics, transcriptomics
+.. dec 3, 4 - metagenome assembly/foo
+.. oct 5-6 - workflow tracking, automation, and reproducibility hands-on
+
+* September 24-25, 2015: Microbial genomics and transcriptomics hands-on.
+* September 28-30: iPlant Collaborative hands-on.
+* October 19-20, 2015: mRNAseq analysis (topic TBD)
+* October 26-27, 2015: mRNAseq analysis (topic TBD)
+* November 9-10, 2015: Docker hands-on
+* November 19-20: Advanced iPython Notebook/Project Jupyter.
+* December 7-8, 2015: `UCSC Genome Browser workshop <http://www.genome.ucsc.edu/training/index.html>`__.
 
 Workshop materials
 ------------------
@@ -49,7 +60,8 @@ available indefinitely.  Please feel free to send them on to others.
 Past Workshops
 --------------
 
-* April 21st, 2015::doc:`2015-04-21-mothur` (intro, microbial)
+* July 6-7, 2015: `Software Carpentry <http://dib-lab.github.io/2015-07-06-ucdavis/>`__
+* April 21, 2015::doc:`2015-04-21-mothur` (intro, microbial)
 * May 4-5, 2015: :doc:`2015-05-04-mRNAseq-nonmodel` (mRNAseq, de novo, intro)
 * March 4-5, 2015: :doc:`2015-03-04-mRNAseq-semimodel` (mRNAseq, ab initio, intro)
 * Feb 9-10, 2015: `Data Carpentry workshop <http://datacarpentry.github.io/2015-02-09-ucdavis/>`__ (data carpentry, intro)
