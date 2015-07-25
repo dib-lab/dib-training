@@ -27,8 +27,9 @@ generally announced there first.
 Upcoming Workshops and Dates
 ----------------------------
 
-.. Please click on the link for more information.
+Please click on the link for more information.
 
+* August 17-18, `Software Carpentry for Women in Science and Engineering <http://camillescott.github.io/2015-08-16-ucdavis-wise/>`__.
 
 Planned workshops
 -----------------
@@ -40,12 +41,13 @@ the workshops closer to the date.
 .. dec 3, 4 - metagenome assembly/foo
 .. oct 5-6 - workflow tracking, automation, and reproducibility hands-on
 
-* September 24-25, 2015: Microbial genomics and transcriptomics hands-on.
+* September 21-22: mRNAseq intermediate workshop (invitation only).
+* September 24-25: Microbial genomics and transcriptomics hands-on.
 * September 28-30: iPlant Collaborative hands-on.
 * October 19-20, 2015: mRNAseq analysis (topic TBD)
 * October 26-27, 2015: mRNAseq analysis (topic TBD)
-* November 9-10, 2015: Docker hands-on
-* November 19-20: Advanced iPython Notebook/Project Jupyter.
+* November 9-10, 2015: Docker hands-on `(sign up to be notified) <https://github.com/dib-lab/dib-training/issues/1>`__
+* November 19-20: `Advanced iPython Notebook/Project Jupyter <https://github.com/dib-lab/dib-training/issues/2>`__
 * December 7-8, 2015: `UCSC Genome Browser workshop <http://www.genome.ucsc.edu/training/index.html>`__.
 
 Workshop materials
