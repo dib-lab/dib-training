@@ -47,7 +47,7 @@ the workshops closer to the date.
 * October 19-20, 2015: mRNAseq analysis (topic TBD)
 * October 26-27, 2015: mRNAseq analysis (topic TBD)
 * November 9-10, 2015: Docker hands-on `(sign up to be notified) <https://github.com/dib-lab/dib-training/issues/1>`__
-* November 19-20: Advanced iPython Notebook/Project Jupyter (sign up to be notified) <https://github.com/dib-lab/dib-training/issues/2>`__
+* November 19-20: Advanced iPython Notebook/Project Jupyter `(sign up to be notified) <https://github.com/dib-lab/dib-training/issues/2>`__
 * December 7-8, 2015: `UCSC Genome Browser workshop <http://www.genome.ucsc.edu/training/index.html>`__.
 
 Workshop materials
