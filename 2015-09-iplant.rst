@@ -67,8 +67,8 @@ Topics:
 * Know your data
 * Introduction to the command line
 * Introduction to cloud computing
+* Data wrangling and processing at the command line
 * Data analysis and visualization in R
-* @@ other stuff?
 
 Topics overview - Intermediate iPlant
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
