@@ -1,21 +1,28 @@
+==================================
 iPlant Collaborative multiworkshop
 ==================================
 
 Who: Jason Williams and others from iPlant.
 
+Host: C. Titus Brown and Jessica Mizzi; contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
+
 When: September 21-23, 2015.
 
 Times: 9am-5pm, all three days.
 
-Where: Valley Hall.
+Where: Valley Hall (see workshop descriptions, below, for specific rooms)
 
 Cost: there is no fee.
 
 These workshops are open to everyone, including graduate students,
 postdocs, staff, faculty, and community members.  We have extra space
-for UC Davis VetMed affiliates; contact the lead instructor if you are
+for UC Davis VetMed affiliates; contact the host if you are
 an SVM affiliate. (These spaces will be released to the wait list on Monday,
 September 14th.)
+
+See workshop descriptions below for registration links.
+
+.. contents::
 
 .. `> Register here < <https://www.eventbrite.com/e/mothur-workshop-registration-16380968919>`__
 .. ---------------------------------------------------------------------------------------------------------------
@@ -25,10 +32,10 @@ Description
 
 We will be running four workshops:
 
-* Introduction to iPlant, on Monday, Sep 21 - `click here to register <>`__;
-* a `Genomics Data Carpentry <http://datacarpentry.github.io/lessons/>`__ on Tuesday and Wednesday, Sep 22-23 - `click here to register <>`__;
-* an "iPlant Intermediate" workshop, on Tues, Sep 22 - `click here to register <>`__;
-* an "iPlant Advanced" hackathon, on Wed, Sep 23 - `click here to register <>`__;
+* Introduction to iPlant, on Monday, Sep 21 - `click here to register <@@>`__;
+* a `Genomics Data Carpentry <http://datacarpentry.github.io/lessons/>`__ on Tuesday and Wednesday, Sep 22-23 - `click here to register <@@>`__;
+* an "iPlant Intermediate" workshop, on Tues, Sep 22 - `click here to register <@@>`__;
+* an "iPlant Advanced" hackathon, on Wed, Sep 23 - `click here to register <@@>`__;
 
 (Each workshop is all day, every day, so please don't sign up for overlapping
 workshops!)
@@ -36,7 +43,7 @@ workshops!)
 Topics overview - Introduction to iPlant
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Monday, Sep 21 - `click here to register <>`__
+Monday, Sep 21 - `click here to register <@@>`__
 
 Location: 1010 Valley
 
@@ -50,7 +57,7 @@ Topics:
 Topics overview - Data Carpentry
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Tuesday and Wednesday, Sep 22-23 - `click here to register <>`__
+Tuesday and Wednesday, Sep 22-23 - `click here to register <@@>`__
 
 Location: 1043 Valley (both days)
 
@@ -66,7 +73,7 @@ Topics:
 Topics overview - Intermediate iPlant
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Tuesday, Sep 22 - `click here to register <>`__
+Tuesday, Sep 22 - `click here to register <@@>`__
 
 Location: 1041 Valley
 
@@ -80,7 +87,7 @@ Topics:
 Topics overview - Advanced iPlant
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Wednesday, Sep 24 - `click here to register <>`__
+Wednesday, Sep 24 - `click here to register <@@>`__
 
 Location: 2020 Valley
 
@@ -92,6 +99,8 @@ Topics:
 * Docker
 
 Computer and software requirements
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------
 
-This is a hands on workshop, so please bring a network-enabled laptop
+These are hands on workshops, so please bring a network-enabled laptop and
+a power cord.
+
