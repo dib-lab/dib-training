@@ -1,0 +1,97 @@
+iPlant Collaborative multiworkshop
+==================================
+
+Who: Jason Williams and others from iPlant.
+
+When: September 21-23, 2015.
+
+Times: 9am-5pm, all three days.
+
+Where: Valley Hall.
+
+Cost: there is no fee.
+
+These workshops are open to everyone, including graduate students,
+postdocs, staff, faculty, and community members.  We have extra space
+for UC Davis VetMed affiliates; contact the lead instructor if you are
+an SVM affiliate. (These spaces will be released to the wait list on Monday,
+September 14th.)
+
+.. `> Register here < <https://www.eventbrite.com/e/mothur-workshop-registration-16380968919>`__
+.. ---------------------------------------------------------------------------------------------------------------
+
+Description
+-----------
+
+We will be running four workshops:
+
+* Introduction to iPlant, on Monday, Sep 21 - `click here to register <>`__;
+* a `Genomics Data Carpentry <http://datacarpentry.github.io/lessons/>`__ on Tuesday and Wednesday, Sep 22-23 - `click here to register <>`__;
+* an "iPlant Intermediate" workshop, on Tues, Sep 22 - `click here to register <>`__;
+* an "iPlant Advanced" hackathon, on Wed, Sep 23 - `click here to register <>`__;
+
+(Each workshop is all day, every day, so please don't sign up for overlapping
+workshops!)
+
+Topics overview - Introduction to iPlant
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Monday, Sep 21 - `click here to register <>`__
+
+Location: 1010 Valley
+
+Topics:
+
+* Data upload and sharing
+* Analysis in Discovery Environment
+* RNA-Seq demo experiment
+* Intro to Atmosphere
+
+Topics overview - Data Carpentry
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Tuesday and Wednesday, Sep 22-23 - `click here to register <>`__
+
+Location: 1043 Valley (both days)
+
+Topics:
+
+* Project organization
+* Know your data
+* Introduction to the command line
+* Introduction to cloud computing
+* Data analysis and visualization in R
+* @@ other stuff?
+
+Topics overview - Intermediate iPlant
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Tuesday, Sep 22 - `click here to register <>`__
+
+Location: 1041 Valley
+
+Topics:
+
+* Working effectively with iRODS and iCommands
+* Using HPC apps (MAKER-P from upload 2 visualization with JBrowse) on DE/Atmosphere
+* RNA-Seq w/Kallisto (tentative)
+* RNA-Seq visualization with cummeRbund
+
+Topics overview - Advanced iPlant
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Wednesday, Sep 24 - `click here to register <>`__
+
+Location: 2020 Valley
+
+Topics:
+
+* Intro to Agave
+* Auth/Application management
+* Job management
+* Docker
+
+Computer and software requirements
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is a hands on workshop, so please bring a network-enabled laptop

@@ -41,9 +41,9 @@ the workshops closer to the date.
 .. dec 3, 4 - metagenome assembly/foo
 .. oct 5-6 - workflow tracking, automation, and reproducibility hands-on
 
-* September 21-22: mRNAseq intermediate workshop (invitation only).
+* September 21-23: iPlant Collaborative hands-on `(sign up to be notified) <https://github.com/dib-lab/dib-training/issues/3>`__
 * September 24-25: Microbial genomics and transcriptomics hands-on.
-* September 28-30: iPlant Collaborative hands-on `(sign up to be notified) <https://github.com/dib-lab/dib-training/issues/3>`__
+* September 28-29: mRNAseq intermediate workshop (invitation only).
 * October 19-20, 2015: mRNAseq analysis (topic TBD)
 * October 26-27, 2015: mRNAseq analysis (topic TBD)
 * November 9-10, 2015: Docker hands-on `(sign up to be notified) <https://github.com/dib-lab/dib-training/issues/1>`__
