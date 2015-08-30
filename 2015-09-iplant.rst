@@ -30,7 +30,12 @@ See workshop descriptions below for registration links.
 Description
 -----------
 
-We will be running four workshops:
+`The iPlant Collaborative <http://www.iplantcollaborative.org/>`__
+enables scientists in all domains of life sciences to connect to
+public datasets, manage and store their own data and experiments,
+access high-performance computing, and share results with colleagues.
+
+We will be running four workshops on iPlant:
 
 * Introduction to iPlant, on Monday, Sep 21 - `click here to register <@@>`__;
 * a `Genomics Data Carpentry <http://datacarpentry.github.io/lessons/>`__ on Tuesday and Wednesday, Sep 22-23 - `click here to register <@@>`__;
