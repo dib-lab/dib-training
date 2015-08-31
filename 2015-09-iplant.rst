@@ -2,9 +2,19 @@
 iPlant Collaborative multiworkshop
 ==================================
 
-Who: Jason Williams and others from iPlant.
+iPlant:
+
+* Nirav Merchant (University of Arizona),
+* Matthew Vaughn and John Fonner (Texas Advanced Computing Center)
+* Kapeel Chougule and Jason Williams (Cold Spring Harbor Laboratory).
+
+Guest Instructor: Harold Pimentel (UC Berkeley)
+
+Data Carpentry Instructor: Tracy Teal (Data Carpentry PI)
 
 Host: C. Titus Brown and Jessica Mizzi; contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
+
+----
 
 When: September 21-23, 2015.
 
@@ -24,9 +34,6 @@ See workshop descriptions below for registration links.
 
 .. contents::
 
-.. `> Register here < <https://www.eventbrite.com/e/mothur-workshop-registration-16380968919>`__
-.. ---------------------------------------------------------------------------------------------------------------
-
 Description
 -----------
 
@@ -37,10 +44,12 @@ access high-performance computing, and share results with colleagues.
 
 We will be running four workshops on iPlant:
 
-* Introduction to iPlant, on Monday, Sep 21 - `click here to register <@@>`__;
-* a `Genomics Data Carpentry <http://datacarpentry.github.io/lessons/>`__ on Tuesday and Wednesday, Sep 22-23 - `click here to register <@@>`__;
-* an "iPlant Intermediate" workshop, on Tues, Sep 22 - `click here to register <@@>`__;
-* an "iPlant Advanced" hackathon, on Wed, Sep 23 - `click here to register <@@>`__;
+* Introduction to iPlant, on Monday, Sep 21 - `click here to register <https://www.eventbrite.com/e/introduction-to-iplant-registration-18396355996>`__;
+* a `Genomics Data Carpentry <http://datacarpentry.github.io/lessons/>`__ on Tuesday and Wednesday, Sep 22-23 - `click here to register <https://www.eventbrite.com/e/doing-genomics-on-iplant-a-data-carpentry-workshop-registration-18396466326>`__;
+* an "iPlant Intermediate" workshop, on Tues, Sep 22 - `click here to register <https://www.eventbrite.com/e/iplant-for-advanced-users-registration-18396590698>`__;
+* an "iPlant Advanced" hackathon, on Wed, Sep 23
+
+.. - `click here to register <@@>`__;
 
 (Each workshop is all day, every day, so please don't sign up for overlapping
 workshops!)
@@ -48,51 +57,93 @@ workshops!)
 Topics overview - Introduction to iPlant
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Monday, Sep 21 - `click here to register <@@>`__
+Monday, Sep 21 - `click here to register <https://www.eventbrite.com/e/introduction-to-iplant-registration-18396355996>`__
 
 Location: 1010 Valley
+
+This one-day workshop is an overview of platforms, tools, and services
+for large-scale data analysis developed by the iPlant Collaborative
+(funded by the National Science Foundation). Resources are available
+for researchers working across all domains of life (microbe, animal,
+and plant). Hands-on demos and guided exercises give an overview of
+how to move, manage, and analyze data through local, web, and cloud
+interfaces. All topics will involve hand-on demos with example data.
 
 Topics:
 
 * Data upload and sharing
-* Analysis in Discovery Environment
-* RNA-Seq demo experiment
-* Intro to Atmosphere
+* Analyzing data in the Discovery Environment
+* Introductory RNA-Seq Analysis with the Tuxedo workflow
+* Intro to Atmosphere Cloud computing
+
+Who Should Attend?
+Any investigator (PIs, post-docs, grad students, industry users) who
+is or will be working with large datasets and computation-intensive
+research questions in the life-sciences (plants and animals!)
 
 Topics overview - Data Carpentry
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Tuesday and Wednesday, Sep 22-23 - `click here to register <@@>`__
+Tuesday and Wednesday, Sep 22-23 - `click here to register <https://www.eventbrite.com/e/doing-genomics-on-iplant-a-data-carpentry-workshop-registration-18396466326>`__
 
 Location: 1043 Valley (both days)
 
+`Data Carpentry <http://datacarpentry.org>`__ workshops are for any
+researcher who has data they want to analyze; no prior computational
+experience is required. This hands-on workshop teaches basic concepts,
+skills and tools for working more effectively with data. We will be
+teaching all the basics, including command line skills that will
+enable you to get started with almost any high-throughput (NGS)
+sequence data.
+
 Topics:
 
-* Project organization
-* Know your data
-* Introduction to the command line
+* Organizing computational biology projects
+* Introducing and exploring common genomics/NGS file formats
+* Introduction to the Linux command line
 * Introduction to cloud computing
 * Data wrangling and processing at the command line
 * Data analysis and visualization in R
 
+Who Should Attend?  This workshop assumes you have little to no
+command line experience. We anticipate the workshop will be of
+interest to PIs, post-docs, grad students, etc. who are or will be
+working with high-throughput/NGS sequence data. This workshop will NOT
+be focusing on specific tools/software, but on concepts and best
+practices. Please register ONLY if you plan to attend both days of the
+workshop.
+
 Topics overview - Intermediate iPlant
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Tuesday, Sep 22 - `click here to register <@@>`__
+Tuesday, Sep 22 - `click here to register <https://www.eventbrite.com/e/iplant-for-advanced-users-registration-18396590698>`__
 
 Location: 1041 Valley
+
+This workshop builds on the introductory materials covered in the
+previous day's Introductory workshop. We will be covering more
+detailed aspects of RNA-Seq analysis including benchmarking and use of
+some of the most recently published RNA-Seq applications. We will also
+cover more in-depth uses of iPlant resources for data management
 
 Topics:
 
 * Working effectively with iRODS and iCommands
-* Using HPC apps (MAKER-P from upload 2 visualization with JBrowse) on DE/Atmosphere
+* Using HPC apps (MAKER-P from upload to visualization with JBrowse) on DE/Atmosphere
 * RNA-Seq w/Kallisto (tentative)
 * RNA-Seq visualization with cummeRbund
+
+Who Should Attend?  We anticipate this workshop will be of interest to
+people who currently are working with RNA-Seq data (or will be
+shortly). General knowledge of RNA-Seq and familiarity with iPlant
+Tools (especially Atmosphere Cloud Computing) is recommended.
 
 Topics overview - Advanced iPlant
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Wednesday, Sep 24 - `click here to register <@@>`__
+Wednesday, Sep 24
+
+.. - `click here to register <@@>`__
 
 Location: 2020 Valley
 
@@ -101,7 +152,13 @@ Topics:
 * Intro to Agave
 * Auth/Application management
 * Job management
-* Docker
+* Using Docker with iPlant
+
+Who Should Attend?  This workshop is targeted at users (and those who
+manage data and compute for others) who wish to deploy scripts and
+software within one or more iPlant platforms. The agenda is guide for
+hackathon-style approach to using iPlant, and will happily be adapted
+to the interests and use cases of the attendees.
 
 Computer and software requirements
 ----------------------------------
