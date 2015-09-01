@@ -31,7 +31,7 @@ Please click on the link for more information.
 
 * September 21-23, 2015: `iPlant Collaborative multiworkshop - introductory, intermediate, advanced, and Data Carpentry. <2015-09-iplant.html>`__
 
-* September 24-25, 2015: Microbial genomics and transcriptomics hands-on.
+* September 24-25, 2015: `Microbial genomics and transcriptomics hands-on. <2015-09-24-microbes.html>`__
 
 * December 7-8, 2015: `UCSC Genome Browser workshop <http://training.bioinformatics.ucdavis.edu/2015/07/14/ucsc-genome-browser-workshop-december-7-8-2015/>`__.
 
