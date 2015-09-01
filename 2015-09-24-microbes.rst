@@ -1,5 +1,5 @@
-Microbial genomics and transcriptomics hands-on
-===============================================
+Microbial genomics and transcriptomics hands-on, Sep 24-25
+==========================================================
 
 Who: Ben Johnson (Michigan State University); Tracy Teal (Data Carpentry); C. Titus Brown (UC Davis).
 
