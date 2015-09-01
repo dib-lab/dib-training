@@ -43,7 +43,7 @@ Topics overview
 * Genome assembly (with SPAdes or MEGAHIT)
 * Genome annotation (with Prokka)
 * RNAseq analysis
-* Differential expressio analysis.
+* Differential expression analysis
 
 Computer requirements
 ~~~~~~~~~~~~~~~~~~~~~
