@@ -12,6 +12,8 @@ Guest Instructor: Harold Pimentel (UC Berkeley)
 
 Data Carpentry Instructor: Tracy Teal (Data Carpentry PI)
 
+Visiting instructor: Adelaide Rhodes (Oregon State CGRB)
+
 Host: C. Titus Brown and Jessica Mizzi; contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
 ----

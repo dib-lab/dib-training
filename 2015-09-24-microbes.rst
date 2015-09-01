@@ -1,0 +1,53 @@
+Microbial genomics and transcriptomics hands-on
+===============================================
+
+Who: Ben Johnson (Michigan State University); Tracy Teal (Data Carpentry); C. Titus Brown (UC Davis).
+
+Host: `C. Titus Brown <mailto:ctbrown@ucdavis.edu>`__
+
+When: Sep 24 and 25, 2015
+
+Times: 9am-3pm on both days
+
+Where: TBD (UC Davis campus).
+
+Cost: there is no fee.
+
+This workshop is open to everyone, including graduate students,
+postdocs, staff, faculty, and community members.  We have extra space
+for UC Davis VetMed affiliates; contact the host if you are an SVM
+affiliate.
+
+`> Register here < <https://www.eventbrite.com/e/microbial-genomics-registration-18399810328>`__
+------------------------------------------------------------------------------------------------
+
+.. `> Materials link < <http://2015-may-nonmodel.readthedocs.org/en/latest/>`__
+.. --------------------------------------------------------------------------
+
+
+Description
+-----------
+
+This two-day hands-on workshop will introduce biologists to microbial
+genomics and transcriptomics.  The primary focus will be on genome assembly
+and annotation, and subsequent transcriptome analysis, of bacteria.
+
+We will be analyzing a stock data set, and we will be using the Amazon
+cloud.
+
+Topics overview
+~~~~~~~~~~~~~~~
+
+* Logging into the Amazon Cloud
+* Short read quality and trimming
+* Genome assembly (with SPAdes or MEGAHIT)
+* Genome annotation (with Prokka)
+* RNAseq analysis
+* Differential expressio analysis.
+
+Computer requirements
+~~~~~~~~~~~~~~~~~~~~~
+
+Attendees will need to bring a computer with a Web browser, an
+Internet connection, and an ssh client; Windows users should install
+`MobaXterm <http://mobaxterm.mobatek.net/>`__ before the workshop.

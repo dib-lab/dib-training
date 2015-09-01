@@ -29,7 +29,11 @@ Upcoming Workshops and Dates
 
 Please click on the link for more information.
 
-* August 17-18, `Software Carpentry for Women in Science and Engineering <http://camillescott.github.io/2015-08-16-ucdavis-wise/>`__.
+* September 21-23, 2015: `iPlant Collaborative multiworkshop - introductory, intermediate, advanced, and Data Carpentry. <2015-09-iplant.html>`__
+
+* September 24-25, 2015: `Microbial genomics and transcriptomics hands-on. <2015-09-24-microbes.html>`__
+
+* December 7-8, 2015: `UCSC Genome Browser workshop <http://training.bioinformatics.ucdavis.edu/2015/07/14/ucsc-genome-browser-workshop-december-7-8-2015/>`__.
 
 Planned workshops
 -----------------
@@ -41,14 +45,11 @@ the workshops closer to the date.
 .. dec 3, 4 - metagenome assembly/foo
 .. oct 5-6 - workflow tracking, automation, and reproducibility hands-on
 
-* September 21-23: iPlant Collaborative hands-on `(sign up to be notified) <https://github.com/dib-lab/dib-training/issues/3>`__
-* September 24-25: Microbial genomics and transcriptomics hands-on.
 * September 28-29: mRNAseq intermediate workshop (invitation only).
 * October 19-20, 2015: mRNAseq analysis (topic TBD)
 * October 26-27, 2015: mRNAseq analysis (topic TBD)
 * November 9-10, 2015: Docker hands-on `(sign up to be notified) <https://github.com/dib-lab/dib-training/issues/1>`__
 * November 19-20: Advanced iPython Notebook/Project Jupyter `(sign up to be notified) <https://github.com/dib-lab/dib-training/issues/2>`__
-* December 7-8, 2015: `UCSC Genome Browser workshop <http://www.genome.ucsc.edu/training/index.html>`__.
 
 Workshop materials
 ------------------
@@ -62,6 +63,7 @@ available indefinitely.  Please feel free to send them on to others.
 Past Workshops
 --------------
 
+* August 17-18, `Software Carpentry for Women in Science and Engineering <http://camillescott.github.io/2015-08-16-ucdavis-wise/>`__.
 * July 6-7, 2015: `Software Carpentry <http://dib-lab.github.io/2015-07-06-ucdavis/>`__
 * April 21, 2015::doc:`2015-04-21-mothur` (intro, microbial)
 * May 4-5, 2015: :doc:`2015-05-04-mRNAseq-nonmodel` (mRNAseq, de novo, intro)
