@@ -149,10 +149,12 @@ Location: 2020 Valley
 
 Topics:
 
-* Intro to Agave
+* Intro to Agave and its CLI
 * Auth/Application management
-* Job management
-* Using Docker with iPlant
+* Data management 
+* Job and workflow management
+* Combining Docker with Agave
+* Integrating HPC and Cloud resources
 
 Who Should Attend?  This workshop is targeted at users (and those who
 manage data and compute for others) who wish to deploy scripts and
@@ -164,5 +166,5 @@ Computer and software requirements
 ----------------------------------
 
 These are hands on workshops, so please bring a network-enabled laptop and
-a power cord.
+a power cord. 
 
