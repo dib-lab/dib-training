@@ -49,8 +49,8 @@ We will be running four workshops on iPlant:
 * Introduction to iPlant, on Monday, Sep 21 - `click here to register <https://www.eventbrite.com/e/introduction-to-iplant-registration-18396355996>`__;
 * a `Genomics Data Carpentry <http://datacarpentry.github.io/lessons/>`__ on Tuesday and Wednesday, Sep 22-23 - `click here to register <https://www.eventbrite.com/e/doing-genomics-on-iplant-a-data-carpentry-workshop-registration-18396466326>`__;
 * an "iPlant Intermediate" workshop, on Tues, Sep 22 - `click here to register <https://www.eventbrite.com/e/iplant-for-advanced-users-registration-18396590698>`__;
-* an "iPlant Advanced" hackathon, on Wed, Sep 23
-
+* an "iPlant Advanced" hackathon, on Wed, Sep 23 - `click here to register <http://www.iplantcollaborative.org/content/advanced-iplant-workshophackathon-uc-davis-sep-23rd-2015>`__;
+* Livestream (online viewing) of iPlant Intro and Intermediate, Sep 21-22 - `click here to register <http://www.iplantcollaborative.org/content/livestream-registration-uc-davis-workshop-sep-21st-22nd-2015>`__;
 .. - `click here to register <@@>`__;
 
 (Each workshop is all day, every day, so please don't sign up for overlapping
