@@ -9,7 +9,7 @@ When: Sep 24 and 25, 2015
 
 Times: 9am-3pm on both days
 
-Where: Bennett Conference Room, CCAH Facility, UC Davis Campus
+Where: Bennett Conference Room, `CCAH Facility <http://campusmap.ucdavis.edu/?b=33>`__, UC Davis Campus
 
 Cost: there is no fee.
 
