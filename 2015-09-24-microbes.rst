@@ -21,8 +21,8 @@ affiliate.
 `> Register here < <https://www.eventbrite.com/e/microbial-genomics-registration-18399810328>`__
 ------------------------------------------------------------------------------------------------
 
-.. `> Materials link < <http://2015-may-nonmodel.readthedocs.org/en/latest/>`__
-.. --------------------------------------------------------------------------
+`> Materials link < <http://2015-sep-microbial.readthedocs.org/en/latest/>`__
+-----------------------------------------------------------------------------
 
 
 Description
