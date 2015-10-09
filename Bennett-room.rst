@@ -1,4 +1,4 @@
-Bennett Room 
+Bennett Room, Room 203
 ========================================================
 
 Center for Companion Animal Health
