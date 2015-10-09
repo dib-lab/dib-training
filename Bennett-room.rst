@@ -7,6 +7,7 @@ Davis, CA
 Coordinates: 38.531001, -121.763231
 
 Davis Campus Map `Here <http://campusmap.ucdavis.edu/?b=33>`__
+
 CCAH Building Website `Here <http://www.vetmed.ucdavis.edu/ccah/about_ccah/contact.cfm>`__
 
 
