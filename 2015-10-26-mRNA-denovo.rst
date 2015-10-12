@@ -1,4 +1,4 @@
-De Novo mRNAseq  
+De novo mRNAseq workshop
 ================================
 
 .. @add mailing list info
