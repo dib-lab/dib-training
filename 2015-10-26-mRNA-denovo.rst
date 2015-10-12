@@ -3,7 +3,7 @@ De novo mRNAseq workshop
 
 .. @add mailing list info
 
-Who: `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ (lead instructor); 
+Who: `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ (lead instructor)
 
 When: October 26 and 27, 2015
 
@@ -12,6 +12,8 @@ Times: 9am-4pm on both days
 Where: 1043 Valley Hall, UC Davis campus
 
 Cost: There is no fee. 
+
+Host: C. Titus Brown and Jessica Mizzi; contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
 This workshop is open to everyone, including graduate students,
 postdocs, staff, faculty, and community members.  We have extra space
