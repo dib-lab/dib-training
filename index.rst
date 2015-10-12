@@ -29,9 +29,9 @@ Upcoming Workshops and Dates
 
 Please click on the link for more information.
 
-* September 21-23, 2015: `iPlant Collaborative multiworkshop - introductory, intermediate, advanced, and Data Carpentry. <2015-09-iplant.html>`__
+* October 26-27, 2015: `De novo mRNA sequencing workshop. <2015-10-26-mRNA-denovo.html>`__
 
-* September 24-25, 2015: `Microbial genomics and transcriptomics hands-on. <2015-09-24-microbes.html>`__
+* November 2-3, 2015: `mRNA Sequencing Intermediate workshop. <2015-11-02-mRNAseq-intermediate.html>`__
 
 * December 7-8, 2015: `UCSC Genome Browser workshop <http://training.bioinformatics.ucdavis.edu/2015/07/14/ucsc-genome-browser-workshop-december-7-8-2015/>`__.
 
@@ -45,9 +45,6 @@ the workshops closer to the date.
 .. dec 3, 4 - metagenome assembly/foo
 .. oct 5-6 - workflow tracking, automation, and reproducibility hands-on
 
-* September 28-29: mRNAseq intermediate workshop (invitation only).
-* October 19-20, 2015: mRNAseq analysis (topic TBD)
-* October 26-27, 2015: mRNAseq analysis (topic TBD)
 * November 9-10, 2015: Docker hands-on `(sign up to be notified) <https://github.com/dib-lab/dib-training/issues/1>`__
 * November 19-20: Advanced iPython Notebook/Project Jupyter `(sign up to be notified) <https://github.com/dib-lab/dib-training/issues/2>`__
 
@@ -70,6 +67,9 @@ Past Workshops
 * March 4-5, 2015: :doc:`2015-03-04-mRNAseq-semimodel` (mRNAseq, ab initio, intro)
 * Feb 9-10, 2015: `Data Carpentry workshop <http://datacarpentry.github.io/2015-02-09-ucdavis/>`__ (data carpentry, intro)
 * Jan 6-8, 2015: `Software and Data Carpentry Instructor Training <http://ivory.idyll.org/blog/2014-davis-swc-training.html>`__ (instructor, t3)
+* September 21-23, 2015: `iPlant Collaborative multiworkshop - introductory, intermediate, advanced, and Data Carpentry. <2015-09-iplant.html>`__
+* September 24-25, 2015: `Microbial genomics and transcriptomics hands-on. <2015-09-24-microbes.html>`__
+
 
 Partners and Affiliates
 -----------------------
