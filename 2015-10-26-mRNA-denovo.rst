@@ -20,7 +20,7 @@ postdocs, staff, faculty, and community members.  We have extra space
 for UC Davis VetMed affiliates; contact the lead instructor if you are
 an SVM affiliate.
 
-`> Register here < <https://www.eventbrite.com/e/mrnaseq-workshop-non-model-organisms-registration-15909516793>`__
+`> Register here < <https://www.eventbrite.com/e/de-novo-mrna-seq-tickets-19046171612>`__
 ---------------------------------------------------------------------------------------------------------------
 
 .. `> Materials link < <http://2015-may-nonmodel.readthedocs.org/en/latest/>`__
