@@ -31,7 +31,7 @@ Please click on the link for more information.
 
 * October 26-27, 2015: `De novo mRNA sequencing workshop. <2015-10-26-mRNA-denovo.html>`__
 
-* November 2-3, 2015: `mRNA Sequencing Intermediate workshop. <2015-11-02-mRNAseq-intermediate.html>`__
+* November 2-3, 2015: `mRNA Sequencing Intermediate workshop (Invitation Only)`
 
 * December 7-8, 2015: `UCSC Genome Browser workshop <http://training.bioinformatics.ucdavis.edu/2015/07/14/ucsc-genome-browser-workshop-december-7-8-2015/>`__.
 
