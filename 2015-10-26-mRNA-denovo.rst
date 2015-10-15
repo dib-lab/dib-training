@@ -63,6 +63,11 @@ Schedule
 * Tuesday, noon-1pm: lunch
 * Tuesday, 1pm-4pm: quantification and differential expression analysis
 
+What we covered last time
+~~~~~~~~~~~~~~~~~~~~~~~~~
+* `mRNAseq on non-model systems <http://2015-may-nonmodel.readthedocs.org/en/dev/>`__ (last updated: May 2015)
+
+
 Computer requirements
 ~~~~~~~~~~~~~~~~~~~~~
 
