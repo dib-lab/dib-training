@@ -3,12 +3,7 @@ Intermediate mRNAseq
 
 .. @add mailing list info
 
-<<<<<<< HEAD
-Who: `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ (lead instructor); Tessa Pierce; Camille
-Scott; Tamer Mansour.
-=======
-Who: `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ (lead instructor)
->>>>>>> pub
+Who: `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ (lead instructor); Tessa Pierce; Camille Scott; Tamer Mansour.
 
 When: November 2 and 3, 2015
 
