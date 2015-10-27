@@ -8,7 +8,7 @@ any questions.
 
 When: Nov 9-10, 2015
 
-Times: 9:30am-4:30pm, both days; people are welcome to drop in when they can.
+Times: 9:15am-4:30pm, both days; people are welcome to drop in when they can.
 
 Where: TBD, but on UC Davis campus somewhere.
 
@@ -24,6 +24,13 @@ help us plan coffee as well.
 Materials and links from the workshop will be posted to `the
 workshop-specific Hackpad
 <https://hackpad.com/Notes-from-the-Docker-hands-on-Nov-9-10-2015-olJpjzy4jCj>`__.
+
+Schedule
+~~~~~~~~
+
+* Mon, 9:15am-noon: Docker overview and introduction. `Past workshop materials <http://angus.readthedocs.org/en/2015/week3/CTB_docker.html>`__
+
+* The rest of the workshop is unstructured, allowing people to drop in when they have time.  We will be covering the planned activities list above depending on the interests of people present.  Please come by if you are interested!
 
 Description
 -----------
@@ -74,14 +81,6 @@ Some reading:
 * `Integrating Containers into Workflows: A Case Study Using Makeflow, Work Queue, and Docker <http://ccl.cse.nd.edu/research/papers/wq-docker-vtdc15.pdf>`__, Zheng and Thain, 2015.
 
 * `Reproducibility in Science - Nextflow meets Docker <http://www.nextflow.io/blog/2014/nextflow-meets-docker.html>`__, Maria Chatzou, 2014.
-
-Schedule
-~~~~~~~~
-
-* Mon, 9:15am-noon: Docker overview and introduction. `Past workshop materials <http://angus.readthedocs.org/en/2015/week3/CTB_docker.html>`__
-
-* The rest of the workshop is unstructured, allowing people to drop in when they have time.  We will be covering the planned activities list above depending on the interests of people present.  Please come by if you are interested!
-
 
 Computer requirements
 ~~~~~~~~~~~~~~~~~~~~~
