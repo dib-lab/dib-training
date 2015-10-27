@@ -17,9 +17,9 @@ Cost: there is no fee.
 This workshop is open to everyone, including graduate students,
 postdocs, staff, faculty, and community members.
 
-Please `register here <https://www.eventbrite.com/e/docker-hands-on-tickets-19064340957>`__ if you're planning on attending any part
+Please `**REGISTER HERE** <https://www.eventbrite.com/e/docker-hands-on-tickets-19064340957>`__ if you're planning on attending any part
 of this workshop - there are space limits on the room, and this will
-help us plan.
+help us plan coffee as well.
 
 Materials and links from the workshop will be posted to `the
 workshop-specific Hackpad
@@ -41,7 +41,11 @@ have some familiarity with the UNIX command line.
 Planned activities:
 
 * Monday morning will start with an introduction to Docker, using the
-  Amazon cloud to provide a consistent computing environment.
+  Amazon cloud to provide a consistent computing environment.  We'll
+  probably use `this lesson
+  <http://angus.readthedocs.org/en/2015/week3/CTB_docker.html>`__. People
+  who can't make Monday morning can run through the tutorial on their
+  own, later, and we're happy to help!
 
 * We'll provide "challenge exercises" for people who want to play with Docker
   themselves.
