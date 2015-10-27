@@ -73,6 +73,8 @@ Some reading:
 
 * `Integrating Containers into Workflows: A Case Study Using Makeflow, Work Queue, and Docker <http://ccl.cse.nd.edu/research/papers/wq-docker-vtdc15.pdf>`__, Zheng and Thain, 2015.
 
+* `Reproducibility in Science - Nextflow meets Docker <http://www.nextflow.io/blog/2014/nextflow-meets-docker.html>`__, Maria Chatzou, 2014.
+
 Schedule
 ~~~~~~~~
 
