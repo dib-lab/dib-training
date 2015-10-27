@@ -1,0 +1,75 @@
+Docker hands-on, Nov 9-10, 2015 (intermediate)
+==============================================
+
+Host: `C. Titus Brown <mailto:ctbrown@ucdavis.edu>`__
+
+Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with
+any questions.
+
+When: Nov 9-10, 2015
+
+Times: 9:30am-4:30pm, both days; people are welcome to drop in when they can.
+
+Where: TBD, but on UC Davis campus somewhere.
+
+Cost: there is no fee.
+
+This workshop is open to everyone, including graduate students,
+postdocs, staff, faculty, and community members.
+
+Please `register here <@@>`__ if you're planning on attending any part
+of this workshop - there are space limits on the room, and this will
+help us plan.
+
+Materials and links from the workshop will be posted to `the
+workshop-specific Hackpad
+<https://hackpad.com/Notes-from-the-Docker-hands-on-Nov-9-10-2015-olJpjzy4jCj>`__.
+
+Description
+-----------
+
+This two-day workshop is for exploring the use of `Docker
+<http://www.docker.com>`__ containers for running, wrapping,
+distributing, and publishing scientific workflows.  Docker containers
+provide a lightweight computational framework for all of these things,
+and we intend that this workshop will provide a friendly and welcoming
+environment for trying it out.
+
+People new to docker are welcome to attend!  We do suggest that attendees
+have some familiarity with the UNIX command line.
+
+Planned activities:
+
+* Monday morning will start with an introduction to Docker, using the
+  Amazon cloud to provide a consistent computing environment.
+
+* We'll provide "challenge exercises" for people who want to play with Docker
+  themselves.
+
+* We're particularly interested in trying out `mybinder.org
+  <http://mybinder.org>`__, which takes a git repo and turns it into a
+  running data analysis environment.
+
+* We'd like to explore data volumes and the use of Docker for data-intensive
+  research.
+
+* We'd also like to gain some experience with people installing Docker
+  locally on their Windows and Mac laptops.
+
+* `Bioboxes <http://bioboxes.org/>`__ looks interesting and we'd love
+  to play with it!
+
+Some reading:
+
+* `An introduction to Docker for reproducible research <http://dl.acm.org/citation.cfm?doid=2723872.2723882>`__, Carl Boettiger, 2015.
+
+* `Bioboxes <http://www.gigasciencejournal.com/content/4/1/47>`__, Belmann et al., 2015.
+
+* `The impact of Docker containers on the performance of genomic pipelines <https://peerj.com/preprints/1171/>`__, Di Tommaso et al., 2015.
+
+Computer requirements
+~~~~~~~~~~~~~~~~~~~~~
+
+Attendees will need to bring a computer with a Web browser, an
+Internet connection, and an ssh client; Windows users should install
+`MobaXterm <http://mobaxterm.mobatek.net/>`__ before the workshop.
