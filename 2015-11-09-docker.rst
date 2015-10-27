@@ -33,7 +33,7 @@ Schedule
 * The rest of the workshop is unstructured, allowing people to drop in when they have time.  We will be covering the planned activities list above depending on the interests of people present.  Please come by if you are interested!
 
 Description
------------
+~~~~~~~~~~~
 
 This two-day workshop is for exploring the use of `Docker
 <http://www.docker.com>`__ containers for running, wrapping,
