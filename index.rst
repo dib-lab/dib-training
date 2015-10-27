@@ -31,6 +31,8 @@ Please click on the link for more information.
 
 * November 2-3, 2015: `mRNA Sequencing Intermediate workshop (Invitation Only)`
 
+* November 9-10, 2015: `Docker hands-on <http://dib-training.readthedocs.org/en/pub/2015-11-09-docker.html>`__
+
 * December 7-8, 2015: `UCSC Genome Browser workshop <http://training.bioinformatics.ucdavis.edu/2015/07/14/ucsc-genome-browser-workshop-december-7-8-2015/>`__.
 
 Planned workshops
@@ -43,7 +45,6 @@ the workshops closer to the date.
 .. dec 3, 4 - metagenome assembly/foo
 .. oct 5-6 - workflow tracking, automation, and reproducibility hands-on
 
-* November 9-10, 2015: Docker hands-on `(sign up to be notified) <https://github.com/dib-lab/dib-training/issues/1>`__
 * November 19-20: Advanced iPython Notebook/Project Jupyter `(sign up to be notified) <https://github.com/dib-lab/dib-training/issues/2>`__
 
 Workshop materials
