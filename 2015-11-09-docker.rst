@@ -17,7 +17,7 @@ Cost: there is no fee.
 This workshop is open to everyone, including graduate students,
 postdocs, staff, faculty, and community members.
 
-Please `register here <@@>`__ if you're planning on attending any part
+Please `register here <https://www.eventbrite.com/e/docker-hands-on-tickets-19064340957>`__ if you're planning on attending any part
 of this workshop - there are space limits on the room, and this will
 help us plan.
 
