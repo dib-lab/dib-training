@@ -13,6 +13,8 @@ Where: 1043 Valley Hall, UC Davis campus
 
 Cost: there is no fee.
 
+Host: C. Titus Brown and Jessica Mizzi; contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
+
 This workshop is open to everyone, including graduate students,
 postdocs, staff, faculty, and community members.  We have extra space
 for UC Davis VetMed affiliates; contact the lead instructor if you are
@@ -50,7 +52,7 @@ Schedule
 
 
 Computer and workshop requirements
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------
 
 Attendees will need to bring a computer with a Web browser, an
 Internet connection, and an ssh client; Windows users should install
@@ -59,7 +61,7 @@ Internet connection, and an ssh client; Windows users should install
 Please install Python 2.7 before the workshop by following the instructions below.
 
 Installation instructions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 Windows:
 
 Download and install.
