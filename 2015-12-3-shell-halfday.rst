@@ -55,7 +55,7 @@ Schedule
 
 
 Computer and workshop requirements
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------
 
 Attendees will need to bring a computer with a Web browser, an
 Internet connection, and an ssh client; Windows users should install
