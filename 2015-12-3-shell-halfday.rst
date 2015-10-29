@@ -70,16 +70,17 @@ Windows:
 
 1. Download the Git for Windows installer `here <https://git-for-windows.github.io/>`__.
 2. Follow install instructions.
- * Click "next"
- * Click "next"
- * Click "next"
- * Click "next"
- * Click "next"
- * Select **"Use Git from the Windows Command Prompt"** and click on "next".  If you forget to do this, re-run the installer and select the correct option.
- * Click "next", keep **"Checkout Windows-style, commit Unix-style line endings"** selected.
- * Select **"Use Windows' default console window"** and click on "next"
- * Click on "next"
- * Click on "finish"
+
+   * Click "next"
+   * Click "next"
+   * Click "next"
+   * Click "next"
+   * Click "next"
+   * Select **"Use Git from the Windows Command Prompt"** and click on "next".  If you forget to do this, re-run the installer and select the correct option.
+   * Click "next", keep **"Checkout Windows-style, commit Unix-style line endings"** selected.
+   * Select **"Use Windows' default console window"** and click on "next"
+   * Click on "next"
+  * Click on "finish"
 
 OSX:
 
