@@ -26,14 +26,14 @@ an SVM affiliate.
 .. `> Register here < <https://www.eventbrite.com/e/shell-half-day-workshop-tickets-19301439124>`__
 .. ---------------------------------------------------------------------------------------------------------------
 
-`> Materials link < <http://2015-mar-semimodel.readthedocs.org/en/latest/>`__
+`> Reference Materials link < <http://swcarpentry.github.io//shell-novice/reference.html>`__
 ---------------------------------------------------------------------------
 
 Description
 -----------
 
-This half day workshop will introduce biologists to the UNIX shell.  The shell is a very powerful tool for 
-using bioinformatics software and working with large data sets.
+This half day workshop will introduce biologists to the bash shell.  The shell is a very powerful tool for 
+using bioinformatics software and working with large data sets.  It is primarily used to read commands and run other programs.  It is a very powerful tool for using bioinformatics and working with large datasets, and it allows for automation of repetitive tasks.
 
 Topics overview
 ~~~~~~~~~~~~~~~
@@ -41,6 +41,7 @@ Topics overview
 * Introduction to the UNIX shell
 * Navigating the shell
 * Managing and manipulating files
+* Loops and Scripts
 
 
 The materials for this workshop are available indefinitely
@@ -49,17 +50,9 @@ The materials for this workshop are available indefinitely
 Schedule
 ~~~~~~~~
 
-* 9am-10:30a: Introduction, navigation 
+* 9am-10:30a: Introduction, navigation, file manipulation 
 * 10:30a: Coffee break
-* 10:45a-12:00p: File manipulation
-
-
-Computer and workshop requirements
-----------------------------------
-
-Attendees will need to bring a computer with a Web browser, an
-Internet connection, and an ssh client; Windows users should install
-`MobaXterm <http://mobaxterm.mobatek.net/>`__ before the workshop.
+* 10:45a-12:00p: Loops and scripts
 
 Installation instructions
 -------------------------
