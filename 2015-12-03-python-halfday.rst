@@ -62,11 +62,20 @@ Please install Python 2.7 before the workshop by following the instructions belo
 
 Installation instructions
 -------------------------
+
+`Python <https://www.python.org/>`__ is a very powerful programming language.  For this workshop, we will be working with Python 3.  In order to avoid downloading all of its scientific packages individually, we will use `Anaconda <https://www.continuum.io/why-anaconda>`__ as an all-in-one installer.
+
 Windows:
 
-Download and install.
+1. Go to `https://www.continuum.io/downloads <https://www.continuum.io/downloads>`__.
+2. Download Python 3.x (3.4 is fine) 64-bit graphical installer for Windows, *not* Python 2.7.
+3. Install Python 3.x using all defaults *except* make sure to check **Make Anaconda the default Python**.
 
 OSX:
 
-Download and install.
+1. Go to `https://www.continuum.io/downloads <https://www.continuum.io/downloads>`__.
+2. Download Python 3.x (3.4 is fine) 64-bit graphical installer for OS X, *not* Python 2.7.
+3. Install Python 3.x using all defaults.
+
+Once installation is complete, please go to `this page <http://bids.github.io/2016-01-14-berkeley/setup/index.html>`__ to test that Python has installed correctly.  If you do not have bash installed, please refer to the installation instructions at the bottom of `this page <http://dib-training.readthedocs.org/en/pub/2015-12-03-shell-halfday.html>`__.
 
