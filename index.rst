@@ -24,6 +24,8 @@ If you want to be notified of new workshops you can sign up for the
 <http://lists.idyll.org/listinfo/dib-training>`__; workshops are
 generally announced there first.
 
+Additionally, you can see our Google Calendar containing all of our workshops `here <https://calendar.google.com/calendar/embed?src=mqcgc13fqifh9ocb7l8novguik%40group.calendar.google.com&ctz=America/Los_Angeles>`__.
+
 Upcoming Workshops and Dates
 ----------------------------
 
