@@ -82,7 +82,7 @@ Windows:
    * Click on "next"
    * Click on "finish"
 
-OSX:
+Mac OS X:
 
 The default shell in Mac OS X is bash, so you can access the Terminal from /Applications/Utilities (go to your Applications folder, then go to the Utilities window.  You should see "Terminal" there)
 
