@@ -80,7 +80,7 @@ Windows:
    * Click "next", keep **"Checkout Windows-style, commit Unix-style line endings"** selected.
    * Select **"Use Windows' default console window"** and click on "next"
    * Click on "next"
-  * Click on "finish"
+   * Click on "finish"
 
 OSX:
 
