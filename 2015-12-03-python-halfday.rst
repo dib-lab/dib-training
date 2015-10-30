@@ -26,18 +26,21 @@ an SVM affiliate.
 .. `> Register here < <https://www.eventbrite.com/e/python-half-day-workshop-tickets-19300862399>`__
 .. ---------------------------------------------------------------------------------------------------------------
 
-`> Materials link < <http://2015-mar-semimodel.readthedocs.org/en/latest/>`__
+..`> Materials link < <make materials then put link here>`__
 ---------------------------------------------------------------------------
 
 Description
 -----------
 
-This half day workshop will introduce biologists to working in Python (2.7? or 3?).
+This half day workshop will introduce biologists to working in Python 3.  Python is a very powerful tool for scientific computing and we hope to give you some experience working with it.  We will be covering the basics, and fundamental concepts such as loops, creating functions, and debugging.
 
 Topics overview
 ~~~~~~~~~~~~~~~
 
+* Introduction to python
 * Data analysis using python
+* Loops and functions
+* Trouble shooting
 
 
 The materials for this workshop are available indefinitely
