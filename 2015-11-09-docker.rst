@@ -28,7 +28,7 @@ workshop-specific Hackpad
 Schedule
 ~~~~~~~~
 
-* Mon, 9:15am-noon: Docker overview and introduction. `Past workshop materials <http://angus.readthedocs.org/en/2015/week3/CTB_docker.html>`__
+* Monday, 9:15am-noon: Docker overview and introduction. `Past workshop materials <http://angus.readthedocs.org/en/2015/week3/CTB_docker.html>`__
 
 * Monday, 1:30pm-3pm: Introduction to bioboxes.  Michael Barton will walk us
   through `the bioboxes ecosystem <http://bioboxes.org/>`__.
