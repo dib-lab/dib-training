@@ -30,6 +30,9 @@ Schedule
 
 * Mon, 9:15am-noon: Docker overview and introduction. `Past workshop materials <http://angus.readthedocs.org/en/2015/week3/CTB_docker.html>`__
 
+* Monday, 1:30pm-3pm: Introduction to bioboxes.  Michael Barton will walk us
+  through `the bioboxes ecosystem <http://bioboxes.org/>`__.
+
 * The rest of the workshop is unstructured, allowing people to drop in when they have time.  We will be covering the planned activities list above depending on the interests of people present.  Please come by if you are interested!
 
 Description
@@ -67,8 +70,10 @@ Planned activities:
 * We'd also like to gain some experience with people installing Docker
   locally on their Windows and Mac laptops.
 
-* `Bioboxes <http://bioboxes.org/>`__ looks interesting and we'd love
+* `Bioboxes <http://bioboxes.org/>`__ looks interesting and we plan
   to play with it!
+
+* Note this `simultaneous workshop in England, the "Bio in Docker" workshop! <https://github.com/KHP-Informatics/bioindocker15/blob/master/README.md>`__
 
 Some reading:
 
