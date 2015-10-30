@@ -26,8 +26,8 @@ an SVM affiliate.
 .. `> Register here < <https://www.eventbrite.com/e/python-half-day-workshop-tickets-19300862399>`__
 .. ---------------------------------------------------------------------------------------------------------------
 
-..`> Materials link < <make materials then put link here>`__
----------------------------------------------------------------------------
+.. `> Materials link < <make materials then put link here>`__
+.. -------------------------------------------------------------------------
 
 Description
 -----------
