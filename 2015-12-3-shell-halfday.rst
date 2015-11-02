@@ -26,14 +26,14 @@ an SVM affiliate.
 .. `> Register here < <https://www.eventbrite.com/e/shell-half-day-workshop-tickets-19301439124>`__
 .. ---------------------------------------------------------------------------------------------------------------
 
-`> Reference Materials link < <http://swcarpentry.github.io//shell-novice/reference.html>`__
----------------------------------------------------------------------------
+.. `> Reference Materials link < <http://swcarpentry.github.io//shell-novice/reference.html>`__
+.. ---------------------------------------------------------------------------
 
 Description
 -----------
 
-This half day workshop will introduce biologists to the bash shell.  The shell is a very powerful tool for 
-using bioinformatics software and working with large data sets.  It is primarily used to read commands and run other programs.  It is a very powerful tool for using bioinformatics and working with large datasets, and it allows for automation of repetitive tasks.
+This half day workshop will provide an introduction to the bash shell.  The shell is a very powerful tool for 
+using bioinformatics software and working with large data sets.  It is primarily used to read commands and run other programs, and it allows for automation of repetitive tasks.
 
 Topics overview
 ~~~~~~~~~~~~~~~
@@ -44,8 +44,8 @@ Topics overview
 * Loops and Scripts
 
 
-The materials for this workshop are available indefinitely
-`here <http://2015-mar-semimodel.readthedocs.org/en/latest/>`__.
+.. The materials for this workshop are available indefinitely
+.. `here <http://2015-mar-semimodel.readthedocs.org/en/latest/>`__.
 
 Schedule
 ~~~~~~~~
