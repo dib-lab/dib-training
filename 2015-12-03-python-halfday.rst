@@ -32,7 +32,7 @@ an SVM affiliate.
 Description
 -----------
 
-This half day workshop will introduce biologists to working in Python 3.  Python is a very powerful tool for scientific computing and we hope to give you some experience working with it.  We will be covering the basics, and fundamental concepts such as loops, creating functions, and debugging.
+This half day workshop will introduce biologists to working in Python 3.  Python is a very powerful tool for scientific computing and this workshop will give you some exposure to it.  We will be covering the basics, including fundamental concepts such as loops, creating functions, and debugging.  Some experience working with python scripts is recommended.
 
 Topics overview
 ~~~~~~~~~~~~~~~
@@ -43,8 +43,8 @@ Topics overview
 * Trouble shooting
 
 
-The materials for this workshop are available indefinitely
-`here <http://2015-mar-semimodel.readthedocs.org/en/latest/>`__.
+.. The materials for this workshop are available indefinitely
+.. `here <http://2015-mar-semimodel.readthedocs.org/en/latest/>`__.
 
 Schedule
 ~~~~~~~~
@@ -61,7 +61,7 @@ Attendees will need to bring a computer with a Web browser, an
 Internet connection, and an ssh client; Windows users should install
 `MobaXterm <http://mobaxterm.mobatek.net/>`__ before the workshop.
 
-Please install Python 2.7 before the workshop by following the instructions below.
+Please install Python 3.x before the workshop by following the instructions below.
 
 Installation instructions
 -------------------------
@@ -74,7 +74,7 @@ Windows:
 2. Download Python 3.x (3.4 is fine) 64-bit graphical installer for Windows, *not* Python 2.7.
 3. Install Python 3.x using all defaults *except* make sure to check **Make Anaconda the default Python**.
 
-OSX:
+OS X:
 
 1. Go to `https://www.continuum.io/downloads <https://www.continuum.io/downloads>`__.
 2. Download Python 3.x (3.4 is fine) 64-bit graphical installer for OS X, *not* Python 2.7.
