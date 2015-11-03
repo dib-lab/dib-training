@@ -13,6 +13,8 @@ Where: TBD, UC Davis campus.
 
 Cost: there is no fee.
 
+Host: C. Titus Brown and Jessica Mizzi; contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
+
 This workshop is open to everyone, including graduate students,
 postdocs, staff, faculty, and community members.  We have extra space
 for UC Davis VetMed affiliates; contact the lead instructor if you are
