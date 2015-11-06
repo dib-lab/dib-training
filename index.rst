@@ -33,7 +33,7 @@ Please click on the link for more information.
 
 * November 9-10, 2015: `Docker hands-on <http://dib-training.readthedocs.org/en/pub/2015-11-09-docker.html>`__
 
-* November 19-20: `Advanced iPython Notebook/Project Jupyter <http://dib-training.readthedocs.org/en/pub/2015-11-19-ipython-jupyter.html>`__
+* November 19-20: `Advanced IPython Notebook/Project Jupyter <http://dib-training.readthedocs.org/en/pub/2015-11-19-ipython-jupyter.html>`__
 
 * December 3, 2015: Half Day Shell Workshop
 
