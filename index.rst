@@ -31,23 +31,22 @@ Upcoming Workshops and Dates
 
 Please click on the link for more information.
 
-* November 2-3, 2015: `mRNA Sequencing Intermediate workshop (Invitation Only)`
-
 * November 9-10, 2015: `Docker hands-on <http://dib-training.readthedocs.org/en/pub/2015-11-09-docker.html>`__
+
+* November 19-20: `Advanced iPython Notebook/Project Jupyter <http://dib-training.readthedocs.org/en/pub/2015-11-19-ipython-jupyter.html>`__
 
 * December 7-8, 2015: `UCSC Genome Browser workshop <http://training.bioinformatics.ucdavis.edu/2015/07/14/ucsc-genome-browser-workshop-december-7-8-2015/>`__.
 
-Planned workshops
------------------
+.. Planned workshops
+.. -----------------
 
-These are tentative dates and topics; we will post details about
-the workshops closer to the date.  
+.. These are tentative dates and topics; we will post details about
+.. the workshops closer to the date.  
 
 .. nov 9, 10 - microbial genomics, transcriptomics
 .. dec 3, 4 - metagenome assembly/foo
 .. oct 5-6 - workflow tracking, automation, and reproducibility hands-on
 
-* November 19-20: Advanced iPython Notebook/Project Jupyter `(sign up to be notified) <https://github.com/dib-lab/dib-training/issues/2>`__
 
 Workshop materials
 ------------------
@@ -70,6 +69,7 @@ Past Workshops
 * Jan 6-8, 2015: `Software and Data Carpentry Instructor Training <http://ivory.idyll.org/blog/2014-davis-swc-training.html>`__ (instructor, t3)
 * September 21-23, 2015: `iPlant Collaborative multiworkshop - introductory, intermediate, advanced, and Data Carpentry. <2015-09-iplant.html>`__
 * September 24-25, 2015: `Microbial genomics and transcriptomics hands-on. <2015-09-24-microbes.html>`__
+* November 2-3, 2015: `mRNA Sequencing Intermediate workshop (Invitation Only)`
 
 
 Partners and Affiliates
