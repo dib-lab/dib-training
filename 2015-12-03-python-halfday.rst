@@ -7,7 +7,7 @@ Who: `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ (lead instructor)
 
 When: December 3, 2015
 
-Times: 2pm-5pm on both days
+Times: 2pm-5pm.
 
 Where: 1043 Valley Hall, UC Davis campus
 
