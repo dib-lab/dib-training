@@ -35,6 +35,10 @@ Please click on the link for more information.
 
 * November 19-20: `Advanced iPython Notebook/Project Jupyter <http://dib-training.readthedocs.org/en/pub/2015-11-19-ipython-jupyter.html>`__
 
+* December 3, 2015: Half Day Shell Workshop
+
+* December 3, 2015: Half Day Python Workshop
+
 * December 7-8, 2015: `UCSC Genome Browser workshop <http://training.bioinformatics.ucdavis.edu/2015/07/14/ucsc-genome-browser-workshop-december-7-8-2015/>`__.
 
 .. Planned workshops
