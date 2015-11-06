@@ -17,7 +17,7 @@ Host: C. Titus Brown and Jessica Mizzi; contact `Jessica Mizzi <mailto:jessica.m
 
 This workshop is open to everyone, including graduate students,
 postdocs, staff, faculty, and community members.  We have extra space
-for UC Davis VetMed affiliates; contact the lead instructor if you are
+for UC Davis VetMed affiliates; contact the `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ if you are
 an SVM affiliate.
 
 `> Register here < <https://www.eventbrite.com/e/ipython-tickets-19064670944>`__
