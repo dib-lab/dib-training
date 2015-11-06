@@ -32,9 +32,9 @@ Description
 -----------
 
 This two-day hands-on workshop will introduce biologists to `Project
-Jupyter <http://jupyter.org/>`__ (formerly IPython Notebook).  We will
-assume some minimal experience with Python, but no previous experience
-with Project Jupyter is required.
+Jupyter <http://jupyter.org/>`__ (formerly IPython Notebook).  We will 
+assume some minimal experience with Python, but people new to IPython 
+Notebook/Project Jupyter are welcome to attend!
 
 Project Jupyter is a literate data analysis environment (similar to
 knitr and Shiny) that supports over 40 different programming
