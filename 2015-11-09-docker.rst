@@ -51,11 +51,11 @@ have some familiarity with the UNIX command line.
 Planned activities:
 
 * Monday morning will start with an introduction to Docker, using the
-  Amazon cloud to provide a consistent computing environment.  We'll
-  probably use `this lesson
-  <http://angus.readthedocs.org/en/2015/week3/CTB_docker.html>`__. People
-  who can't make Monday morning can run through the tutorial on their
-  own, later, and we're happy to help!
+  Amazon cloud to provide a consistent computing environment.  You can
+  find `the lesson we'll use, here
+  <https://github.com/ngs-docs/2015-nov-docker/blob/master/docker-intro.rst>`__.
+  People who can't make Monday morning can run through the tutorial on
+  their own, later, and we're happy to help!
 
 * We'll provide "challenge exercises" for people who want to play with Docker
   themselves.
