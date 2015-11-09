@@ -17,7 +17,7 @@ Host: C. Titus Brown and Jessica Mizzi; contact `Jessica Mizzi <mailto:jessica.m
 
 This workshop is open to everyone, including graduate students,
 postdocs, staff, faculty, and community members.  We have extra space
-for UC Davis VetMed affiliates; contact the lead instructor if you are
+for UC Davis VetMed affiliates; contact the `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ if you are
 an SVM affiliate.
 
 `> Register here < <https://www.eventbrite.com/e/ipython-tickets-19064670944>`__
@@ -32,9 +32,9 @@ Description
 -----------
 
 This two-day hands-on workshop will introduce biologists to `Project
-Jupyter <http://jupyter.org/>`__ (formerly IPython Notebook).  We will
-assume some minimal experience with Python, but no previous experience
-with Project Jupyter is required.
+Jupyter <http://jupyter.org/>`__ (formerly IPython Notebook).  We will 
+assume some minimal experience with Python, but people new to IPython 
+Notebook/Project Jupyter are welcome to attend!
 
 Project Jupyter is a literate data analysis environment (similar to
 knitr and Shiny) that supports over 40 different programming
