@@ -31,8 +31,6 @@ Upcoming Workshops and Dates
 
 Please click on the link for more information.
 
-* November 9-10, 2015: `Docker hands-on <http://dib-training.readthedocs.org/en/pub/2015-11-09-docker.html>`__
-
 * November 19-20: `Advanced IPython Notebook/Project Jupyter <http://dib-training.readthedocs.org/en/pub/2015-11-19-ipython-jupyter.html>`__
 
 * December 3, 2015: Half Day Shell Workshop
@@ -64,16 +62,17 @@ available indefinitely.  Please feel free to send them on to others.
 Past Workshops
 --------------
 
+* November 9-10, 2015: `Docker hands-on <http://dib-training.readthedocs.org/en/pub/2015-11-09-docker.html>`__
+* November 2-3, 2015: `mRNA Sequencing Intermediate workshop (Invitation Only)`
+* September 24-25, 2015: `Microbial genomics and transcriptomics hands-on. <2015-09-24-microbes.html>`__
+* September 21-23, 2015: `iPlant Collaborative multiworkshop - introductory, intermediate, advanced, and Data Carpentry. <2015-09-iplant.html>`__
 * August 17-18, `Software Carpentry for Women in Science and Engineering <http://camillescott.github.io/2015-08-16-ucdavis-wise/>`__.
 * July 6-7, 2015: `Software Carpentry <http://dib-lab.github.io/2015-07-06-ucdavis/>`__
-* April 21, 2015::doc:`2015-04-21-mothur` (intro, microbial)
 * May 4-5, 2015: :doc:`2015-05-04-mRNAseq-nonmodel` (mRNAseq, de novo, intro)
+* April 21, 2015::doc:`2015-04-21-mothur` (intro, microbial)
 * March 4-5, 2015: :doc:`2015-03-04-mRNAseq-semimodel` (mRNAseq, ab initio, intro)
-* Feb 9-10, 2015: `Data Carpentry workshop <http://datacarpentry.github.io/2015-02-09-ucdavis/>`__ (data carpentry, intro)
-* Jan 6-8, 2015: `Software and Data Carpentry Instructor Training <http://ivory.idyll.org/blog/2014-davis-swc-training.html>`__ (instructor, t3)
-* September 21-23, 2015: `iPlant Collaborative multiworkshop - introductory, intermediate, advanced, and Data Carpentry. <2015-09-iplant.html>`__
-* September 24-25, 2015: `Microbial genomics and transcriptomics hands-on. <2015-09-24-microbes.html>`__
-* November 2-3, 2015: `mRNA Sequencing Intermediate workshop (Invitation Only)`
+* February 9-10, 2015: `Data Carpentry workshop <http://datacarpentry.github.io/2015-02-09-ucdavis/>`__ (data carpentry, intro)
+* January 6-8, 2015: `Software and Data Carpentry Instructor Training <http://ivory.idyll.org/blog/2014-davis-swc-training.html>`__ (instructor, t3)
 
 
 Partners and Affiliates
