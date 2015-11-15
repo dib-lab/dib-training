@@ -1,0 +1,45 @@
+d3.js for interactive data visualization
+========================================
+
+Who: `Emily Dolson <http://cse.msu.edu/~dolsonem/>`__, lead instructor.
+
+When: December 4, 2015
+
+Times: 12:15-3:15pm EST / 9:15am-12:15pm PST
+
+Where: Online / Michigan State U. / UC Davis / others.
+
+Cost: There is no fee.
+
+Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
+
+This workshop is open to everyone via YouTube.  We will have several in-person
+locations at Michigan State, UC Davis, and elsewhere; see below for details.
+
+Workshop description:
+
+Want to make pretty, dynamic, and interactive data visualizations like
+http://charts.animateddata.co.uk/ukwind/ and
+http://mbostock.github.io/d3/talk/20111116/iris-splom.html? D3 (which
+stands for Data Driven Documents) is a Javascript library that enables
+you to display data in a flexible way. Since it's a Javascript
+library, these visualizations can easily be shared either offline or
+via the internet. The option to add interactive elements to your
+visualization lends itself to making your data easy for others to
+explore. We'll be running a 3-hour workshop at [LOCAL TIME] in
+[LOCATION] covering the basics of using d3.js to visualize data. No
+prior web programming experience required (we'll teach you the
+necessary Javascript and html), but this workshop is aimed at people
+who already feel comfortable programming in at least one language.
+
+Locations
+---------
+
+The workshop will be livestreamed via Google Hangouts to YouTube.  In
+addition, we will be offering four in-person classrooms at Michigan State
+University (East Lansing, MI); UC Davis (Davis, CA); and two additional
+locations.
+
+Michigan State University: location/registration info.
+
+UC Davis: location/registration info.
