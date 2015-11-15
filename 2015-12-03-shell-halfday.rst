@@ -1,13 +1,11 @@
 Shell Half Day Workshop 
-================================
-
-.. @add mailing list info
+=======================
 
 Who: `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ (lead instructor)
 
 When: December 3, 2015
 
-Times: 9am-12pm
+Times: 9am-12:15pm
 
 Where: 1043 Valley Hall, UC Davis campus
 
@@ -32,17 +30,18 @@ an SVM affiliate.
 Description
 -----------
 
-This half day workshop will provide an introduction to the bash shell.  The shell is a very powerful tool for 
-using bioinformatics software and working with large data sets.  It is primarily used to read commands and run other programs, and it allows for automation of repetitive tasks.
+This half day workshop will provide an introduction to the bash shell.
+The shell is a very powerful tool for using scientific software and
+working with large data sets.  It is primarily used to manage files
+and run programs, and it allows for automation of repetitive tasks.
 
 Topics overview
 ~~~~~~~~~~~~~~~
 
 * Introduction to the UNIX shell
-* Navigating the shell
+* Navigating the filesystem
 * Managing and manipulating files
 * Loops and Scripts
-
 
 .. The materials for this workshop are available indefinitely
 .. `here <http://2015-mar-semimodel.readthedocs.org/en/latest/>`__.
@@ -52,7 +51,7 @@ Schedule
 
 * 9am-10:30a: Introduction, navigation, file manipulation 
 * 10:30a: Coffee break
-* 10:45a-12:00p: Loops and scripts
+* 10:45a-12:15p: Loops and scripts
 
 Installation instructions
 -------------------------
@@ -78,4 +77,3 @@ Windows:
 Mac OS X:
 
 The default shell in Mac OS X is bash, so you can access the Terminal from /Applications/Utilities (go to your Applications folder, then go to the Utilities window.  You should see "Terminal" there)
-
