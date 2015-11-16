@@ -21,8 +21,8 @@ an SVM affiliate.
 .. (These spaces will be released to the wait list
    on Thursday, February 26th.)
 
-.. `> Register here < <https://www.eventbrite.com/e/shell-half-day-workshop-tickets-19301439124>`__
-.. ---------------------------------------------------------------------------------------------------------------
+`> Register here < <https://www.eventbrite.com/e/shell-half-day-workshop-tickets-19301439124>`__
+---------------------------------------------------------------------------------------------------------------
 
 .. `> Reference Materials link < <http://swcarpentry.github.io//shell-novice/reference.html>`__
 .. ---------------------------------------------------------------------------
