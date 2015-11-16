@@ -33,11 +33,11 @@ Please click on the link for more information.
 
 * November 19-20: `Advanced IPython Notebook/Project Jupyter <http://dib-training.readthedocs.org/en/pub/2015-11-19-ipython-jupyter.html>`__
 
-* December 3, 2015: Half Day Shell Workshop
+* December 3, 2015: `Half Day Shell Workshop <http://dib-training.readthedocs.org/en/pub/2015-12-03-shell-halfday.html>`__
 
-* December 3, 2015: Half Day Python Workshop
+* December 3, 2015: `Half Day Python Workshop <http://dib-training.readthedocs.org/en/pub/2015-12-03-python-halfday.html>`__
 
-* December 7-8, 2015: `UCSC Genome Browser workshop <http://training.bioinformatics.ucdavis.edu/2015/07/14/ucsc-genome-browser-workshop-december-7-8-2015/>`__.
+* December 7-8, 2015: `UCSC Genome Browser workshop <http://training.bioinformatics.ucdavis.edu/2015/07/14/ucsc-genome-browser-workshop-december-7-8-2015/>`__
 
 .. Planned workshops
 .. -----------------
