@@ -26,8 +26,8 @@ you to display data in a flexible way. Since it's a Javascript
 library, these visualizations can easily be shared either offline or
 via the internet. The option to add interactive elements to your
 visualization lends itself to making your data easy for others to
-explore. We'll be running a 3-hour workshop at [LOCAL TIME] in
-[LOCATION] covering the basics of using d3.js to visualize data. No
+explore. We'll be running a 3-hour workshop covering the basics of 
+using d3.js to visualize data. No
 prior web programming experience required (we'll teach you the
 necessary Javascript and html), but this workshop is aimed at people
 who already feel comfortable programming in at least one language.
