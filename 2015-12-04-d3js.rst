@@ -1,4 +1,4 @@
-d3.js for interactive data visualization
+d3.js for Interactive Data Visualization
 ========================================
 
 Who: `Emily Dolson <http://cse.msu.edu/~dolsonem/>`__, lead instructor.
@@ -15,6 +15,9 @@ Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with 
 
 This workshop is open to everyone via YouTube.  We will have several in-person
 locations at Michigan State, UC Davis, and elsewhere; see below for details.
+
+`> Register here < <https://www.eventbrite.com/e/d3js-for-interactive-data-visualization-tickets-19606308998>`__
+---------------------------------------------------------------------------------------------------------------
 
 Workshop description:
 
