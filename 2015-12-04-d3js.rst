@@ -1,4 +1,4 @@
-d3.js for interactive data visualization
+d3.js for Interactive Data Visualization
 ========================================
 
 Who: `Emily Dolson <http://cse.msu.edu/~dolsonem/>`__, lead instructor.
@@ -16,6 +16,9 @@ Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with 
 This workshop is open to everyone via YouTube.  We will have several in-person
 locations at Michigan State, UC Davis, and elsewhere; see below for details.
 
+`> Register here < <https://www.eventbrite.com/e/d3js-for-interactive-data-visualization-tickets-19606308998>`__
+---------------------------------------------------------------------------------------------------------------
+
 Workshop description:
 
 Want to make pretty, dynamic, and interactive data visualizations like
@@ -26,8 +29,8 @@ you to display data in a flexible way. Since it's a Javascript
 library, these visualizations can easily be shared either offline or
 via the internet. The option to add interactive elements to your
 visualization lends itself to making your data easy for others to
-explore. We'll be running a 3-hour workshop at [LOCAL TIME] in
-[LOCATION] covering the basics of using d3.js to visualize data. No
+explore. We'll be running a 3-hour workshop covering the basics of 
+using d3.js to visualize data. No
 prior web programming experience required (we'll teach you the
 necessary Javascript and html), but this workshop is aimed at people
 who already feel comfortable programming in at least one language.
