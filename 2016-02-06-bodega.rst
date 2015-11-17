@@ -30,12 +30,12 @@ and it went pretty `well <http://ivory.idyll.org/blog/2015-small-batch.html>`__.
 Instructors and Topics overview
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Jon Badalamenti, University of Minnesota
+`Jon Badalamenti <http://www.researchgate.net/profile/Jonathan_Badalamenti>`__, University of Minnesota
 
 * Using BioPython to prepare genomes for GeneBank Submissions
 * Running Prokka annotation, converting .gbk to .tkl NCBI format
 
-Jason Williams, Cold Spring Harbor Laboratory
+`Jason Williams <https://www.dnalc.org/about/staff/williams.html>`__, Cold Spring Harbor Laboratory
 
 * Exploring nanopore sequencing in the classroom
 * Developing bioinformatics course based research experiences
@@ -48,8 +48,7 @@ University of Oxford
 `Chris Holdgraf <http://chrisholdgraf.com/>`__, UC Berkeley
 
 * Statistical analysis in neuroscience in Python
-* Ranges from basics (t-tests) to intermediate (permutations tests) 
-to advanced (machine learning)
+* Ranges from basics (t-tests) to intermediate (permutations tests) to advanced (machine learning)
 
 `Byron Smith <http://blog.byronjsmith.com/>`__, University of Michigan
 
@@ -76,7 +75,7 @@ Argonne National Lab
 
 `Kevin Murray <http://www.kdmurray.id.au/>`__, Austrailian National University
 
-* Genotyping by Sequencing (GBS) bioinformatics `pipeline <http://www.maizegenetics.net/#!genotyping-by-sequencing-gbs/c9c6>`
+* Genotyping by Sequencing (GBS) bioinformatics `pipeline <http://www.maizegenetics.net/#!genotyping-by-sequencing-gbs/c9c6>`__
 
 `Raniere Silva <http://rgaiacs.com/>`__ .. I think he has no academic affiliation atm bc he just graduated
 
@@ -92,4 +91,4 @@ Will Pitchers, Michigan State University
 
 Jinlyung Choi, Iowa State University
 
-* RefSoil and building, but maybe not since this is not only for metagenomics folk
+* RefSoil and building, (but maybe not since this is not only for metagenomics folk)
