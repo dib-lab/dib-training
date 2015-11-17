@@ -82,3 +82,14 @@ Argonne National Lab
 
 * More advanced Git actions, inlcuding tag and rereleases on GitHub, rebasing, and bisect.
 
+`Amanda Charbonneau <http://figshare.com/authors/Amanda_Charbonneau/446056>`__, Michigan State University
+
+* interested in teaching something, hasn't yet provided topics
+
+Will Pitchers, Michigan State University
+
+* interested in teaching something if not deported first
+
+Jinlyung Choi, Iowa State University
+
+* RefSoil and building, but maybe not since this is not only for metagenomics folk
