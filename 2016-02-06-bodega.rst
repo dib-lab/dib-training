@@ -1,0 +1,84 @@
+Intermediate/Advanced Bioinformatics Training 
+================================
+
+.. @add mailing list info
+
+Who: `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ (lead instructor);
+and many others (see below).
+
+When: February 6 through 12, 2016
+
+Where: `Bodega Marine Lab <http://bml.ucdavis.edu/>`__ at Bodega Bay
+
+Cost: TBD, but reasonable
+
+
+.. `> Register here < <insert reg link here>`__
+.. ---------------------------------------------------------------------------------------------------------------
+
+.. `> Materials link < <insert materials link>`__
+.. ---------------------------------------------------------------------------
+
+Description
+-----------
+
+We will be running a week-long set of Carpentry-style tutorials on intermediate
+to advanced genomics techniques from Feb 6-12, 2016, at the Bodega Marine Lab.  
+We've done this `before <http://angus.readthedocs.org/en/2015/week3.html>`__ 
+and it went pretty `well <http://ivory.idyll.org/blog/2015-small-batch.html>`__.
+
+Instructors and Topics overview
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Jon Badalamenti, University of Minnesota
+
+* Using BioPython to prepare genomes for GeneBank Submissions
+* Running Prokka annotation, converting .gbk to .tkl NCBI format
+
+Jason Williams, Cold Spring Harbor Laboratory
+
+* Exploring nanopore sequencing in the classroom
+* Developing bioinformatics course based research experiences
+
+`Jane Charlesworth <http://software.ac.uk/fellows/jane-charlesworth>`__, 
+University of Oxford
+
+* GWAS bacterial pipeline, focusing on SNPs, gene presence or absense, and khmer variation
+
+`Chris Holdgraf <http://chrisholdgraf.com/>`__, UC Berkeley
+
+* Statistical analysis in neuroscience in Python
+* Ranges from basics (t-tests) to intermediate (permutations tests) 
+to advanced (machine learning)
+
+`Byron Smith <http://blog.byronjsmith.com/>`__, University of Michigan
+
+* Reproducible research tools, including GNU Make for reproducible analysis pipeline
+
+`Will Trimble <http://www.researchgate.net/profile/Will_Trimble>`__, 
+Argonne National Lab
+
+* Getting genomes, abstracts, and annotations out of NCBI's API and MG-RAST's API
+* Understanding kmers and using kmer counts for sequencing quality control
+
+`April White <http://wrightaprilm.github.io/pages/about_me.html>`__, Iowa State
+
+* Phylogenomics from RADSeq data at a population level using the `Stacks pipeline <http://catchenlab.life.illinois.edu/stacks/>`__.
+* "Best practice" for NGS phylogenomics data, including testing for bias and comparing phylogenetic parameter estimates 
+
+`Adina Howe <http://www.abe.iastate.edu/adina-howe/>`__, Iowa State
+
+* Identifying microbial drivers of global change
+* Unification of heterogeneous datasets
+
+.. NOTE: Adina didn't provide a description yet, so I pulled these from her lab webpage
+.. as space fillers, will be replaced
+
+`Kevin Murray <http://www.kdmurray.id.au/>`__, Austrailian National University
+
+* Genotyping by Sequencing (GBS) bioinformatics `pipeline <http://www.maizegenetics.net/#!genotyping-by-sequencing-gbs/c9c6>`
+
+`Raniere Silva <http://rgaiacs.com/>`__ .. I think he has no academic affiliation atm bc he just graduated
+
+* More advanced Git actions, inlcuding tag and rereleases on GitHub, rebasing, and bisect.
+
