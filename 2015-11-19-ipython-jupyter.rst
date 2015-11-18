@@ -75,3 +75,12 @@ Computer requirements
 Attendees will need to bring a computer with a Web browser, an
 Internet connection, and an ssh client; Windows users should install
 `MobaXterm <http://mobaxterm.mobatek.net/>`__ before the workshop.
+
+Installation/Preparation Instructions
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1. Following the instructions `here <https://btel.github.io/2015-11-19-eitn/>`__, install Python.  The instructions for Windows, Mac, and Linux are at the bottom of the page.
+
+2. Sign up for an account at `GitHub <https://github.com/>`__ if you do not already have one.
+
+3. Sign up for an account at `Amazon Web Services <http://aws.amazon.com/>`__ (this will be used if there is a problem with Python or Anaconda installation).
