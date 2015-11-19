@@ -9,7 +9,7 @@ When: November 19 and 20, 2015
 
 Times: 9am-3pm on both days
 
-Where: TBD, UC Davis campus.
+Where: Data Science Initiative, Shields Library, UC Davis campus.
 
 Cost: there is no fee.
 
