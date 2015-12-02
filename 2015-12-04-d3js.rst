@@ -7,7 +7,10 @@ When: December 4, 2015
 
 Times: 12:15-3:15pm EST / 9:15am-12:15pm PST
 
-Where: Online / Michigan State U. / UC Davis / others.
+Where: Online / Michigan State U. / UC Davis / Virigina Tech / U. of Florida.  
+
+The UC Davis location will be in the `Bennett Room <http://dib-training.readthedocs.org/en/pub/Bennett-room.html>`__
+in the CCAH building.
 
 Cost: There is no fee.
 
