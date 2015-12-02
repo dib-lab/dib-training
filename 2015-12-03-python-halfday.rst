@@ -94,4 +94,9 @@ installed, please refer to the installation instructions at the bottom
 of `this page
 <http://dib-training.readthedocs.org/en/pub/2015-12-03-shell-halfday.html>`__.
 
+**For BOTH Windows and OS X** - Installing IPython:
+
+1. Go to `http://ipython.org/install.html <http://ipython.org/install.html>`__, and run
+the two lines of Anaconda commands at step 2.
+
 Please come a bit early if you have trouble with installation.
