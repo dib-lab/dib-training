@@ -38,14 +38,3 @@ prior web programming experience required (we'll teach you the
 necessary Javascript and html), but this workshop is aimed at people
 who already feel comfortable programming in at least one language.
 
-Locations
----------
-
-The workshop will be livestreamed via Google Hangouts to YouTube.  In
-addition, we will be offering four in-person classrooms at Michigan State
-University (East Lansing, MI); UC Davis (Davis, CA); and two additional
-locations.
-
-Michigan State University: location/registration info.
-
-UC Davis: location/registration info.
