@@ -21,11 +21,11 @@ an SVM affiliate.
 .. (These spaces will be released to the wait list
    on Thursday, February 26th.)
 
-`> Register here < <https://www.eventbrite.com/e/shell-half-day-workshop-tickets-19301439124>`__
----------------------------------------------------------------------------------------------------------------
+.. `> Register here < <https://www.eventbrite.com/e/shell-half-day-workshop-tickets-19301439124>`__
+.. ---------------------------------------------------------------------------------------------------------------
 
-.. `> Reference Materials link < <http://swcarpentry.github.io//shell-novice/reference.html>`__
-.. ---------------------------------------------------------------------------
+`> Reference Materials link < <https://github.com/ngs-docs/2015-shell-genomics/blob/gh-pages/README.rst>`__
+-----------------------------------------------------------------------------------------------------------
 
 Description
 -----------
@@ -41,7 +41,7 @@ Topics overview
 * Introduction to the UNIX shell
 * Navigating the filesystem
 * Managing and manipulating files
-* Loops and Scripts
+* Scripts
 
 .. The materials for this workshop are available indefinitely
 .. `here <http://2015-mar-semimodel.readthedocs.org/en/latest/>`__.
@@ -51,7 +51,7 @@ Schedule
 
 * 9am-10:30a: Introduction, navigation, file manipulation 
 * 10:30a: Coffee break
-* 10:45a-12:15p: Loops and scripts
+* 10:45a-12:15p: Scripts
 
 Installation instructions
 -------------------------
