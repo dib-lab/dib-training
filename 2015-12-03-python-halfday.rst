@@ -21,11 +21,11 @@ an SVM affiliate.
 .. (These spaces will be released to the wait list
    on Thursday, February 26th.)
 
-`> Register here < <https://www.eventbrite.com/e/python-half-day-workshop-tickets-19300862399>`__
----------------------------------------------------------------------------------------------------------------
+.. `> Register here < <https://www.eventbrite.com/e/python-half-day-workshop-tickets-19300862399>`__
+.. ---------------------------------------------------------------------------------------------------------------
 
-.. `> Materials link < <make materials then put link here>`__
-.. -------------------------------------------------------------------------
+`> Materials link < <https://github.com/ngs-docs/2015-python-intro/blob/master/README.rst>`__
+---------------------------------------------------------------------------------------------
 
 Description
 -----------
