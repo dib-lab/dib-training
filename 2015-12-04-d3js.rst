@@ -22,6 +22,8 @@ locations at Michigan State, UC Davis, and elsewhere; see below for details.
 `> Materials Link Here < <http://emilydolson.github.io/D3-visualising-data/>`__
 ---------------------------------------------------------------------------------------------------------------
 
+View the `etherpad <https://etherpad.wikimedia.org/p/d3js-workshop>`__ here.
+
 Workshop description:
 
 Want to make pretty, dynamic, and interactive data visualizations like
