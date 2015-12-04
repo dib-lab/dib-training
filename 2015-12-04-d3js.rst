@@ -24,6 +24,8 @@ locations at Michigan State, UC Davis, and elsewhere; see below for details.
 
 View the `etherpad <https://etherpad.wikimedia.org/p/d3js-workshop>`__ here.
 
+You can watch the YouTube streaming of this workshop `here <https://www.youtube.com/watch?v=eIrZjVH0Zcg>`__.
+
 Workshop description:
 
 Want to make pretty, dynamic, and interactive data visualizations like
