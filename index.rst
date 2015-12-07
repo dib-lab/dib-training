@@ -56,9 +56,10 @@ available indefinitely.  Please feel free to send them on to others.
 Past Workshops
 --------------
 
-* December 4, 2015: `d3.js for Interactive Data Visualization <http://dib-training.readthedocs.org/en/pub/2015-12-04-d3js.html>`__
+
 * December 3, 2015: `Half Day Shell Workshop <http://dib-training.readthedocs.org/en/pub/2015-12-03-shell-halfday.html>`__
 * December 3, 2015: `Half Day Python Workshop <http://dib-training.readthedocs.org/en/pub/2015-12-03-python-halfday.html>`__
+* December 4, 2015: `d3.js for Interactive Data Visualization <http://dib-training.readthedocs.org/en/pub/2015-12-04-d3js.html>`__
 .. * November 19-20, 2015: `Advanced IPython Notebook/Project Jupyter <http://dib-training.readthedocs.org/en/pub/2015-11-19-ipython-jupyter.html>`__
 * November 9-10, 2015: `Docker hands-on <http://dib-training.readthedocs.org/en/pub/2015-11-09-docker.html>`__
 * November 2-3, 2015: `mRNA Sequencing Intermediate workshop (Invitation Only) <http://dib-training.readthedocs.org/en/pub/2015-11-02-docker.html>`__
