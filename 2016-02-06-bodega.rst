@@ -32,8 +32,7 @@ Instructors and Topics overview
 
 `Jon Badalamenti <http://www.researchgate.net/profile/Jonathan_Badalamenti>`__, University of Minnesota
 
-* Using BioPython to prepare genomes for GeneBank Submissions
-* Running Prokka annotation, converting .gbk to .tkl NCBI format
+* using TnSeq for high throughput identification of loci that cause fitness defects in microbial populations
 
 `Jason Williams <https://www.dnalc.org/about/staff/williams.html>`__, Cold Spring Harbor Laboratory
 
