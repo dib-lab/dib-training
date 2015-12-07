@@ -60,7 +60,7 @@ Argonne National Lab
 * Getting genomes, abstracts, and annotations out of NCBI's API and MG-RAST's API
 * Understanding kmers and using kmer counts for sequencing quality control
 
-`April White <http://wrightaprilm.github.io/pages/about_me.html>`__, Iowa State
+`April Wright <http://wrightaprilm.github.io/pages/about_me.html>`__, Iowa State
 
 * Phylogenomics from RADSeq data at a population level using the `Stacks pipeline <http://catchenlab.life.illinois.edu/stacks/>`__.
 * "Best practice" for NGS phylogenomics data, including testing for bias and comparing phylogenetic parameter estimates 
