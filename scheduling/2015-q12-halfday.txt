@@ -1,27 +1,27 @@
-1/13/16, Wed - Titus Brown, TBD
-1/20/16, Wed - Camille Scott, pydoit.
-1/27/16, Wed - Titus Brown, TBD
-2/5/16, Fri - Titus Brown, TBD
-2/17/16, Wed - Tiffany Timbers, topic TBD
-2/19/16, Fri - Ariel Rokem, scipy.optimize.
-2/29/16, Mon - Adelaide Rhodes, sphinx + webhooks + bitbucket
-3/7/16, Mon
-3/9/16, Wed
-3/28/16, Mon
-3/30/16, Wed
+1/13/16, Wed - Titus Brown, Advanced Beginner Shell (local)
+1/20/16, Wed - Camille Scott, pydoit (local+remote)
+1/27/16, Wed - Titus Brown, Advanced Beginner Python (local)
+2/5/16, Fri - Titus Brown, Introductory git (local)
+2/17/16, Wed - Tiffany Timbers, topic TBD (local+remote)
+2/19/16, Fri - Ariel Rokem, scipy.optimize (local+remote)
+2/29/16, Mon - Adelaide Rhodes, sphinx + webhooks + bitbucket (local+remote)
+3/7/16, Mon - Titus Brown, Amazon Web Services (local+remote)
+3/9/16, Wed - Titus Brown, Jupyter Notebook (local)
+3/28/16, Mon - Titus Brown, Short-read trimming & quality eval (local+remote)
+3/30/16, Wed - Titus Brown, De novo mRNAseq assembly (local)
 4/4/16, Mon
-4/6/16, Wed - Daniel Chen, intro git (SWC lesson on git)
-4/8/16, Fri - Daniel Chen, advanced git (branching & merging, etc.)
+4/6/16, Wed - Daniel Chen, intro git (SWC lesson on git - local+remote)
+4/8/16, Fri - Daniel Chen, advanced git (branching & merging, etc. - local+remote)
 4/11/16, Mon
-4/13/16, Wed
-4/18/16, Mon
+4/13/16, Wed - Titus Brown, TBD
+4/18/16, Mon - Titus Brown, TBD
 4/27/16, Wed
 5/11/16, Wed
 5/13/16, Fri
 5/18/16, Wed
-6/6/16, Mon
-6/10/16, Fri
+6/6/16, Mon - Titus Brown, TBD
+6/10/16, Fri - Titus Brown, TBD
 6/13/16, Mon
-6/15/16, Wed
-6/22/16, Wed
-6/29/16, Wed
+6/15/16, Wed 
+6/22/16, Wed - Titus Brown, TBD
+6/29/16, Wed - Titus Brown, TBD
