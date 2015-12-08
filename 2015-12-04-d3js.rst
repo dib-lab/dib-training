@@ -19,8 +19,12 @@ Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with 
 This workshop is open to everyone via YouTube.  We will have several in-person
 locations at Michigan State, UC Davis, and elsewhere; see below for details.
 
-`> Register here < <https://www.eventbrite.com/e/d3js-for-interactive-data-visualization-tickets-19606308998>`__
+`> Materials Link Here < <http://emilydolson.github.io/D3-visualising-data/>`__
 ---------------------------------------------------------------------------------------------------------------
+
+View the `etherpad <https://etherpad.wikimedia.org/p/d3js-workshop>`__ here.
+
+You can watch the YouTube streaming of this workshop `here <https://www.youtube.com/watch?v=eIrZjVH0Zcg>`__.
 
 Workshop description:
 
