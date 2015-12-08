@@ -24,7 +24,12 @@ If you want to be notified of new workshops you can sign up for the
 <http://lists.idyll.org/listinfo/dib-training>`__; workshops are
 generally announced there first.
 
-Additionally, you can see our Google Calendar containing all of our workshops `here <https://calendar.google.com/calendar/embed?src=mqcgc13fqifh9ocb7l8novguik%40group.calendar.google.com&ctz=America/Los_Angeles>`__.
+You can subscribe to our Google Calendar containing all of our events 
+`here <https://calendar.google.com/calendar/render?src=mqcgc13fqifh9ocb7l8novguik@group.calendar.google.com&ctz=America/Los_Angeles#details_2%7Cdtv-bXFjZ2MxM2ZxaWZoOW9jYjdsOG5vdmd1aWtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ-0-0>`__.
+
+Or, you can simply view the calendar `here <https://calendar.google.com/calendar/embed?src=mqcgc13fqifh9ocb7l8novguik%40group.calendar.google.com&ctz=America/Los_Angeles>`__.
+
+
 
 Upcoming Workshops and Dates
 ----------------------------
@@ -55,12 +60,11 @@ available indefinitely.  Please feel free to send them on to others.
 
 Past Workshops
 --------------
-
+.. * November 19-20, 2015: `Advanced IPython Notebook/Project Jupyter <http://dib-training.readthedocs.org/en/pub/2015-11-19-ipython-jupyter.html>`__
 
 * December 3, 2015: `Half Day Shell Workshop <http://dib-training.readthedocs.org/en/pub/2015-12-03-shell-halfday.html>`__
 * December 3, 2015: `Half Day Python Workshop <http://dib-training.readthedocs.org/en/pub/2015-12-03-python-halfday.html>`__
 * December 4, 2015: `d3.js for Interactive Data Visualization <http://dib-training.readthedocs.org/en/pub/2015-12-04-d3js.html>`__
-.. * November 19-20, 2015: `Advanced IPython Notebook/Project Jupyter <http://dib-training.readthedocs.org/en/pub/2015-11-19-ipython-jupyter.html>`__
 * November 9-10, 2015: `Docker hands-on <http://dib-training.readthedocs.org/en/pub/2015-11-09-docker.html>`__
 * November 2-3, 2015: `mRNA Sequencing Intermediate workshop (Invitation Only) <http://dib-training.readthedocs.org/en/pub/2015-11-02-docker.html>`__
 * September 24-25, 2015: `Microbial genomics and transcriptomics hands-on. <2015-09-24-microbes.html>`__
