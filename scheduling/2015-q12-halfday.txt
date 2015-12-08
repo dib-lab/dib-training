@@ -2,6 +2,11 @@ Note: Titus's dates can be co-opted, especially if topics are TBD!
 
 All dates/times are 9:15am-12:15pm, Pacific Time.
 
+For local+remote workshops, we ask that draft materials be available two
+weeks in advance.
+
+----
+
 1/13/16, Wed - Titus Brown, Advanced Beginner Shell (local only)
 
 1/20/16, Wed - Camille Scott, pydoit (local+remote)
