@@ -43,7 +43,7 @@ weeks in advance.
 
 4/27/16, Wed - Meeta Mistry, TBD
 
-5/11/16, Wed - open
+5/11/16, Wed - Marian Schmidt, Rmarkdown (local+Remote)
 
 5/13/16, Fri - Ted Hart, TBD (local+remote).
 
