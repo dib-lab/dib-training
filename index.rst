@@ -34,9 +34,64 @@ Or, you can simply view the calendar `here <https://calendar.google.com/calendar
 Upcoming Workshops and Dates
 ----------------------------
 
-Please click on the link for more information.
+Please click on the link for more information.  Please note that all
+half-day workshops are from 9:15am - 12:15pm Pacific Time, and some of
+them will be live-streamed via YouTube.  Please `subscribe to the mailing
+list <http://lists.idyll.org/listinfo/dib-training>`__ if you want to
+be notified when registration opens up; you can also subscribe to many events
+on github.
 
-* December 7-8, 2015: `UCSC Genome Browser workshop <http://training.bioinformatics.ucdavis.edu/2015/07/14/ucsc-genome-browser-workshop-december-7-8-2015/>`__
+January 13, 2016 - Advanced beginner UNIX shell - half day workshop. (`See GitHub issue <https://github.com/dib-lab/dib-training/issues/21>`__.)
+
+January 20, 2016 - pydoit for workflow automation (Camille Scott) - half day workshop (broadcast). (`See GitHub issue <https://github.com/dib-lab/dib-training/issues/22>`__)
+
+January 27, 2016 - Advanced git (Raniere Silva) - half day workshop (broadcast). `(See GitHub issue <https://github.com/dib-lab/dib-training/issues/23>`__)
+
+February 5, 2016 - Introductory git - half day workshop
+
+February 17, 2016 - Regular expressions and Python (Tiffany Timbers) - half day workshop (broadcast). `(See GitHub issue <https://github.com/dib-lab/dib-training/issues/24>`__)
+
+February 19, 2016 - scipy.optimize (Ariel Rokem) - half day workshop (broadcast)
+
+February 29, 2016 - Sphinx, Webhooks, and Bitbucket (Adelaide Rhodes) - half day workshop (broadcast)
+
+March 7, 2016 - Amazon Web Services - half day workshop (broadcast)
+
+March 9, 2016 - Jupyter Notebook - half day workshop
+
+March 28, 2016 - Short-read trimming and quality evaluation - half day workshop (broadcast)
+
+March 30, 2016 - De novo mRNAseq assembly - half day workshop
+
+April 4, 2016 - Python, advanced beginner - half day workshop.
+
+April 6, 2016 - Introductory git (Daniel Chen) - half day workshop (broadcast)
+
+April 8, 2016 - Intermediate git (Daniel Chen) - half day workshop (broadcast)
+
+April 11, 2016 - TBD - half day workshop (broadcast)
+
+April 13, 2016 - TBD - half day workshop
+
+April 18, 2016 - TBD - half day workshop
+
+April 27, 2016 - TBD (Meeta Mistry) - half day workshop (broadcast)
+
+May 11, 2016 - RMarkdown (Marian Schmidt) - half day workshop (broadcast)
+
+May 13, 2016 - TBD (Ted Hart) - half day workshop (broadcast)
+
+May 18, 2016 - VEGA for visualization (Jeff Heer's group) - half day workshop (broadcast)
+
+June 6, 2016 - TBD - half day workshop (broadcast)
+
+June 13, 2016 - TBD - half day workshop (broadcast)
+
+June 15, 2016 - TBD - half day workshop (broadcast)
+
+June 22, 2016 - TBD - half day workshop
+
+June 29, 2016 - TBD - half day workshop
 
 .. Planned workshops
 .. -----------------
@@ -62,6 +117,7 @@ Past Workshops
 --------------
 .. * November 19-20, 2015: `Advanced IPython Notebook/Project Jupyter <http://dib-training.readthedocs.org/en/pub/2015-11-19-ipython-jupyter.html>`__
 
+* December 7-8, 2015: `UCSC Genome Browser workshop <http://training.bioinformatics.ucdavis.edu/2015/07/14/ucsc-genome-browser-workshop-december-7-8-2015/>`__
 * December 3, 2015: `Half Day Shell Workshop <http://dib-training.readthedocs.org/en/pub/2015-12-03-shell-halfday.html>`__
 * December 3, 2015: `Half Day Python Workshop <http://dib-training.readthedocs.org/en/pub/2015-12-03-python-halfday.html>`__
 * December 4, 2015: `d3.js for Interactive Data Visualization <http://dib-training.readthedocs.org/en/pub/2015-12-04-d3js.html>`__
