@@ -7,7 +7,7 @@ When: January 13, 2016
 
 Times: 9:15am-12:15pm PST
 
-Where: TBD (UC Davis Campus)  
+Where: TBD (Valley Hall, UC Davis Campus)  
 
 Cost: $20 (paid at registration)
 
@@ -24,28 +24,17 @@ Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with 
 Description
 -----------
 
-This half day workshop will provide an introduction to the bash shell.
-The shell is a very powerful tool for using scientific software and
-working with large data sets.  It is primarily used to manage files
-and run programs, and it allows for automation of repetitive tasks.
+This half-day workshop will continue from the end of the 
+Beginning Shell lesson (see materials here: 
+https://github.com/ngs-docs/2015-shell-genomics/blob/gh-pages/README.rst).
 
-Topics overview
-~~~~~~~~~~~~~~~
-
-* Introduction to the UNIX shell
-* Navigating the filesystem
-* Managing and manipulating files
-* Scripts
+We will cover loops, if statements, scripting, and I/O redirection (>, <, etc.).  
+We will also talk a bit about how to put together shell scripts for 
+job submission on queuing systems (‘qsub’ etc.).
 
 .. The materials for this workshop are available indefinitely
 .. `here <http://2015-mar-semimodel.readthedocs.org/en/latest/>`__.
 
-Schedule
-~~~~~~~~
-
-* 9am-10:30a: Introduction, navigation, file manipulation 
-* 10:30a: Coffee break
-* 10:45a-12:15p: Scripts
 
 Installation instructions
 -------------------------
