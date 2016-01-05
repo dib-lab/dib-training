@@ -9,7 +9,6 @@ Times: 9:15am-12:15pm PST
 
 Where: TBD (Valley Hall, UC Davis Campus)  
 
-Cost: $20 (paid at registration)
 
 Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
