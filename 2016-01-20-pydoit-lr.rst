@@ -78,3 +78,13 @@ If you are not using Anconda, open Python and run the previous command
 as well as:: 
  pip install matplotlib pandas
 To install necessary dependencies.
+
+**Pandoc**
+
+Windows and OS X:
+
+Scroll to the bottom of the latest `pandoc release page 
+<https://github.com/jgm/pandoc/releases/tag/1.16.0.1>`__. Download
+and run the correct package installer for your system (Windows users use
+the package ending in -windows.msi, Mac users use the package ending in
+-osx.pkg).
