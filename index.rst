@@ -122,7 +122,7 @@ Past Workshops
 * December 3, 2015: `Half Day Shell Workshop <http://dib-training.readthedocs.org/en/pub/2015-12-03-shell-halfday.html>`__
 * December 3, 2015: `Half Day Python Workshop <http://dib-training.readthedocs.org/en/pub/2015-12-03-python-halfday.html>`__
 * November 9-10, 2015: `Docker hands-on <http://dib-training.readthedocs.org/en/pub/2015-11-09-docker.html>`__
-* November 2-3, 2015: `mRNA Sequencing Intermediate workshop (Invitation Only) <http://dib-training.readthedocs.org/en/pub/2015-11-02-docker.html>`__
+* November 2-3, 2015: `mRNA Sequencing Intermediate workshop (Invitation Only) <http://dib-training.readthedocs.org/en/pub/2015-11-02-mRNAseq-intermediate.html>`__
 * September 24-25, 2015: `Microbial genomics and transcriptomics hands-on. <2015-09-24-microbes.html>`__
 * September 21-23, 2015: `iPlant Collaborative multiworkshop - introductory, intermediate, advanced, and Data Carpentry. <2015-09-iplant.html>`__
 * August 17-18, `Software Carpentry for Women in Science and Engineering <http://camillescott.github.io/2015-08-16-ucdavis-wise/>`__.
