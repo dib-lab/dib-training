@@ -7,7 +7,7 @@ When: January 13, 2016
 
 Times: 9:15am-12:15pm PST
 
-Where: TBD (Valley Hall, UC Davis Campus)  
+Where: 1041 Valley Hall, UC Davis Campus
 
 
 Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
