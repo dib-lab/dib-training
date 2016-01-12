@@ -9,8 +9,6 @@ Times: 9:15am-12:15pm PST
 
 Where: TBD (Valley Hall, UC Davis Campus)  
 
-Cost: $20 (paid at registration)
-
 Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
 
@@ -24,13 +22,14 @@ Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with 
 Description
 -----------
 
-This half-day workshop will explore pydoit (http://pydoit.org/), a tool for automating workflows.
+Pydoit is a task management and automation tool, similar to ‘make’ (comparison: http://swcarpentry.github.io/bc/intermediate/doit/make-vs-doit.html). Tasks are defined individually and executed in order according to dependencies, via a directed acyclic graph. The basic building blocks of a pydoit workflow are tasks, which encode the work we would like to get done. Here is an extremely simple task::
+
+ def task_hello_world():
+    return {'actions': ['echo "hello world!" > hello.txt’ ],
+                'targets': ['hello.txt’]}
 
 
-.. The materials for this workshop are available indefinitely
-.. `here <http://2015-mar-semimodel.readthedocs.org/en/latest/>`__.
-
-(fix these)
+The task is a python function prefixed with task, which returns a dictionary containing some predefined entries. The actions entry is a list of the actual commands we'd like to run, in this case, a single shell command. The targets entry is a list of the files output by this task.  Of course, hello world doesn't really do anything for us. Throughout this lesson, we're going to build a pipeline which downloads some data, plots it with matplotlib, generates a markup file with the chart, and outputs a final compiled document -- in other words, a barebones version of a publication pipeline.
 
 Installation instructions
 -------------------------
