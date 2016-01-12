@@ -21,10 +21,10 @@ for UC Davis VetMed affiliates; contact the lead instructor if you are
 an SVM affiliate.
 
 `> Register here < <http://www.eventbrite.com/e/intermediate-rnaseq-tickets-19052489509>`__
----------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 
-.. `> Materials link < <http://2015-may-nonmodel.readthedocs.org/en/latest/>`__
-.. --------------------------------------------------------------------------
+`> Materials link < <https://github.com/ngs-docs/2015-nov-adv-rna/blob/master/AGENDA.md>`__
+-------------------------------------------------------------------------------------------
 
 
 .. Description
