@@ -43,7 +43,7 @@ on github.
 
 January 13, 2016 - `Advanced beginner UNIX shell - half day workshop. <http://dib-training.readthedocs.org/en/pub/2016-01-13-adv-beg-shell.html>`__
 
-January 20, 2016 - pydoit for workflow automation (Camille Scott) - half day workshop (broadcast). (`See GitHub issue <https://github.com/dib-lab/dib-training/issues/22>`__)
+January 20, 2016 - `pydoit for workflow automation (Camille Scott) - half day workshop (broadcast). <http://dib-training.readthedocs.org/en/pub/2016-01-20-pydoit-lr.html>`__
 
 January 27, 2016 - Advanced git (Raniere Silva) - half day workshop (broadcast). `(See GitHub issue <https://github.com/dib-lab/dib-training/issues/23>`__)
 
