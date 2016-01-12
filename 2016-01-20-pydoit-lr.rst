@@ -31,28 +31,50 @@ Pydoit is a task management and automation tool, similar to ‘make’ (comparis
 
 The task is a python function prefixed with task, which returns a dictionary containing some predefined entries. The actions entry is a list of the actual commands we'd like to run, in this case, a single shell command. The targets entry is a list of the files output by this task.  Of course, hello world doesn't really do anything for us. Throughout this lesson, we're going to build a pipeline which downloads some data, plots it with matplotlib, generates a markup file with the chart, and outputs a final compiled document -- in other words, a barebones version of a publication pipeline.
 
+Computer and workshop requirements
+----------------------------------
+
+Attendees will need to bring a computer with an Internet connection.
+
+Please install Python 3.x before the workshop by following the
+instructions below.
+
 Installation instructions
 -------------------------
 
-**The Bash Shell**
+**Python**
+
+`Python <https://www.python.org/>`__ is a very powerful programming
+language.  We recommend using `Anaconda
+<https://www.continuum.io/why-anaconda>`__ as an all-in-one installer.
 
 Windows:
 
-1. Download the Git for Windows installer `here <https://git-for-windows.github.io/>`__.
-2. Follow install instructions.
+1. Go to `https://www.continuum.io/downloads <https://www.continuum.io/downloads>`__.
+2. Download Python 3.x (3.4 is fine) 64-bit graphical installer for Windows, *not* Python 2.7.
+3. Install Python 3.x using all defaults *except* make sure to check **Make Anaconda the default Python**.
 
-   * Click "next"
-   * Click "next"
-   * Click "next"
-   * Click "next"
-   * Click "next"
-   * Select **"Use Git from the Windows Command Prompt"** and click on "next".  If you forget to do this, re-run the installer and select the correct option.
-   * Click "next", keep **"Checkout Windows-style, commit Unix-style line endings"** selected.
-   * Select **"Use Windows' default console window"** and click on "next"
-   * Click on "next"
-   * Click on "finish"
+OS X:
 
-Mac OS X:
+1. Go to `https://www.continuum.io/downloads <https://www.continuum.io/downloads>`__.
+2. Download Python 3.x (3.4 is fine) 64-bit graphical installer for OS X, *not* Python 2.7.
+3. Install Python 3.x using all defaults.
 
-The default shell in Mac OS X is bash, so you can access the Terminal from /Applications/Utilities 
-(go to your Applications folder, then go to the Utilities window.  You should see "Terminal" there)
+Once installation is complete, please go to `this page
+<http://bids.github.io/2016-01-14-berkeley/setup/index.html>`__ to
+test that Python has installed correctly.  If you do not have bash
+installed, please refer to the installation instructions at the bottom
+of `this page
+<http://dib-training.readthedocs.org/en/pub/2015-12-03-shell-halfday.html>`__.
+
+**Dependencies**
+
+Windows and OS X:
+
+If you are using Anaconda, open Python and run::
+ install doit seaborn jinja2
+
+If you are not using Anconda, open Python and run the previous command
+as well as:: 
+ pip install matplotlib pandas
+To install necessary dependencies.
