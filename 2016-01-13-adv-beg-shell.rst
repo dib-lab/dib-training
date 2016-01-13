@@ -13,11 +13,11 @@ Where: 1041 Valley Hall, UC Davis Campus
 Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
 
-`> Register Here < <https://www.eventbrite.com/e/advanced-beginner-shell-half-day-workshop-tickets-20039831676>`__
-------------------------------------------------------------------------------------------------------------------
+.. `> Register Here < <https://www.eventbrite.com/e/advanced-beginner-shell-half-day-workshop-tickets-20039831676>`__
+.. ------------------------------------------------------------------------------------------------------------------
 
-.. `> Materials Link Here < <http://emilydolson.github.io/D3-visualising-data/>`__
-.. -------------------------------------------------------------------------------
+`> Materials Link Here < <https://github.com/ngs-docs/2016-adv-begin-shell-genomics>`__
+---------------------------------------------------------------------------------------
 
 
 Description
