@@ -72,11 +72,14 @@ of `this page
 Windows and OS X:
 
 If you are using Anaconda, open Python and run::
- install doit seaborn jinja2
+
+   install doit seaborn jinja2
 
 If you are not using Anconda, open Python and run the previous command
 as well as:: 
- pip install matplotlib pandas
+
+   pip install matplotlib pandas
+
 To install necessary dependencies.
 
 **Pandoc**
