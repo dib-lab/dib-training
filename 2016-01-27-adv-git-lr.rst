@@ -23,7 +23,8 @@ Description
 -----------
 
 Git is a version control software, it is very helpful for managing changing projects and is 
-very useful when working collaboratively.
+very useful when working collaboratively. This lesson will assume some familiarity with Git
+and will build upon `Software Carpentry's Novice Git Lesson <https://swcarpentry.github.io/git-novice/>`__.
 
 Computer and workshop requirements
 ----------------------------------
