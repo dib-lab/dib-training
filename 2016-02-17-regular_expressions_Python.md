@@ -1,5 +1,4 @@
-Advanced Beginner Shell
-=======================
+##Advanced Beginner Shell
 
 Who: Tiffany Timbers, lead instructor.
 
@@ -13,21 +12,17 @@ Where: SSB 8114, Simon Fraser University, Burnaby Campus
 Contact: Please contact `Tiffany Timbers <mailto:tiffany.timbers@gmail.com>`__ with any questions.
 
 
-.. `> Register Here < <EVENTBRITE_URL>`__
-.. ------------------------------------------------------------------------------------------------------------------
+Register Here: EVENTBRITE_URL
 
-`> Materials Link Here < <https://github.com/ttimbers/dib-training/edit/pub/2016-02-17-regular_expressions_Python.rst>`__
----------------------------------------------------------------------------------------
+Materials Link Here: LESSON_URL
 
 
-Description
------------
+###Description
 
 This half-day workshop will introduce the topic of regular expressions
 (using patterns to match strings) in the programming language Python.
 
-Installation instructions
--------------------------
+###Installation instructions
 
 Please install <b>Python version 3 or higher</b>. <a href="http://python.org">Python</a> 
 is a popular language for scientific computing, and great for general-purpose
@@ -42,17 +37,17 @@ up-to-date browser. The current versions of the Chrome, Safari and
 Firefox browsers are all <a href='http://ipython.org/ipython-doc/2/install/install.html#browser-compatibility'>supported</a>
 (some older browsers, including Internet Explorer version 9 and below, are not).</p>
 
-<b>Windows</b>
+####Windows
 * Open <a href="http://continuum.io/downloads">http://continuum.io/downloads</a> with your web browser.
 * Download the Python 3 installer for Windows.
 * Install Python 3 using all of the defaults for installation <em>except</em> make sure to check <b>Make Anaconda the default Python</b>.
 
-<b>Mac OS X</b>
+####Mac OS X
 * Open <a href="http://continuum.io/downloads">http://continuum.io/downloads</a> with your web browser.
 * Download the Python 3 installer for OS X.
 * Install Python 3 using all of the defaults for installation.
 
-<b>Linux</b>
+####Linux
 * Open <a href="http://continuum.io/downloads">http://continuum.io/downloads</a> with your web browser.
 * Download the Python 3 installer for Linux.
 * Install Python 3 using all of the defaults for installation. (Installation requires using the shell). If you aren't comfortable doing the installation yourself stop here and request help at the workshop.)
