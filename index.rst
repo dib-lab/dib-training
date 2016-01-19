@@ -45,7 +45,7 @@ January 13, 2016 - `Advanced beginner UNIX shell - half day workshop. <http://di
 
 January 20, 2016 - `pydoit for workflow automation (Camille Scott) - half day workshop (broadcast). <http://dib-training.readthedocs.org/en/pub/2016-01-20-pydoit-lr.html>`__
 
-January 27, 2016 - Advanced git (Raniere Silva) - half day workshop (broadcast). `(See GitHub issue <https://github.com/dib-lab/dib-training/issues/23>`__)
+January 27, 2016 - `Advanced git (Raniere Silva) - half day workshop (broadcast). <http://dib-training.readthedocs.org/en/pub/2016-01-27-adv-git-lr.html>`__
 
 February 5, 2016 - Introductory git - half day workshop
 
