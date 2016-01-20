@@ -3,10 +3,13 @@
 **Who:** Tiffany Timbers, lead instructor. </br>
 **When:** February 17, 2016 </br>
 **Times:** 9:15am-12:15pm PST </br>
-**Where:** SSB 8114, Simon Fraser University, Burnaby Campus </br>
+**Where:** SFU Location: SSB 8114, Simon Fraser University, Burnaby Campus </br>
+UC Davis Location: TBD, UC Davis campus </br>
 
-**Contact:** Please contact [Tiffany Timbers](mailto:tiffany.timbers@gmail.com>) with any questions. </br>
-**Register Here:** https://www.eventbrite.com/e/regular-expressions-python-tickets-20923856819
+**Contact:** Please contact [Tiffany Timbers](mailto:tiffany.timbers@gmail.com>) with any questions on content or
+SFU matters. Contact [Jessica Mizzi](mailto:jessica.mizzi@gmail.com>) with UC Davis matters. </br>
+**Register Here:** SFU attendees: https://www.eventbrite.com/e/regular-expressions-python-tickets-20923856819 </br>
+UC Davis attendees: https://www.eventbrite.com/e/regular-expressions-python-half-day-workshop-tickets-20040991144
 
 
 ###Description
