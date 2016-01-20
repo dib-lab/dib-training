@@ -1,26 +1,25 @@
-##Advanced Beginner Shell
+##Regular Expressions & Python
 
-Who: Tiffany Timbers, lead instructor.
+**Who:** Tiffany Timbers, lead instructor.
+**When:** February 17, 2016
+**Times:** 9:15am-12:15pm PST
+**Where:** SSB 8114, Simon Fraser University, Burnaby Campus
 
-When: February 17, 2016
-
-Times: 9:15am-12:15pm PST
-
-Where: SSB 8114, Simon Fraser University, Burnaby Campus
-
-
-Contact: Please contact `Tiffany Timbers <mailto:tiffany.timbers@gmail.com>`__ with any questions.
-
-
-Register Here: EVENTBRITE_URL
-
-Materials Link Here: LESSON_URL
+**Contact:** Please contact [Tiffany Timbers](mailto:tiffany.timbers@gmail.com>) with any questions.
+**Register Here:** https://www.eventbrite.com/e/regular-expressions-python-tickets-20923856819
 
 
 ###Description
 
 This half-day workshop will introduce the topic of regular expressions
-(using patterns to match strings) in the programming language Python.
+(using patterns to match strings) and how it can be implemented in the 
+programming language Python. 
+
+We will explore examples of using regular expressions find transcription factor 
+binding sites and  to find regions of phage DNA (spacers) in bacterial genomes - key
+parts of the CRISPR bacterial immune system. We will also explore how to build a test
+suite for regular expression searches to ensure the regular expression pattern 
+matching is accurate.
 
 ###Installation instructions
 
