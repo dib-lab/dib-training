@@ -21,7 +21,7 @@ weeks in advance.
 
 2/29/16, Mon - Adelaide Rhodes, sphinx + webhooks + bitbucket (local+remote)
 
-3/7/16, Mon - Titus Brown, Amazon Web Services (local+remote)
+3/7/16, Mon - Titus Brown, Amazon Web Services (local+remote) Remote: SFU, Tiffany (tiffany.timbers@gmail.com)
 
 3/9/16, Wed - Titus Brown, Jupyter Notebook (local only)
 
@@ -43,7 +43,7 @@ weeks in advance.
 
 4/27/16, Wed - Meeta Mistry, TBD
 
-5/11/16, Wed - Marian Schmidt, Rmarkdown (local+Remote)
+5/11/16, Wed - Marian Schmidt, Rmarkdown (local+Remote) Remote: SFU, Tiffany (tiffany.timbers@gmail.com)
 
 5/13/16, Fri - Ted Hart, TBD (local+remote).
 
@@ -53,7 +53,7 @@ weeks in advance.
 
 6/10/16, Fri - Titus Brown, TBD
 
-6/13/16, Mon - open
+6/13/16, Mon - Bruno Grande, Open Science (local+remote)
 
 6/15/16, Wed - open
 
