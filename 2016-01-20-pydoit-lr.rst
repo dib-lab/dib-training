@@ -7,12 +7,12 @@ When: January 20, 2016
 
 Times: 9:15am-12:15pm PST
 
-Where: TBD (Valley Hall, UC Davis Campus)  
+Where: DSI Space, Shields Library  
 
 Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
 
-`> Register Here < <https://www.eventbrite.com/e/pydoit-half-day-workshop-tickets-20039930973>`__
+`> Watch Here < <http://youtu.be/EfD9bWmL-1M>`__
 ------------------------------------------------------------------------------------------------------------------
 
 .. `> Materials Link Here < <http://emilydolson.github.io/D3-visualising-data/>`__
