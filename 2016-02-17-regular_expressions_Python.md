@@ -1,11 +1,11 @@
 ##Regular Expressions & Python
 
-**Who:** Tiffany Timbers, lead instructor.
-**When:** February 17, 2016
-**Times:** 9:15am-12:15pm PST
-**Where:** SSB 8114, Simon Fraser University, Burnaby Campus
+**Who:** Tiffany Timbers, lead instructor. </br>
+**When:** February 17, 2016 </br>
+**Times:** 9:15am-12:15pm PST </br>
+**Where:** SSB 8114, Simon Fraser University, Burnaby Campus </br>
 
-**Contact:** Please contact [Tiffany Timbers](mailto:tiffany.timbers@gmail.com>) with any questions.
+**Contact:** Please contact [Tiffany Timbers](mailto:tiffany.timbers@gmail.com>) with any questions. </br>
 **Register Here:** https://www.eventbrite.com/e/regular-expressions-python-tickets-20923856819
 
 
