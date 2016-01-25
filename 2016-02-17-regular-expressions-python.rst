@@ -2,18 +2,23 @@ Regular Expressions & Python
 ============================
 
 Who:Tiffany Timbers, lead instructor. 
+
 When:February 17, 2016
+
 Times:9:15am-12:15pm PST
+
 Where: SFU Location: SSB 8114, Simon Fraser University, Burnaby Campus
 UC Davis Location: TBD, UC Davis campus
 
 Contact: Please contact `Tiffany Timbers <mailto:tiffany.timbers@gmail.com>`__ with any questions on content or
-SFU matters. Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with UC Davis matters.
+SFU matters.
 
-Registration:
--------------
-`> SFU attendees < <https://www.eventbrite.com/e/regular-expressions-python-tickets-20923856819>`__
-`> UC Davis attendees < <https://www.eventbrite.com/e/regular-expressions-python-half-day-workshop-tickets-20040991144>`__
+Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with UC Davis matters.
+
+`> SFU attendees Registration < <https://www.eventbrite.com/e/regular-expressions-python-tickets-20923856819>`__
+----------------------------------------------------------------------------------------------------------------
+`> UC Davis attendees Registration < <https://www.eventbrite.com/e/regular-expressions-python-half-day-workshop-tickets-20040991144>`__
+--------------------------------------------------------------------------------------------------------------------------
 Note: You only need to register if you plan to attend a workshop in a classroom. If you only plan to watch the online
 stream, then you don't need to the register. The YouTube link for the stream will be posted on this page on the morning 
 just before the workshop starts.
@@ -48,16 +53,19 @@ Firefox browsers are all `supported <http://ipython.org/ipython-doc/2/install/in
 (some older browsers, including Internet Explorer version 9 and below, are not).</p>
 
 **Windows**
+
 1. Open `http://continuum.io/downloads <http://continuum.io/downloads>`__ with your web browser.
 2. Download the Python 3 installer for Windows.
 3. Install Python 3 using all of the defaults for installation *except* make sure to check **Make Anaconda the default Python**.
 
 **Mac OS X**
+
 1. Open `http://continuum.io/downloads <http://continuum.io/downloads>`__ with your web browser.
 2. Download the Python 3 installer for OS X.
 3. Install Python 3 using all of the defaults for installation.
 
 **Linux**
+
 1. Open `http://continuum.io/downloads <http://continuum.io/downloads>`__ with your web browser.
 2. Download the Python 3 installer for Linux.
 3. Install Python 3 using all of the defaults for installation. (Installation requires using the shell). If you aren't comfortable doing the installation yourself stop here and request help at the workshop.)
