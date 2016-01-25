@@ -1,5 +1,5 @@
-Pydoit for Workflow Automation
-==============================
+Advanced Git
+============
 
 Who: Raniere Silva, lead instructor.
 
