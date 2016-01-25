@@ -1,11 +1,11 @@
 Regular Expressions & Python
 ============================
 
-Who:Tiffany Timbers, lead instructor. 
+Who: Tiffany Timbers, lead instructor. 
 
-When:February 17, 2016
+When: February 17, 2016
 
-Times:9:15am-12:15pm PST
+Times: 9:15am-12:15pm PST
 
 Where: SFU Location: SSB 8114, Simon Fraser University, Burnaby Campus
 UC Davis Location: TBD, UC Davis campus
