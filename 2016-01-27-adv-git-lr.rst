@@ -7,7 +7,7 @@ When: January 27, 2016
 
 Times: 9:15am-12:15pm PST
 
-Where: DSI Space, Shields Library, UC Davis Campus  
+Where: `DSI Space, Shields Library, UC Davis Campus  <http://dib-training.readthedocs.org/en/pub/DSI-space-directions.html>`__ 
 
 Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
