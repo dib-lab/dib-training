@@ -12,11 +12,13 @@ Where: `DSI Space, Shields Library, UC Davis Campus  <http://dib-training.readth
 Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
 
-`> Register Here < <https://www.eventbrite.com/e/advanced-git-half-day-workshop-tickets-20040034282>`__
---------------------------------------------------------------------------------------------------
+`> Watch YouTube Stream Here < <http://youtu.be/JTnIDMn47Pk>`__
+----------------------------------------------------------------
 
 `> Materials Link Here < <https://rgaiacs.github.io/swc-git-intermediate/>`__
---------------------------------------------------------------------------
+-----------------------------------------------------------------------------
+
+And, view the `etherpad <https://beta.etherpad.org/p/advanced-git-workshop>`__ here.
 
 
 Description
