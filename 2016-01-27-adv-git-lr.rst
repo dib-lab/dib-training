@@ -15,8 +15,8 @@ Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with 
 `> Register Here < <https://www.eventbrite.com/e/advanced-git-half-day-workshop-tickets-20040034282>`__
 --------------------------------------------------------------------------------------------------
 
-.. `> Materials Link Here < <http://emilydolson.github.io/D3-visualising-data/>`__
-.. -------------------------------------------------------------------------------
+`> Materials Link Here < <https://rgaiacs.github.io/swc-git-intermediate/>`__
+--------------------------------------------------------------------------
 
 
 Description
