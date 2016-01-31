@@ -7,13 +7,13 @@ When: February 5, 2016
 
 Times: 9:15am-12:15pm PST
 
-Where: TBD (UC Davis Campus)
+Where: `DSI Space, Shields Library, UC Davis Campus  <http://dib-training.readthedocs.org/en/pub/DSI-space-directions.html>`__ 
 
 Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
 
-.. `> Register Here < <https://www.eventbrite.com/e/introductory-git-half-day-workshop-tickets-20040916922>`__
-.. -----------------------------------------------------------------------------------------------------------
+ `> Register Here < <https://www.eventbrite.com/e/introductory-git-half-day-workshop-tickets-20040916922>`__
+-----------------------------------------------------------------------------------------------------------
 
 .. `> Materials Link Here < <https://rgaiacs.github.io/swc-git-intermediate/>`__
 .. -----------------------------------------------------------------------------
