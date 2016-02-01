@@ -12,7 +12,7 @@ Where: TBD, UC Davis campus
 Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
 .. `> SFU attendees Registration < <https://www.eventbrite.com/e/regular-expressions-python-tickets-20923856819>`__
-----------------------------------------------------------------------------------------------------------------
+.. ----------------------------------------------------------------------------------------------------------------
 `> UC Davis attendees Registration < <https://www.eventbrite.com/e/amazon-web-services-tickets-21073317861>`__
 --------------------------------------------------------------------------------------------------------------
 Note: You only need to register if you plan to attend a workshop in a classroom. If you only plan to watch the online
