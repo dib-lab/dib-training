@@ -35,7 +35,7 @@ weeks in advance.
 
 4/8/16, Fri - Daniel Chen, advanced git (branching & merging, etc. - local+remote)
 
-4/11/16, Mon - open
+4/11/16, Mon - Vessela Ensberg, Open Science Frame Work
 
 4/13/16, Wed - Titus Brown, TBD
 
