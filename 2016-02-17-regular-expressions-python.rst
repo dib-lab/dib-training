@@ -50,7 +50,7 @@ This session will be taught using the IPython notebook, a programming environmen
 that runs in a web browser. For this to work you will need a reasonably
 up-to-date browser. The current versions of the Chrome, Safari and
 Firefox browsers are all `supported <http://ipython.org/ipython-doc/2/install/install.html#browser-compatibility>`__
-(some older browsers, including Internet Explorer version 9 and below, are not).</p>
+(some older browsers, including Internet Explorer version 9 and below, are not).
 
 **Windows**
 
