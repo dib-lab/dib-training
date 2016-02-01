@@ -23,7 +23,7 @@ just before the workshop starts.
 Description
 -----------
 
-This half-day workshop will provide an introduction to Amazon Webservices, and 
+This half-day workshop will provide an introduction to Amazon Web Services, and 
 how they can be used in data intensive scientific research.
 
 This workshop will be taught at UC Davis and broadcast to several remote sites 
