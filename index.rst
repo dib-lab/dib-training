@@ -49,6 +49,8 @@ February 17, 2016 - Regular expressions and Python (Tiffany Timbers) - half day 
 
 February 19, 2016 - scipy.optimize (Ariel Rokem) - half day workshop (broadcast)
 
+.. February 19, 2016 - `scipy.optimize (Ariel Rokem) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-02-19-scipy-lr.html>`__ 
+
 February 29, 2016 - Sphinx, Webhooks, and Bitbucket (Adelaide Rhodes) - half day workshop (broadcast)
 
 March 7, 2016 - Amazon Web Services - half day workshop (broadcast)
