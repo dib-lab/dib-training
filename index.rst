@@ -41,7 +41,7 @@ list <http://lists.idyll.org/listinfo/dib-training>`__ if you want to
 be notified when registration opens up; you can also subscribe to many events
 on github.
 
-.. February 5, 2016 - `Introductory git - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-02-05-intro-git.html>`__
+February 5, 2016 - `Introductory git - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-02-05-intro-git.html>`__
 
 February 17, 2016 - Regular expressions and Python (Tiffany Timbers) - half day workshop (broadcast). `(See GitHub issue <https://github.com/dib-lab/dib-training/issues/24>`__)
 
