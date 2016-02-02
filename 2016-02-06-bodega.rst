@@ -1,5 +1,5 @@
-Intermediate/Advanced Bioinformatics Training 
-=============================================
+Intermediate Bioinformatics Training 
+====================================
 
 .. @add mailing list info
 
@@ -56,8 +56,8 @@ Schedule
 
   + Phylogenomics from RADSeq data at a population level using the `Stacks pipeline <http://catchenlab.life.illinois.edu/stacks/>`__.
   + "Best practice" for NGS phylogenomics data, including testing for bias and comparing phylogenetic parameter estimates 
-
--Social Activity
+  
+- Social Activity
 
 *Thursday:*
 
