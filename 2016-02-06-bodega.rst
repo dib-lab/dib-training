@@ -38,7 +38,7 @@ Schedule
   + Getting genomes, abstracts, and annotations out of NCBI's API and MG-RAST's API
   + Understanding kmers and using kmer counts for sequencing quality control
 
-- `Raniere Silva <http://rgaiacs.com/>`__ 
+- `Raniere Silva <http://rgaiacs.com/>`__, Software Carpentry 
 
   + More advanced Git actions, inlcuding tag and rereleases on GitHub, rebasing, and bisect.
   
@@ -65,8 +65,7 @@ Schedule
 
   + Genotyping by Sequencing (GBS) bioinformatics `pipeline <http://www.maizegenetics.net/#!genotyping-by-sequencing-gbs/c9c6>`__
 
-- `Jane Charlesworth <http://software.ac.uk/fellows/jane-charlesworth>`__, 
-University of Oxford
+- `Jane Charlesworth <http://software.ac.uk/fellows/jane-charlesworth>`__, University of Oxford
 
   + GWAS bacterial pipeline, focusing on SNPs, gene presence or absense, and khmer variation
 
