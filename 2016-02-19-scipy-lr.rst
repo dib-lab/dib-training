@@ -40,7 +40,7 @@ programming as well.  Installing all of its scientific packages individually can
 a bit difficult, so we recommend `Anaconda <https://www.continuum.io/anaconda>`__, 
 an all-in-one installer. See below for instructions for Windows, Mac or Linux.
 
-** Data **: please download the data folder from `the workshop website <http://arokem.github.io/scipy-optimize/scipy-optimize-data.zip>`__.
+**Data**: please download the data folder from `the workshop website <http://arokem.github.io/scipy-optimize/scipy-optimize-data.zip>`__.
 
 
 **Windows**
