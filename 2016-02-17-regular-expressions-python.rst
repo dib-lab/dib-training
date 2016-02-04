@@ -8,7 +8,7 @@ When: February 17, 2016
 Times: 9:15am-12:15pm PST
 
 Where: SFU Location: SSB 8114, Simon Fraser University, Burnaby Campus
-UC Davis Location: TBD, UC Davis campus
+UC Davis Location: Shields Library, UC Davis campus
 
 Contact: Please contact `Tiffany Timbers <mailto:tiffany.timbers@gmail.com>`__ with any questions on content or
 SFU matters.
