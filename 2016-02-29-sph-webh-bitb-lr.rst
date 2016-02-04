@@ -7,7 +7,7 @@ When: February 29, 2016
 
 Times: 9:15am-12:15pm PST
 
-Where: UC Davis Location: TBD, UC Davis campus
+Where: UC Davis Location: Shields Library, UC Davis campus
 
 Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
@@ -24,10 +24,14 @@ just before the workshop starts.
 Description
 -----------
 
-This workshop will cover Sphinx, Webhooks, and Bitbucket, and how they can be used to create online webpages.
+This workshop will cover using webhooks with `Bitbucket
+<https://bitbucket.org/>`__ to create Web sites that automatically update when
+you make changes in a Bitbucket repository.  `Sphinx
+<http://www.sphinx-doc.org/en/stable/>`__ and reStructuredText will be used to
+build the underlying Web site.
 
-This workshop will be taught remotely and broadcast to UC Davis via Google Hangouts. It will also be streaming on 
-YouTube.
+This workshop will be taught remotely and broadcast to UC Davis via Google
+Hangouts. It will also be streaming on YouTube.
 
 
 Installation instructions
