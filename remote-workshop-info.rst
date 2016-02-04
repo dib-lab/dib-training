@@ -72,7 +72,7 @@ No, you only need to register if you will be attending our workshop in a classro
 
 2. Do I, as a remote instructor, need to host a learning site?
 
-No, you don't need to host a classroom. You can teach just to your computer, although you will receive no feedback from remote sites as far as student progress.
+We strongly recommend that you do host a site, even if it is only a few people. This will allow you to observe how students are doing with the material, which is not possible if you are only teaching to your computer screen.
 
 3. How do I, as an instructor, keep track of the etherpad, gitter, and teaching?
 
