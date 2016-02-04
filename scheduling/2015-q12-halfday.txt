@@ -21,7 +21,7 @@ weeks in advance.
 
 2/29/16, Mon - Adelaide Rhodes, sphinx + webhooks + bitbucket (local+remote)
 
-3/7/16, Mon - Titus Brown, Amazon Web Services (local+remote) Remote: SFU, Tiffany (tiffany.timbers@gmail.com)
+3/7/16, Mon - Titus Brown, Amazon Web Services (local+remote) Remote: SFU, Tiffany (tiffany.timbers@gmail.com), Adelaide interested (adelaide.rhodes@cgrb.oregonstate.edu)
 
 3/9/16, Wed - Titus Brown, Jupyter Notebook (local only)
 
@@ -31,9 +31,9 @@ weeks in advance.
 
 4/4/16, Mon - Titus Brown, Advanced Beginner Python (local only)
 
-4/6/16, Wed - Daniel Chen, intro git (SWC lesson on git - local+remote)
+4/6/16, Wed - Daniel Chen, intro git (SWC lesson on git - local+remote) Remote: Adelaide interested (adelaide.rhodes@cgrb.oregonstate.edu)
 
-4/8/16, Fri - Daniel Chen, advanced git (branching & merging, etc. - local+remote)
+4/8/16, Fri - Daniel Chen, advanced git (branching & merging, etc. - local+remote) Remote: Adelaide interested (adelaide.rhodes@cgrb.oregonstate.edu)
 
 4/11/16, Mon - Vessela Ensberg, Open Science Frame Work
 
