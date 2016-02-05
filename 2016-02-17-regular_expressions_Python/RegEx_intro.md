@@ -1,7 +1,7 @@
 # Introduction to Regular Expressions
 
 This lesson is a derivative of this [lesson](https://github.com/ttimbers/studyGroup/blob/gh-pages/lessons/2015-07-21_regex/lesson.md) 
-developed by Bruno Grande
+developed by [Bruno Grande](https://github.com/brunogrande).
 
 ## Motivation
 
