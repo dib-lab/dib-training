@@ -1,0 +1,30 @@
+Amazon Web Services
+===================
+
+Who: Titus Brown, lead instructor. 
+
+When: March 3, 2016
+
+Times: 9:15am-12:15pm PST
+
+Where: TBD, UC Davis campus
+
+Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
+
+.. `> SFU attendees Registration < <https://www.eventbrite.com/e/regular-expressions-python-tickets-20923856819>`__
+.. ----------------------------------------------------------------------------------------------------------------
+`> UC Davis attendees Registration < <https://www.eventbrite.com/e/amazon-web-services-tickets-21073317861>`__
+--------------------------------------------------------------------------------------------------------------
+Note: You only need to register if you plan to attend a workshop in a classroom. If you only plan to watch the online
+stream, then you don't need to the register. The YouTube link for the stream will be posted on this page on the morning 
+just before the workshop starts.
+
+
+Description
+-----------
+
+This half-day workshop will provide an introduction to Amazon Web Services, and 
+how they can be used in data intensive scientific research.
+
+This workshop will be taught at UC Davis and broadcast to several remote sites 
+via Google Hangouts.

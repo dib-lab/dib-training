@@ -1,0 +1,184 @@
+Intermediate Bioinformatics Training 
+====================================
+
+.. @add mailing list info
+
+Who: `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ 
+and many others (see below).
+
+When: February 8 through 12, 2016
+
+Where: `Bodega Marine Lab <http://bml.ucdavis.edu/>`__ at Bodega Bay
+
+Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
+
+Description
+-----------
+
+We will be running a week-long set of Carpentry-style tutorials on intermediate
+to advanced genomics techniques from Feb 8-12, 2016, at the Bodega Marine Lab.  
+We've done this `before <http://angus.readthedocs.org/en/2015/week3.html>`__ 
+and it went pretty `well <http://ivory.idyll.org/blog/2015-small-batch.html>`__.
+
+Schedule
+~~~~~~~~
+
+*Monday:*
+
+- `Jon Badalamenti <http://www.researchgate.net/profile/Jonathan_Badalamenti>`__, University of Minnesota
+
+  + using TnSeq for high throughput identification of loci that cause fitness defects in microbial populations
+
+- Student research presentations
+
+*Tuesday:*
+
+- `Will Trimble <http://www.researchgate.net/profile/Will_Trimble>`__, Argonne National Lab
+
+  + Getting genomes, abstracts, and annotations out of NCBI's API and MG-RAST's API
+  + Understanding kmers and using kmer counts for sequencing quality control
+
+- `Raniere Silva <http://rgaiacs.com/>`__, Software Carpentry 
+
+  + More advanced Git actions, inlcuding tag and rereleases on GitHub, rebasing, and bisect.
+  
+- `Amanda Charbonneau <http://figshare.com/authors/Amanda_Charbonneau/446056>`__, Michigan State University
+
+  + Collaborative authoring with overleaf
+
+*Wednesday:*
+
+- `Byron Smith <http://blog.byronjsmith.com/>`__, University of Michigan
+
+  + Reproducible research tools, including GNU Make for reproducible analysis pipeline
+
+- `April Wright <http://wrightaprilm.github.io/pages/about_me.html>`__, Iowa State
+
+  + Phylogenomics from RADSeq data at a population level using the `Stacks pipeline <http://catchenlab.life.illinois.edu/stacks/>`__.
+  + "Best practice" for NGS phylogenomics data, including testing for bias and comparing phylogenetic parameter estimates 
+  
+- Social Activity
+
+*Thursday:*
+
+- `Kevin Murray <http://www.kdmurray.id.au/>`__, Austrailian National University
+
+  + Genotyping by Sequencing (GBS) bioinformatics `pipeline <http://www.maizegenetics.net/#!genotyping-by-sequencing-gbs/c9c6>`__
+
+- `Jane Charlesworth <http://software.ac.uk/fellows/jane-charlesworth>`__, University of Oxford
+
+  + GWAS bacterial pipeline, focusing on SNPs, gene presence or absense, and khmer variation
+
+*Friday:*
+
+- `Adina Howe <http://www.abe.iastate.edu/adina-howe/>`__, Iowa State
+
+  + Custom databases for better search and annotation
+
+Additional Materials
+=====================
+
+Books
+-----
+
+* `Practical Computing for Biologists <http://practicalcomputing.org/>`__
+
+  This is a highly recommended book for people looking for a systematic
+  presentation on shell scripting, programming, UNIX, etc.
+
+RNAseq
+------
+
+* `Differential gene and transcript expression analysis of RNA-seq
+  experiments with TopHat and Cufflinks
+  <http://www.ncbi.nlm.nih.gov/pubmed/22383036>`__, Trapnell et al.,
+  Nat. Protocols.
+
+  One paper that outlines a pipeline with the tophat, cufflinks, cuffdiffs and
+  some associated R scripts.
+
+* `Statistical design and analysis of RNA sequencing
+  data. <http://www.ncbi.nlm.nih.gov/pubmed/20439781>`__, Auer and
+  Doerge, Genetics, 2010.
+
+* `A comprehensive comparison of RNA-Seq-based transcriptome analysis from reads to differential gene expression and cross-comparison with microarrays: a case study in Saccharomyces cerevisiae. <http://www.ncbi.nlm.nih.gov/pubmed/?term=22965124>`__ Nookaew et al., Nucleic Acids Res. 2012.
+
+* `Challenges and strategies in transcriptome assembly and differential gene expression quantification. A comprehensive in silico assessment of RNA-seq experiments <http://www.ncbi.nlm.nih.gov/pubmed/?term=22998089>`__ Vijay et al., 2012.
+
+* `Computational methods for transcriptome annotation and quantification using RNA-seq <http://www.ncbi.nlm.nih.gov/pubmed/21623353>`__, Garber et al., Nat. Methods, 2011.
+
+* `Evaluation of statistical methods for normalization and differential expression in mRNA-Seq experiments. <http://www.ncbi.nlm.nih.gov/pubmed/?term=20167110>`__, Bullard et al., 2010.
+
+* `A comparison of methods for differential expression analysis of RNA-seq data <http://www.biomedcentral.com/1471-2105/14/91>`__, Soneson and Delorenzi, BMC Bioinformatics, 2013.
+
+* `Measurement of mRNA abundance using RNA-seq data: RPKM measure is inconsistent among samples. <http://www.ncbi.nlm.nih.gov/pubmed/?term=22872506>`__, Wagner et al., Theory Biosci, 2012.  Also see `this blog post <http://blog.nextgenetics.net/?e=51>`__ explaining the paper in detail.
+
+Computing and Data
+------------------
+
+* `A Quick Guide to Organizing Computational Biology Projects <http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000424>`__, Noble, PLoS Comp Biology, 2009.
+
+* `Willingness to Share Research Data Is Related to the Strength of the Evidence and the Quality of Reporting of Statistical Results <http://software-carpentry.org/blog/2012/05/the-most-important-scientific-result-published-in-the-last-year.html>`__, Wicherts et al., PLoS One, 2011.
+
+* `Got replicability? <http://econjwatch.org/articles/got-replicability-the-journal-of-money-credit-and-banking-archive>`__, McCullough, Economics in Practice, 2007.
+
+Also see this great pair of blog posts on `organizing projects <http://nicercode.github.io/blog/2013-04-05-projects/>`__ and `research workflow <http://carlboettiger.info/2012/05/06/research-workflow.html>`__.
+
+.. Links
+.. =====
+
+Humor
+-----
+
+* `Data Sharing and Management Snafu in 3 Short Acts <http://www.youtube.com/watch?v=N2zK3sAtr-4&feature=youtu.be>`__
+
+Resources
+---------
+
+* `Biostar <http://biostars.org>`__
+
+  A high quality question & answer Web site.
+
+* `SEQanswers <http://seqanswers.com/>`__
+
+  A discussion and information site for next-generation sequencing.
+
+* `Software Carpentry lessons <http://software-carpentry.org/4_0/index.html>`__
+
+  A large number of open and reusable tutorials on the shell, programming,
+  version control, etc.
+
+Blogs
+-----
+
+* http://www.genomesunzipped.org/
+
+  Genomes Unzipped.
+
+* http://ivory.idyll.org/blog/
+
+  Titus's blog.
+
+* http://bcbio.wordpress.com/
+
+  Blue Collar Bioinformatics
+
+* http://massgenomics.org/
+
+  Mass Genomics
+
+* http://blog.nextgenetics.net/
+
+  Next Genetics
+
+* http://gettinggeneticsdone.blogspot.com/
+
+  Getting Genetics Done
+
+* http://omicsomics.blogspot.com/
+
+  Omics! Omics!
+
+* http://lab.loman.net/
+
+  Nick Loman's lab notebook

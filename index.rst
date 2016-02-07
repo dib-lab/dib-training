@@ -41,21 +41,17 @@ list <http://lists.idyll.org/listinfo/dib-training>`__ if you want to
 be notified when registration opens up; you can also subscribe to many events
 on github.
 
-January 13, 2016 - `Advanced beginner UNIX shell - half day workshop. <http://dib-training.readthedocs.org/en/pub/2016-01-13-adv-beg-shell.html>`__
+February 5, 2016 - `Introductory git - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-02-05-intro-git.html>`__
 
-January 20, 2016 - `pydoit for workflow automation (Camille Scott) - half day workshop (broadcast). <http://dib-training.readthedocs.org/en/pub/2016-01-20-pydoit-lr.html>`__
+February 17, 2016 - `Regular expressions and Python (Tiffany Timbers) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-02-17-regular-expressions-python.html>`__ 
 
-January 27, 2016 - `Advanced git (Raniere Silva) - half day workshop (broadcast). <http://dib-training.readthedocs.org/en/pub/2016-01-27-adv-git-lr.html>`__
+February 19, 2016 - `scipy.optimize (Ariel Rokem) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-02-19-scipy-lr.html>`__ 
 
-February 5, 2016 - Introductory git - half day workshop
-
-February 17, 2016 - Regular expressions and Python (Tiffany Timbers) - half day workshop (broadcast). `(See GitHub issue <https://github.com/dib-lab/dib-training/issues/24>`__)
-
-February 19, 2016 - scipy.optimize (Ariel Rokem) - half day workshop (broadcast)
-
-February 29, 2016 - Sphinx, Webhooks, and Bitbucket (Adelaide Rhodes) - half day workshop (broadcast)
+February 29, 2016 - `Sphinx, Webhooks, and Bitbucket (Adelaide Rhodes) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-02-29-sph-webh-bitb-lr.html>`__ 
 
 March 7, 2016 - Amazon Web Services - half day workshop (broadcast)
+
+.. March 7, 2016 - `Amazon Web Services - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-03-03-aws-br.html>`__
 
 March 9, 2016 - Jupyter Notebook - half day workshop
 
@@ -117,6 +113,9 @@ Past Workshops
 --------------
 .. * November 19-20, 2015: `Advanced IPython Notebook/Project Jupyter <http://dib-training.readthedocs.org/en/pub/2015-11-19-ipython-jupyter.html>`__
 
+* January 27, 2016 - `Advanced git (Raniere Silva) - half day workshop (broadcast). <http://dib-training.readthedocs.org/en/pub/2016-01-27-adv-git-lr.html>`__
+* January 20, 2016 - `pydoit for workflow automation (Camille Scott) - half day workshop (broadcast). <http://dib-training.readthedocs.org/en/pub/2016-01-20-pydoit-lr.html>`__
+* January 13, 2016 - `Advanced beginner UNIX shell - half day workshop. <http://dib-training.readthedocs.org/en/pub/2016-01-13-adv-beg-shell.html>`__
 * December 7-8, 2015: `UCSC Genome Browser workshop <http://training.bioinformatics.ucdavis.edu/2015/07/14/ucsc-genome-browser-workshop-december-7-8-2015/>`__
 * December 4, 2015: `d3.js for Interactive Data Visualization <http://dib-training.readthedocs.org/en/pub/2015-12-04-d3js.html>`__
 * December 3, 2015: `Half Day Shell Workshop <http://dib-training.readthedocs.org/en/pub/2015-12-03-shell-halfday.html>`__

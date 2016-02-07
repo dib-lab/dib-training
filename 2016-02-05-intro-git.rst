@@ -1,9 +1,9 @@
-Advanced Git
-============
+Introductory Git
+================
 
-Who: Raniere Silva, lead instructor.
+Who: Titus Brown, lead instructor; Sherine Awad and Luiz Irber, TAs.
 
-When: January 27, 2016
+When: February 5, 2016
 
 Times: 9:15am-12:15pm PST
 
@@ -12,21 +12,31 @@ Where: `DSI Space, Shields Library, UC Davis Campus  <http://dib-training.readth
 Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
 
-`> Watch YouTube Stream Here < <http://youtu.be/JTnIDMn47Pk>`__
-----------------------------------------------------------------
+ `> Register Here < <https://www.eventbrite.com/e/introductory-git-half-day-workshop-tickets-20040916922>`__
+-----------------------------------------------------------------------------------------------------------
 
-`> Materials Link Here < <https://rgaiacs.github.io/swc-git-intermediate/>`__
------------------------------------------------------------------------------
-
-And, view the `etherpad <https://beta.etherpad.org/p/advanced-git-workshop>`__ here.
+`> Materials Link Here < <https://swcarpentry.github.io/git-novice/>`__
+-----------------------------------------------------------------------
 
 
 Description
 -----------
 
-Git is a version control software, it is very helpful for managing changing projects and is 
-very useful when working collaboratively. This lesson will assume some familiarity with Git
-and will build upon `Software Carpentry's Novice Git Lesson <https://swcarpentry.github.io/git-novice/>`__.
+
+This workshop will introduce the basics of git, a widely used system
+for managing changes to files.  Git and related systems are key for
+replicability when doing any kind of computational analysis.
+
+This will be a gentle introduction to git that follows the Software
+Carpentry lesson.
+
+Some experience with the command line is strongly suggested, but you
+don't need to be an expert by any means; we will have friendly TAs,
+too!
+
+We will also talk about github, a site that enables collaboration
+around files in git.
+ 
 
 Computer and workshop requirements
 ----------------------------------
