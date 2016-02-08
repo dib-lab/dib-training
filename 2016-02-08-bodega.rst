@@ -42,9 +42,9 @@ Schedule
   + Getting genomes, abstracts, and annotations out of NCBI's API and MG-RAST's API
   + Understanding kmers and using kmer counts for sequencing quality control
 
-- `Raniere Silva <http://rgaiacs.com/>`__, Software Carpentry 
+- Luiz Irber, UC Davis.
 
-  + More advanced Git actions, inlcuding tag and rereleases on GitHub, rebasing, and bisect.
+  + More advanced Git actions, including tag and rereleases on GitHub, rebasing, and bisect.
   
 - `Amanda Charbonneau <http://figshare.com/authors/Amanda_Charbonneau/446056>`__, Michigan State University
 
