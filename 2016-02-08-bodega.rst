@@ -54,14 +54,16 @@ Schedule of presentations
 
   + Understanding sequencing data set quality with k-mers
 
-- Luiz Irber, UC Davis.
-
-  + Intermediate version control with git (tag, rebasing, bisect)
-  
 - `Jon Badalamenti <http://www.researchgate.net/profile/Jonathan_Badalamenti>`__, University of Minnesota
 
   + `TnSeq analysis of bacterial genomes <http://jbadomics.github.io/tnseq/>`__
 
+Evening activity:
+
+- Luiz Irber, UC Davis.
+
+  + Intermediate version control with git (tag, rebasing, bisect)
+  
 *Wednesday:*
 
 - `Byron Smith <http://blog.byronjsmith.com/>`__, University of Michigan
