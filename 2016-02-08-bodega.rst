@@ -24,19 +24,14 @@ pretty `well <http://ivory.idyll.org/blog/2015-small-batch.html>`__.
 Daily schedule
 ~~~~~~~~~~~~~~
 
-Breakfast: 8am-8:45am, at the cafeteria near housing.
-
-Morning lecture start: 9:15am (at main lab, over the dunes/up the road).
-
-Lunch: at our discretion; sandwiches prepared at breakfast.
-
-Dinner: 6-6:45pm, cafeteria.
-
-Note, we have planned after-dinner presentations on most days.
-
-.. questions:
-
-   when do we do breaks? over lunch? then lectures 3pm-6pm, 7:15-10pm?
+Time period     Activity
+-----------     -------------------------------------------------------------
+8am-8:45am      Breakfast, at housing cafeteria
+9:15am          First tutorial
+noon-3pm        Break for lunch, excursions, relaxation
+3pm-6pm         Second tutorial
+6pm-6:45pm      Dinner, at housing cafeteria
+7pm+            Unplanned time (down by housing)
 
 Schedule of presentations
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -65,7 +60,7 @@ Schedule of presentations
   
 - `Jon Badalamenti <http://www.researchgate.net/profile/Jonathan_Badalamenti>`__, University of Minnesota
 
-  + TnSeq analysis of bacterial genomes
+  + `TnSeq analysis of bacterial genomes <http://jbadomics.github.io/tnseq/>`__
 
 *Wednesday:*
 
