@@ -15,13 +15,31 @@ Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any quest
 Description
 -----------
 
-We will be running a week-long set of Carpentry-style tutorials on intermediate
-to advanced genomics techniques from Feb 8-12, 2016, at the Bodega Marine Lab.  
-We've done this `before <http://angus.readthedocs.org/en/2015/week3.html>`__ 
-and it went pretty `well <http://ivory.idyll.org/blog/2015-small-batch.html>`__.
+We will be running a week-long set of Carpentry-style tutorials on
+intermediate to advanced genomics techniques from Feb 8-12, 2016, at
+the Bodega Marine Lab.  We've done this `before
+<http://angus.readthedocs.org/en/2015/week3.html>`__ and it went
+pretty `well <http://ivory.idyll.org/blog/2015-small-batch.html>`__.
 
-Schedule
-~~~~~~~~
+Daily schedule
+~~~~~~~~~~~~~~
+
+Breakfast: 8am-8:45am, at the cafeteria near housing.
+
+Morning lecture start: 9:15am (at main lab, over the dunes/up the road).
+
+Lunch: at our discretion; sandwiches prepared at breakfast.
+
+Dinner: 6-6:45pm, cafeteria.
+
+Note, we have planned after-dinner presentations on most days.
+
+.. questions:
+
+   when do we do breaks? over lunch? then lectures 3pm-6pm, 7:15-10pm?
+
+Schedule of presentations
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *Monday:*
 
@@ -29,43 +47,41 @@ Schedule
 
 - Titus, introductions and Amazon Web Services.
 
-- `Jon Badalamenti <http://www.researchgate.net/profile/Jonathan_Badalamenti>`__, University of Minnesota
+- `Amanda Charbonneau <http://figshare.com/authors/Amanda_Charbonneau/446056>`__, Michigan State University
 
-  + using TnSeq for high throughput identification of loci that cause fitness defects in microbial populations
+  + Collaborative authoring with overleaf
 
-- Student research presentations
+- Attendee research presentations
 
 *Tuesday:*
 
 - `Will Trimble <http://www.researchgate.net/profile/Will_Trimble>`__, Argonne National Lab
 
-  + Getting genomes, abstracts, and annotations out of NCBI's API and MG-RAST's API
-  + Understanding kmers and using kmer counts for sequencing quality control
+  + Understanding sequencing data set quality with k-mers
 
 - Luiz Irber, UC Davis.
 
-  + More advanced Git actions, including tag and rereleases on GitHub, rebasing, and bisect.
+  + Intermediate version control with git (tag, rebasing, bisect)
   
-- `Amanda Charbonneau <http://figshare.com/authors/Amanda_Charbonneau/446056>`__, Michigan State University
+- `Jon Badalamenti <http://www.researchgate.net/profile/Jonathan_Badalamenti>`__, University of Minnesota
 
-  + Collaborative authoring with overleaf
+  + TnSeq analysis of bacterial genomes
 
 *Wednesday:*
 
 - `Byron Smith <http://blog.byronjsmith.com/>`__, University of Michigan
 
-  + Reproducible research tools, including GNU Make for reproducible analysis pipeline
+  + Reproducible research wtih GNU make (for building pipelines)
 
 - `April Wright <http://wrightaprilm.github.io/pages/about_me.html>`__, Iowa State
 
-  + Phylogenomics from RADSeq data at a population level using the `Stacks pipeline <http://catchenlab.life.illinois.edu/stacks/>`__.
-  + "Best practice" for NGS phylogenomics data, including testing for bias and comparing phylogenetic parameter estimates 
+  + Building phylogenetic trees from RADseq
   
 - Social Activity
 
 *Thursday:*
 
-- `Kevin Murray <http://www.kdmurray.id.au/>`__, Austrailian National University
+- `Kevin Murray <http://www.kdmurray.id.au/>`__, Australian National University
 
   + Genotyping by Sequencing (GBS) bioinformatics `pipeline <http://www.maizegenetics.net/#!genotyping-by-sequencing-gbs/c9c6>`__
 
