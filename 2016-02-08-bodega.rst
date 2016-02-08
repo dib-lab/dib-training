@@ -24,14 +24,16 @@ pretty `well <http://ivory.idyll.org/blog/2015-small-batch.html>`__.
 Daily schedule
 ~~~~~~~~~~~~~~
 
-Time period     Activity
------------     -------------------------------------------------------------
-8am-8:45am      Breakfast, at housing cafeteria
-9:15am          First tutorial
-noon-3pm        Break for lunch, excursions, relaxation
-3pm-6pm         Second tutorial
-6pm-6:45pm      Dinner, at housing cafeteria
-7pm+            Unplanned time (down by housing)
+===========  ==========================================
+Time period  Activity
+===========  ==========================================
+8am-8:45am   Breakfast, at housing cafeteria
+9:15am       First tutorial
+noon-3pm     Break for lunch, excursions, relaxation
+3pm-6pm      Second tutorial
+6pm-6:45pm   Dinner, at housing cafeteria
+7pm+         Unplanned time (down by housing)
+===========  ==========================================
 
 Schedule of presentations
 ~~~~~~~~~~~~~~~~~~~~~~~~~
