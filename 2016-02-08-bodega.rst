@@ -25,6 +25,10 @@ Schedule
 
 *Monday:*
 
+(starting at 1:30pm in the main lab)
+
+- Titus, introductions and Amazon Web Services.
+
 - `Jon Badalamenti <http://www.researchgate.net/profile/Jonathan_Badalamenti>`__, University of Minnesota
 
   + using TnSeq for high throughput identification of loci that cause fitness defects in microbial populations
@@ -67,7 +71,7 @@ Schedule
 
 - `Jane Charlesworth <http://software.ac.uk/fellows/jane-charlesworth>`__, University of Oxford
 
-  + GWAS bacterial pipeline, focusing on SNPs, gene presence or absense, and khmer variation
+  + GWAS bacterial pipeline, focusing on SNPs, gene presence or absence, and k-mer variation
 
 *Friday:*
 
