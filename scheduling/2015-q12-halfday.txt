@@ -15,9 +15,9 @@ weeks in advance.
 
 2/5/16, Fri - Titus Brown, Introductory git (local only)
 
-2/17/16, Wed - Tiffany Timbers, regular expressions & Python (local+remote)
+2/17/16, Wed - Tiffany Timbers, regular expressions & Python (local+remote) Remote: Ann Meyer <Ann.Meyer@oicr.on.ca>, Ontario Institute for Cancer Research
 
-2/19/16, Fri - Ariel Rokem, scipy.optimize (local+remote)
+2/19/16, Fri - Ariel Rokem, scipy.optimize (local+remote) helper - Valentina Staneva <vms16@uw.edu>
 
 2/29/16, Mon - Adelaide Rhodes, sphinx + webhooks + bitbucket (local+remote)
 
