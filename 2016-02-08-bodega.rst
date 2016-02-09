@@ -42,7 +42,9 @@ Schedule of presentations
 
 (starting at 1:30pm in the main lab)
 
-- Titus, introductions and Amazon Web Services.
+- Titus, introductions; reminding everyone of `Amazon Web Services stuff <https://angus.readthedocs.org/en/2015/amazon/>`__
+
+- 3pm: Quick tour of things.
 
 - `Amanda Charbonneau <http://figshare.com/authors/Amanda_Charbonneau/446056>`__, Michigan State University
 
@@ -52,7 +54,7 @@ Schedule of presentations
 
 - `Will Trimble <http://www.researchgate.net/profile/Will_Trimble>`__, Argonne National Lab
 
-  + Understanding sequencing data set quality with k-mers
+  + `Understanding sequencing data set quality with k-mers <https://github.com/wltrimbl/cloud-kmers>`__
 
 - `Jon Badalamenti <http://www.researchgate.net/profile/Jonathan_Badalamenti>`__, University of Minnesota
 
