@@ -61,10 +61,6 @@ Schedule of presentations
 Evening activity:
 
 - Attendee research presentations
-
-- Luiz Irber, UC Davis.
-
-  + Intermediate version control with git (tag, rebasing, bisect)
   
 *Wednesday:*
 
@@ -76,7 +72,9 @@ Evening activity:
 
   + Building phylogenetic trees from RADseq
   
-- Social Activity
+- Luiz Irber, UC Davis.
+
+  + Intermediate version control with git (tag, rebasing, bisect)
 
 *Thursday:*
 
