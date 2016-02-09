@@ -46,7 +46,7 @@ Schedule of presentations
 
 - 3pm: Quick tour of things.
 
-- `Amanda Charbonneau <http://figshare.com/authors/Amanda_Charbonneau/446056>`__, Michigan State University
+- `Amanda Charbonneau <https://github.com/ACharbonneau/LaTeX2016.git>`__, Michigan State University
 
   + Collaborative authoring with overleaf
 
