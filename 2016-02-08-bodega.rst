@@ -72,7 +72,7 @@ Evening activity:
 
 - `April Wright <http://wrightaprilm.github.io/pages/about_me.html>`__, Iowa State
 
-  + Building phylogenetic trees from RADseq
+  + `Building phylogenetic trees from RADseq <https://github.com/wrightaprilm/BodegaBayWorkshop>`__
   
 - Luiz Irber, UC Davis.
 
