@@ -48,8 +48,6 @@ Schedule of presentations
 
   + Collaborative authoring with overleaf
 
-- Attendee research presentations
-
 *Tuesday:*
 
 - `Will Trimble <http://www.researchgate.net/profile/Will_Trimble>`__, Argonne National Lab
@@ -61,6 +59,8 @@ Schedule of presentations
   + `TnSeq analysis of bacterial genomes <http://jbadomics.github.io/tnseq/>`__
 
 Evening activity:
+
+- Attendee research presentations
 
 - Luiz Irber, UC Davis.
 
