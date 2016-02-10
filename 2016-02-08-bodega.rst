@@ -62,7 +62,7 @@ Schedule of presentations
 
   + `TnSeq analysis of bacterial genomes <http://jbadomics.github.io/tnseq/>`__
 
-Evening activity:
+Evening:
 
 - Attendee research presentations
   
@@ -75,6 +75,8 @@ Evening activity:
 - `April Wright <http://wrightaprilm.github.io/pages/about_me.html>`__, Iowa State
 
   + `Building phylogenetic trees from RADseq <https://github.com/wrightaprilm/BodegaBayWorkshop>`__
+  
+  Evening:
   
 - Luiz Irber, UC Davis.
 
