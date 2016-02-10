@@ -76,7 +76,7 @@ Evening:
 
   + `Building phylogenetic trees from RADseq <https://github.com/wrightaprilm/BodegaBayWorkshop>`__
   
-  Evening:
+Evening activity:
   
 - Luiz Irber, UC Davis.
 
