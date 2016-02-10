@@ -74,7 +74,7 @@ Evening:
 
 - Luiz Irber, UC Davis.
 
-  + Intermediate version control with git (tag, rebasing, bisect)
+  + Intermediate version control with git (tag, rebasing, bisect) (`Part one <https://swcarpentry.github.io/git-novice/>`__, `Part two <https://rgaiacs.github.io/swc-git-intermediate/>`__)
 
 - `April Wright <http://wrightaprilm.github.io/pages/about_me.html>`__, Iowa State
 
