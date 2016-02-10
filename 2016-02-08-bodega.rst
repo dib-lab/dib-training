@@ -21,6 +21,8 @@ the Bodega Marine Lab.  We've done this `before
 <http://angus.readthedocs.org/en/2015/week3.html>`__ and it went
 pretty `well <http://ivory.idyll.org/blog/2015-small-batch.html>`__.
 
+Twitter hashtag: `#bodega16 <https://twitter.com/hashtag/bodega16?src=hash>`__
+
 Daily schedule
 ~~~~~~~~~~~~~~
 
