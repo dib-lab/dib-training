@@ -72,16 +72,16 @@ Evening:
 
   + `Reproducible research with GNU make (for building pipelines) <http://bsmith89.github.io/make-bml/>`__
 
+- Luiz Irber, UC Davis.
+
+  + Intermediate version control with git (tag, rebasing, bisect)
+
 - `April Wright <http://wrightaprilm.github.io/pages/about_me.html>`__, Iowa State
 
   + `Building phylogenetic trees from RADseq <https://github.com/wrightaprilm/BodegaBayWorkshop>`__
   
 Evening activity:
   
-- Luiz Irber, UC Davis.
-
-  + Intermediate version control with git (tag, rebasing, bisect)
-
 *Thursday:*
 
 - `Kevin Murray <http://www.kdmurray.id.au/>`__, Australian National University
