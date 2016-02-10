@@ -96,7 +96,7 @@ Evening activity:
 
 - `Adina Howe <http://www.abe.iastate.edu/adina-howe/>`__, Iowa State
 
-  + Custom databases for better search and annotation
+  + `Custom databases for better search and annotation <http://blast-tutorial.readthedocs.org/en/latest/ncbi/index.html>`__
 
 Additional Materials
 =====================
