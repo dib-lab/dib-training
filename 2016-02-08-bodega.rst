@@ -70,7 +70,7 @@ Evening:
 
 - `Byron Smith <http://blog.byronjsmith.com/>`__, University of Michigan
 
-  + `Reproducible research wtih GNU make (for building pipelines) <http://bsmith89.github.io/make-bml/>`__
+  + `Reproducible research with GNU make (for building pipelines) <http://bsmith89.github.io/make-bml/>`__
 
 - `April Wright <http://wrightaprilm.github.io/pages/about_me.html>`__, Iowa State
 
