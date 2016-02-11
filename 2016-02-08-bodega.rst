@@ -89,7 +89,7 @@ Evening:
 
 - `Jane Charlesworth <http://software.ac.uk/fellows/jane-charlesworth>`__, University of Oxford
 
-  + GWAS bacterial pipeline, focusing on SNPs, gene presence or absence, and k-mer variation
+  + `GWAS bacterial pipeline, focusing on SNPs, gene presence or absence, and k-mer variation <https://github.com/janepipistrelle/bacterial_GWAS_tutorial/blob/master/tutorial.rmd>`__
   
 Evening activity:
 
