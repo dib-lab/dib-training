@@ -79,18 +79,21 @@ Evening:
 - `April Wright <http://wrightaprilm.github.io/pages/about_me.html>`__, Iowa State
 
   + `Building phylogenetic trees from RADseq <https://github.com/wrightaprilm/BodegaBayWorkshop>`__
-  
-Evening activity:
+
   
 *Thursday:*
 
 - `Kevin Murray <http://www.kdmurray.id.au/>`__, Australian National University
 
-  + Genotyping by Sequencing (GBS) bioinformatics `pipeline <http://www.maizegenetics.net/#!genotyping-by-sequencing-gbs/c9c6>`__
+  + `Genotyping by Sequencing (GBS) bioinformatics pipeline <http://bodega-gbs.readthedocs.org/en/latest/gbs-main.html>`__
 
 - `Jane Charlesworth <http://software.ac.uk/fellows/jane-charlesworth>`__, University of Oxford
 
   + GWAS bacterial pipeline, focusing on SNPs, gene presence or absence, and k-mer variation
+  
+Evening activity:
+
+- Docker & drinks in the lounge (starting at 8 pm)
 
 *Friday:*
 
