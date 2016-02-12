@@ -99,6 +99,13 @@ June 29, 2016 - TBD - half day workshop
 .. dec 3, 4 - metagenome assembly/foo
 .. oct 5-6 - workflow tracking, automation, and reproducibility hands-on
 
+YouTube Videos from Streamed Workshops
+--------------------------------------
+
+* December 4, 2015 - `d3.js for Interactive Data Visualization (Emily Dolson) <https://www.youtube.com/watch?v=eIrZjVH0Zcg>`__
+* January 20, 2016 - `pydoit for workflow automation (Camille Scott) - half day workshop (broadcast). <http://www.youtube.com/watch?v=EfD9bWmL-1M&t=20m20s>`__
+* January 27, 2016 - `Advanced git (Raniere Silva) - half day workshop (broadcast). <https://www.youtube.com/watch?v=JTnIDMn47Pk&feature=youtu.be>`__
+
 
 Workshop materials
 ------------------
