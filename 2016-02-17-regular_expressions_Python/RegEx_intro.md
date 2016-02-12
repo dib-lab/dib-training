@@ -28,7 +28,8 @@ up a whole world of possibilities.
 1. Open [regexr.com](http://regexr.com/). 
 2. Erase all of the text in the "Expression" and "Text" text boxes.
 3. Copy the appropriate text in the bottom text box on [regexr.com](http://regexr.com/). See each part below for the example text. 
-4. Enjoy the lesson!
+4. Click on "flags" on the right hand side of the page and select both "global(g)" and "multiline(m)" from the dropdown menu.
+5. Enjoy the lesson!
 
 ## Lesson
 
@@ -190,7 +191,6 @@ Match all of the phone number formats listed below.
 ```text
 415-555-1234
 650-555-2345
-(416)555-3456
 202 555 4567
 4035555678
 1 416 555 9292
@@ -201,6 +201,29 @@ Match all of the phone number formats listed below.
 *Answers to challenge questions are located at the bottom of this lesson.*
 
 ----
+
+What happens if you need to match characters that are already part of regular expression
+syntax? For example, a phone number containing brackets: `(416)555-3456`
+
+To do this we use the escape character before the the matching character, so to match 
+this phone number exactly the pattern would become:
+
+```text
+\(416\)555-3456
+```
+
+#### Challenge Question 3
+
+Modify your previous regular expression to match all of these phone number formats listed below. 
+
+```text
+415-555-1234
+650-555-2345
+202 555 4567
+4035555678
+1 416 555 9292
+(416)555-3456
+```
 
 ### Part 3: Character Classes
 
@@ -219,7 +242,7 @@ Bruno_Grande1991@sfu.ca
 Bruno_Grande.1991@sfu.ca
 Bruno_Grande-1991@sfu.ca
 Bruno_Grande-1991@engage-sfu.ca
-Bruno_Grande.1991@sfu.co.uk
+Bruno_Grande.1991@sfu.uk
 
 # Invalid emails
 bruno grande@sfu.ca
@@ -346,7 +369,7 @@ We are now finally matching the first part of every valid emails.
 
 ----
 
-#### Challenge Question 3
+#### Challenge Question 4
 
 Now, expand on this pattern to also match the entire emails. Remember: you wish to only 
 match valid emails. Ensure that none of the invalid emails are matched. 
@@ -360,41 +383,9 @@ contain letters (no digits or dashes).
 
 ----
 
-There are a few more character classes available to us in regular expressions. 
-
-In addition to the three character classes introduced above (`\d`, `\w`, `\s`), you can 
-also match the "inverse" of any of them by using their upper-case equivalent 
-(`\D`, `\W`, `\S`, respectively). 
-
-More formally, here are the equivalents:
-
-* `\D` = `[^0-9]` (Anything except digits)
-* `\W` = `[^A-za-z0-9_]` (Anything except word characters)
-* `\S` = `[^ \t\r\n\f]` (Anything except whitespace characters)
-
-You'll notice the caret as the first character between square braquets above. Here, it is 
-acting as a special character: it is negating the ranges. For instance, `[^0-9]` matches 
-anything that isn't a digit. 
-
-While on the topic of escaping characters, another use of the backslash (`\`) is to refer 
-to whitespace characters. Obviously, you can include a space in a pattern by typing a 
-space (` `). However, for other whitespace characters, there are "visible" equivalents. 
-
-* `\t` = Tab 
-* `\n` = Newline 
-* `\r` = Carriage return
-
-In the Unix world (including OS X), you will mostly encounter tabs (`\t`) and newlines 
-(`\n`). However, on Windows, a "newline" is often represented as a carriage return 
-followed by a newline (`\r\n`). 
-
-**Tip:** If ever you run into issues where everything in a file is on one line or your 
-regex isn't matching newlines properly, it might be due to line endings not being 
-interpreted correctly. 
-
 ----
 
-#### Challenge Question 4
+#### Challenge Question 5
 
 Create a regex pattern that matches all of the number formats listed below. 
 
@@ -431,10 +422,18 @@ CTGC[ATGC]{4}
 There are many approaches to solving this challenge. Here's my attempt:
 
 ```text
-1? ?\(?\d{3}\)?[- ]?\d{3}[- ]?\d{4}
+1? ?\d{3}[- ]?\d{3}[- ]?\d{4}
 ```
 
 #### Challenge Question 3
+
+There are many approaches to solving this challenge. Here's my attempt:
+
+```text
+1? ?\(?\d{3}\)?[- ]?\d{3}[- ]?\d{4}
+```
+
+#### Challenge Question 4
 
 Starting with our pattern to match the emails' first part, we can match a `@` followed by 
 characters making up a valid URL (`[A-Za-z0-9-]`). However, the first character of the URL 
@@ -457,22 +456,17 @@ To circumvent this issue, we need to specify the period outside of the square br
 ^[\w.-]+@[A-Za-z0-9][A-Za-z0-9-]+\.[A-Za-z]+
 ```
 
-This is nearly the solution, but there is still one problem: when the URL has more than 
-one period. The workaround for this is simple though once you notice the pattern: the last 
-part (period followed by letters) can be repeated any number of times. To achieve this 
-pattern in regex, you need to wrap the subpattern you wish to repeat (like with the 
-repeating TA dinucleotide earlier) in parentheses. Then, you may add the quantifier, which 
-is one or more in this case (`+`), and the line ending notation (`$`). 
-
-```text
-^[\w.-]+@[A-Za-z0-9][A-Za-z0-9-]+(\.[A-Za-z]+)+$
-```
-
 And voilà! You are now only matching valid emails. 
 
-#### Challenge Question 4
+#### Challenge Question 5
 
-Again, there are multiple ways of solving this challenge. Here's one example solution. 
+Again, there are multiple ways of solving this challenge. Here's two example solutions. 
+
+```text
+-?\d+\,?\d*\.?\d*e?\d*
+```
+
+or
 
 ```text
 -?(\d+,?)+(\.\d+)?(e\d+)?
