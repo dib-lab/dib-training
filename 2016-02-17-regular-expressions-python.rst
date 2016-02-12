@@ -46,7 +46,7 @@ programming as well.  Installing all of its scientific packages individually can
 a bit difficult, so we recommend `Anaconda <https://www.continuum.io/anaconda>`__, 
 an all-in-one installer. We also will be using the Python `screed <http://screed.readthedocs.org/en/latest/screed.html>` package. 
 After installing Python (detailed instructions below), you can install screed by going to
-the command line/terminal and typing: `pip install screed`.
+the command line/terminal and typing: `pip install screed`
 
 This session will be taught using the IPython notebook, a programming environment
 that runs in a web browser. For this to work you will need a reasonably
