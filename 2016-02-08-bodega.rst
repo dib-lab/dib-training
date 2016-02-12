@@ -95,6 +95,8 @@ Evening activity:
 
 - Docker & drinks in the lounge (starting at 8 pm)
 
+- Titus Brown, `Docker / Jupyter / mybinder.org <https://github.com/ngs-docs/2016-bodega-docker>`__
+
 *Friday:*
 
 - `Adina Howe <http://www.abe.iastate.edu/adina-howe/>`__, Iowa State
