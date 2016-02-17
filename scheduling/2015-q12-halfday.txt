@@ -35,13 +35,15 @@ weeks in advance.
 
 4/8/16, Fri - Daniel Chen, advanced git (branching & merging, etc. - local+remote) Remote: Adelaide interested (adelaide.rhodes@cgrb.oregonstate.edu)
 
-4/11/16, Mon - Vessela Ensberg, Open Science Frame Work
+4/11/16, Mon - Titus Brown, TBD
 
 4/13/16, Wed - Titus Brown, TBD
 
 4/18/16, Mon - Titus Brown, TBD
 
 4/27/16, Wed - Meeta Mistry, TBD
+
+ 5/4/16, Wed - Vessela Ensberg, Open Science Framework 
 
 5/11/16, Wed - Marian Schmidt, Rmarkdown (local+Remote) Remote: SFU, Tiffany (tiffany.timbers@gmail.com)
 
