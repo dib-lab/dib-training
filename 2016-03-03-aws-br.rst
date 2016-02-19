@@ -3,7 +3,7 @@ Amazon Web Services
 
 Who: Titus Brown, lead instructor. 
 
-When: March 3, 2016
+When: March 7, 2016
 
 Times: 9:15am-12:15pm PST
 
@@ -23,8 +23,10 @@ just before the workshop starts.
 Description
 -----------
 
-This half-day workshop will provide an introduction to Amazon Web Services, and 
-how they can be used in data intensive scientific research.
+Amazon Web Services is one of a number of cloud computing services that offers “rental compute” - a way to buy compute time as you need it.  This is an increasingly common way for scientists to scale up their work, and it also has a number of benefits for reproducibility and teaching.
 
-This workshop will be taught at UC Davis and broadcast to several remote sites 
-via Google Hangouts.
+This tutorial will introduce people to using Amazon Web Services to run programs on a Linux computer rented through their Web interface (“EC2”). I’ll demonstrate the basic process, discuss different options and pricing schemes, and cover the use of AWS disk storage. I’ll also demonstrate S3 (Simple Storage Service) which is a way to store and distribute large files.
+
+Attendees will need to pay their own AWS costs - it will be less than $5 total for the workshop. You will need a reasonably modern computer and there will be some software to pre-install (but not much).
+
+This workshop will be broadcast via Google Hangouts on Air/YouTube for those who wish to participate remotely.
