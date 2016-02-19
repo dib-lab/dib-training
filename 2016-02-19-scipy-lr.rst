@@ -24,6 +24,8 @@ Workshop materials are available online here: http://arokem.github.io/scipy-opti
 
 The presentation of these materials is available via YouTube at http://www.youtube.com/watch?v=0eFokR-ikaA (live-streamed and then recorded).
 
+During the workshop, there will be an `etherpad <https://etherpad.wikimedia.org/p/2016-02-19-scipy-lr>`__.
+
 Description
 -----------
 
