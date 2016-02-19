@@ -20,6 +20,9 @@ just before the workshop starts.
 `Workshop materials <http://arokem.github.io/scipy-optimize>`__
 ---------------------------------------------------------------
 
+Workshop materials are available online here: http://arokem.github.io/scipy-optimize.
+
+The presentation of these materials is available via YouTube at http://www.youtube.com/watch?v=0eFokR-ikaA (live-streamed and then recorded).
 
 Description
 -----------
