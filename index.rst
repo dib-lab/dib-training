@@ -42,8 +42,6 @@ be notified when registration opens up; you can also subscribe to many events
 on github.
 
 
-February 19, 2016 - `scipy.optimize (Ariel Rokem) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-02-19-scipy-lr.html>`__ 
-
 February 29, 2016 - `Sphinx, Webhooks, and Bitbucket (Adelaide Rhodes) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-02-29-sph-webh-bitb-lr.html>`__ 
 
 March 7, 2016 - Amazon Web Services - half day workshop (broadcast)
@@ -103,6 +101,7 @@ YouTube Videos from Streamed Workshops
 * January 20, 2016 - `pydoit for workflow automation (Camille Scott) <http://www.youtube.com/watch?v=EfD9bWmL-1M&t=20m20s>`__
 * January 27, 2016 - `Advanced git (Raniere Silva) <https://www.youtube.com/watch?v=JTnIDMn47Pk&feature=youtu.be>`__
 * February 17, 2016 - `Regular Expressions & Python (Tiffany Timbers) <https://www.youtube.com/watch?v=GklxBhgUR4g>`__
+* February 19, 2016 - `scipy.optimize (Ariel Rokem) <http://www.youtube.com/watch?v=0eFokR-ikaA>`__
 
 
 Workshop materials
@@ -118,6 +117,7 @@ Past Workshops
 --------------
 .. * November 19-20, 2015: `Advanced IPython Notebook/Project Jupyter <http://dib-training.readthedocs.org/en/pub/2015-11-19-ipython-jupyter.html>`__
 
+* February 19, 2016 - `scipy.optimize (Ariel Rokem) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-02-19-scipy-lr.html>`__ 
 * February 17, 2016 - `Regular expressions and Python (Tiffany Timbers) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-02-17-regular-expressions-python.html>`__ 
 * February 5, 2016 - `Introductory git - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-02-05-intro-git.html>`__
 * January 27, 2016 - `Advanced git (Raniere Silva) - half day workshop (broadcast). <http://dib-training.readthedocs.org/en/pub/2016-01-27-adv-git-lr.html>`__
