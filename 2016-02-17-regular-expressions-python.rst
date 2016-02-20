@@ -15,14 +15,8 @@ SFU matters.
 
 Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with UC Davis matters.
 
-`> SFU attendees Registration < <https://www.eventbrite.com/e/regular-expressions-python-tickets-20923856819>`__
-----------------------------------------------------------------------------------------------------------------
-`> UC Davis attendees Registration < <https://www.eventbrite.com/e/regular-expressions-python-half-day-workshop-tickets-20040991144>`__
---------------------------------------------------------------------------------------------------------------------------
-Note: You only need to register if you plan to attend a workshop in a classroom. If you only plan to watch the online
-stream, then you don't need to the register. The YouTube link for the stream will be posted on this page on the morning 
-just before the workshop starts.
-
+`> Watch this lesson here < <https://www.youtube.com/watch?v=GklxBhgUR4g>`__
+----------------------------------------------------------------------------
 
 Description
 -----------
