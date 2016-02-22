@@ -48,6 +48,8 @@ March 7, 2016 - `Amazon Web Services - half day workshop (broadcast) <http://dib
 
 March 9, 2016 - Jupyter Notebook - half day workshop
 
+.. March 9, 2016 - `Jupyter Notebook - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-03-09-jupyter-notebook.html>`__
+
 March 28, 2016 - Short-read trimming and quality evaluation - half day workshop (broadcast)
 
 March 30, 2016 - De novo mRNAseq assembly - half day workshop
