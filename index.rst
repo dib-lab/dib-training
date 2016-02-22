@@ -97,12 +97,11 @@ June 29, 2016 - TBD - half day workshop
 YouTube Videos from Streamed Workshops
 --------------------------------------
 
-* December 4, 2015 - `d3.js for Interactive Data Visualization (Emily Dolson) <https://www.youtube.com/watch?v=eIrZjVH0Zcg>`__
-* January 20, 2016 - `pydoit for workflow automation (Camille Scott) <http://www.youtube.com/watch?v=EfD9bWmL-1M&t=20m20s>`__
-* January 27, 2016 - `Advanced git (Raniere Silva) <https://www.youtube.com/watch?v=JTnIDMn47Pk&feature=youtu.be>`__
-* February 17, 2016 - `Regular Expressions & Python (Tiffany Timbers) <https://www.youtube.com/watch?v=GklxBhgUR4g>`__
 * February 19, 2016 - `scipy.optimize (Ariel Rokem) <http://www.youtube.com/watch?v=0eFokR-ikaA>`__
-
+* February 17, 2016 - `Regular Expressions & Python (Tiffany Timbers) <https://www.youtube.com/watch?v=GklxBhgUR4g>`__
+* January 27, 2016 - `Advanced git (Raniere Silva) <https://www.youtube.com/watch?v=JTnIDMn47Pk&feature=youtu.be>`__
+* January 20, 2016 - `pydoit for workflow automation (Camille Scott) <http://www.youtube.com/watch?v=EfD9bWmL-1M&t=20m20s>`__
+* December 4, 2015 - `d3.js for Interactive Data Visualization (Emily Dolson) <https://www.youtube.com/watch?v=eIrZjVH0Zcg>`__
 
 Workshop materials
 ------------------
