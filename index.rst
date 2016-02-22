@@ -44,9 +44,7 @@ on github.
 
 February 29, 2016 - `Sphinx, Webhooks, and Bitbucket (Adelaide Rhodes) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-02-29-sph-webh-bitb-lr.html>`__ 
 
-March 7, 2016 - Amazon Web Services - half day workshop (broadcast)
-
-.. March 7, 2016 - `Amazon Web Services - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-03-03-aws-br.html>`__
+March 7, 2016 - `Amazon Web Services - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-03-03-aws-br.html>`__
 
 March 9, 2016 - Jupyter Notebook - half day workshop
 
