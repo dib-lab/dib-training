@@ -36,30 +36,8 @@ Hangouts. It will also be streaming on YouTube.
 
 Installation instructions
 -------------------------
+**Webtools to Sign up For**
 
-Please install **Python version 3 or higher**. `Python <http://python.org>`__ 
-is a popular language for scientific computing, and great for general-purpose
-programming as well.  Installing all of its scientific packages individually can be
-a bit difficult, so we recommend `Anaconda <https://www.continuum.io/anaconda>`__, 
-an all-in-one installer.
-
-**Windows**
-
-1. Open `http://continuum.io/downloads <http://continuum.io/downloads>`__ with your web browser.
-2. Download the Python 3 installer for Windows.
-3. Install Python 3 using all of the defaults for installation *except* make sure to check **Make Anaconda the default Python**.
-
-**Mac OS X**
-
-1. Open `http://continuum.io/downloads <http://continuum.io/downloads>`__ with your web browser.
-2. Download the Python 3 installer for OS X.
-3. Install Python 3 using all of the defaults for installation.
-
-**Linux**
-
-1. Open `http://continuum.io/downloads <http://continuum.io/downloads>`__ with your web browser.
-2. Download the Python 3 installer for Linux.
-3. Install Python 3 using all of the defaults for installation. (Installation requires using the shell). 
-4. Open a terminal window.
-5. Type bash Anaconda- and then press tab. The name of the file you just downloaded should appear.
-6. Press enter. You will follow the text-only prompts.  When there is a colon at the bottom of the screen press the down arrow to move down through the text. Type "yes" and press enter to approve the license. Press enter to approve the default location for the files. Type "yes" and press enter to prepend Anaconda to your PATH (this makes the Anaconda distribution the default Python).
+* A GitHub or Bitbucket account (both free) will allow you to put your website up.  GitHub is more intuitive for beginners, Bitbucket is prettier
+* A `readthedocs.org <https://readthedocs.org/>`__ account
+* An `Amazon Web Services <https://aws.amazon.com/>`__ account to access the EC2 instances
