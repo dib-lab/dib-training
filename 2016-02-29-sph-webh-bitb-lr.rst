@@ -41,3 +41,16 @@ Installation instructions
 * A GitHub or Bitbucket account (both free) will allow you to put your website up.  GitHub is more intuitive for beginners, Bitbucket is prettier
 * A `readthedocs.org <https://readthedocs.org/>`__ account
 * An `Amazon Web Services <https://aws.amazon.com/>`__ account to access the EC2 instances
+
+**Dependencies to Sign up For**
+
+Windows text editors:
+
+* `Notepad++ <https://notepad-plus-plus.org/download>`__ - has nice formatting options
+* `Sublime <https://www.sublimetext.com/3>`__ - color codes in several languages
+
+Mac text editors:
+
+* `Atom <https://atom.io/>`__ - can preview certain types of Markdown (not reST)
+* `Text Wrangler <https://s3.amazonaws.com/BBSW-download/TextWrangler_5.0.2.dmg>`__ - can save UNIX code directly and has spell checker
+* `Sublime <https://www.sublimetext.com/3>`__ - color codes in several languages
