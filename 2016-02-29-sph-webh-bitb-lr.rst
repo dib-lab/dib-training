@@ -11,8 +11,8 @@ Where: UC Davis Location: Shields Library, UC Davis campus
 
 Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
-`> UC Davis attendees Registration < <https://www.eventbrite.com/e/sphinx-webhooks-and-bitbucket-half-day-workshop-tickets-20041061354>`__
-------------------------------------------------------------------------------------------------------------------------------------------
+`> Watch Lesson Here < <https://www.youtube.com/watch?v=ughHAjjM7Fc>`__
+-----------------------------------------------------------------------
 Note: You only need to register if you plan to attend a workshop in a classroom. If you only plan to watch the online
 stream, then you don't need to the register. The YouTube link for the stream will be posted on this page on the morning 
 just before the workshop starts.
