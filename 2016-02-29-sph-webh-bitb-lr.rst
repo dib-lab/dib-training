@@ -13,12 +13,9 @@ Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
 `> Watch Lesson Here < <https://www.youtube.com/watch?v=ughHAjjM7Fc>`__
 -----------------------------------------------------------------------
-Note: You only need to register if you plan to attend a workshop in a classroom. If you only plan to watch the online
-stream, then you don't need to the register. The YouTube link for the stream will be posted on this page on the morning 
-just before the workshop starts.
 
-.. `Workshop materials <http://arokem.github.io/scipy-optimize>`__
-.. ---------------------------------------------------------------
+`Workshop materials <http://rest-tutorial.readthedocs.org/en/latest/index.html>`__
+----------------------------------------------------------------------------------
 
 
 Description
