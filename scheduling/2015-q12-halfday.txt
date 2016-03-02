@@ -43,7 +43,7 @@ weeks in advance.
 
 4/27/16, Wed - Meeta Mistry, TBD
 
- 5/4/16, Wed - Vessela Ensberg, Open Science Framework 
+5/4/16, Wed - Vessela Ensberg, Open Science Framework 
 
 5/11/16, Wed - Marian Schmidt, Rmarkdown (local+Remote) Remote: SFU, Tiffany (tiffany.timbers@gmail.com)
 
