@@ -93,6 +93,7 @@ June 29, 2016 - TBD - half day workshop
 YouTube Videos from Streamed Workshops
 --------------------------------------
 
+* February 29, 2016 - `Sphinx and Bitbucket (Adelaide Rhodes) <https://www.youtube.com/watch?v=ughHAjjM7Fc>`__
 * February 19, 2016 - `scipy.optimize (Ariel Rokem) <http://www.youtube.com/watch?v=0eFokR-ikaA>`__
 * February 17, 2016 - `Regular Expressions & Python (Tiffany Timbers) <https://www.youtube.com/watch?v=GklxBhgUR4g>`__
 * January 27, 2016 - `Advanced git (Raniere Silva) <https://www.youtube.com/watch?v=JTnIDMn47Pk&feature=youtu.be>`__
