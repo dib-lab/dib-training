@@ -11,6 +11,9 @@ Where: `DSI Space <http://dib-training.readthedocs.org/en/pub/DSI-space-directio
 
 Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
+`> Materials < <https://2016-feb-aws.readthedocs.org/>`__
+---------------------------------------------------------
+
 .. `> SFU attendees Registration < <https://www.eventbrite.com/e/regular-expressions-python-tickets-20923856819>`__
 .. ----------------------------------------------------------------------------------------------------------------
 `> Watch Lesson Here < <http://youtu.be/IFdBD3YdLJc>`__
