@@ -7,7 +7,7 @@ When: March 9, 2016
 
 Times: 9:15am-12:15pm
 
-Where: Data Science Initiative, Shields Library, UC Davis campus.
+Where: `DSI Space <http://dib-training.readthedocs.org/en/pub/DSI-space-directions.html>`__, Shields Library UC Davis campus
 
 Host: C. Titus Brown and Jessica Mizzi; contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
