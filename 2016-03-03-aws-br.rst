@@ -13,11 +13,8 @@ Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
 .. `> SFU attendees Registration < <https://www.eventbrite.com/e/regular-expressions-python-tickets-20923856819>`__
 .. ----------------------------------------------------------------------------------------------------------------
-`> UC Davis attendees Registration < <https://www.eventbrite.com/e/amazon-web-services-tickets-21073317861>`__
---------------------------------------------------------------------------------------------------------------
-Note: You only need to register if you plan to attend a workshop in a classroom. If you only plan to watch the online
-stream, then you don't need to the register. The YouTube link for the stream will be posted on this page on the morning 
-just before the workshop starts.
+`> Watch Lesson Here < <http://youtu.be/IFdBD3YdLJc>`__
+-------------------------------------------------------
 
 
 Description
