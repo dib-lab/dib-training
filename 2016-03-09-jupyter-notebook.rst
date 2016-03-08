@@ -40,28 +40,10 @@ data analysis, and build interactive tutorials and homeworks around
 data analysis.
 
 
-Computer requirements
----------------------
-
-Attendees will need to bring a computer with a Web browser, an
-Internet connection, and an ssh client; Windows users should install
-`MobaXterm <http://mobaxterm.mobatek.net/>`__ before the workshop.
-
 Installation/Preparation Instructions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Python <https://www.python.org/>`__ is a very powerful programming
-language.  We recommend using `Anaconda
-<https://www.continuum.io/why-anaconda>`__ as an all-in-one installer.
+Attendees should have:
 
-Windows:
-
-1. Go to `https://www.continuum.io/downloads <https://www.continuum.io/downloads>`__.
-2. Download Python 3.x (3.4 is fine) 64-bit graphical installer for Windows, *not* Python 2.7.
-3. Install Python 3.x using all defaults *except* make sure to check **Make Anaconda the default Python**.
-
-OS X:
-
-1. Go to `https://www.continuum.io/downloads <https://www.continuum.io/downloads>`__.
-2. Download Python 3.x (3.4 is fine) 64-bit graphical installer for OS X, *not* Python 2.7.
-3. Install Python 3.x using all defaults.
+* A `GitHub <https://github.com/>`__ account
+* Chrome or Safari as a web browser
