@@ -42,7 +42,6 @@ be notified when registration opens up; you can also subscribe to many events
 on github.
 
 
-March 9, 2016 - `Jupyter Notebook - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-03-09-jupyter-notebook.html>`__
 
 March 28, 2016 - Short-read trimming and quality evaluation - half day workshop (broadcast)
 
@@ -111,6 +110,7 @@ available indefinitely.  Please feel free to send them on to others.
 Past Workshops
 --------------
 .. * November 19-20, 2015: `Advanced IPython Notebook/Project Jupyter <http://dib-training.readthedocs.org/en/pub/2015-11-19-ipython-jupyter.html>`__
+* March 9, 2016 - `Jupyter Notebook - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-03-09-jupyter-notebook.html>`__
 * March 7, 2016 - `Amazon Web Services - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-03-03-aws-br.html>`__
 * February 29, 2016 - `Sphinx, Webhooks, and Bitbucket (Adelaide Rhodes) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-02-29-sph-webh-bitb-lr.html>`__ 
 * February 19, 2016 - `scipy.optimize (Ariel Rokem) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-02-19-scipy-lr.html>`__ 
