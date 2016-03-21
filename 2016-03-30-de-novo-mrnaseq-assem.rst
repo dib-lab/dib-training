@@ -1,5 +1,5 @@
-Short Read Trimming and Quality Evaluation
-==========================================
+De novo RNAseq Assembly
+=======================
 
 Who: Titus Brown, lead instructor. 
 
