@@ -11,6 +11,9 @@ Where: `DSI Space <http://dib-training.readthedocs.org/en/pub/DSI-space-directio
 
 Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
+`> Register here < <https://www.eventbrite.com/e/de-novo-mrnaseq-assembly-tickets-23826325180>`__
+--------------------------------------------------------------------------------------------------
+
 .. `> Materials < <https://2016-feb-aws.readthedocs.org/>`__
 .. ---------------------------------------------------------
 
