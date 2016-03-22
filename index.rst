@@ -43,9 +43,9 @@ on github.
 
 
 
-March 28, 2016 - Short-read trimming and quality evaluation - half day workshop (broadcast)
+March 28, 2016 - `Short-read trimming and quality evaluation - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-03-28-short-read-trim-qual-br.html>`__
 
-March 30, 2016 - De novo mRNAseq assembly - half day workshop
+March 30, 2016 - `De novo mRNAseq assembly - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-03-30-de-novo-mrnaseq-assem.html>`__
 
 April 4, 2016 - Python, advanced beginner - half day workshop.
 
