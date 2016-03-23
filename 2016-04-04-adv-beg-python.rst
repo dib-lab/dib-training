@@ -1,5 +1,5 @@
-Python Half Day Workshop 
-========================
+Advanced Beginner Python Half Day Workshop 
+==========================================
 
 Who: `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ (lead instructor)
 
@@ -36,7 +36,6 @@ language (e.g. R or Python) is recommended but not necessary.
 Topics overview
 ~~~~~~~~~~~~~~~
 
-* Introduction to python
 * Loops and functions
 * Data analysis using python
 * Troubleshooting
