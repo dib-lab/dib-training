@@ -31,6 +31,14 @@ This workshop will be broadcast via YouTube for those who wish to participate re
 Installation Instructions
 -------------------------
 
+For this workshop, you need an AWS account and a terminal.
+
+**AWS account**
+
+Please make sure to register for an `Amazon Web Services account <https://aws.amazon.com/>`__. Step by step instructions for this process are provided `here <http://dib-training.readthedocs.org/en/pub/creating-aws-account.html>`__. Attendees will need to provide a credit card and cover their own computing costs, which should be less than $5 for the entire workshop. You should see an "Amazon Web Services" menu page, and see an "EC2" button on the top left corner after signing in.
+
+**IMPORTANT:** You need to create this account at least 2 days before the workshop if you are creating a new account in order to be able to participate in the workshop because of a 2 day wait step in Amazon's verification process.
+
 **Terminal Program**
 
 Windows:
