@@ -31,6 +31,11 @@ This workshop will introduce the basics of git, a widely used system
 for managing changes to files.  Git and related systems are key for
 replicability when doing any kind of computational analysis.
 
+This workshop will be taught remotely at Virginia Tech and streamed
+to UC Davis via Googel Hangouts on Air. It will also be live streamed
+to YouTube for anyone who wishes to watch remotely. If you plan to watch
+remotely, you do not need to register for this workshop.
+
 
 Computer and workshop requirements
 ----------------------------------
