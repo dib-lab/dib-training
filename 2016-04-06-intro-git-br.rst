@@ -36,8 +36,8 @@ and where to host work.
 This workshop will be taught remotely and broadcast to our classroom
 via Google Hangouts on Air. We will have helpers in our local room to
 facilitate the lesson. The lesson will also be streamed to YouTube and
-saved there for viewing at a later time. You only need to register to
-this event if you plan on coming to a classroom.
+saved there for viewing at a later time. **You only need to register to
+this event if you plan on coming to a classroom.**
 
 
 Computer and workshop requirements
