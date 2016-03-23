@@ -51,11 +51,11 @@ April 4, 2016 - Python, advanced beginner - half day workshop.
 
 April 6, 2016 - Introductory git (Daniel Chen) - half day workshop (broadcast)
 
-April 8, 2016 - Intermediate git (Daniel Chen) - half day workshop (broadcast)
+April 8, 2016 - TBD - half day workshop (broadcast)
 
 April 11, 2016 - TBD - half day workshop (broadcast)
 
-April 13, 2016 - TBD - half day workshop
+April 13, 2016 - Intermediate git (Daniel Chen) - half day workshop (broadcast)
 
 April 18, 2016 - TBD - half day workshop
 
