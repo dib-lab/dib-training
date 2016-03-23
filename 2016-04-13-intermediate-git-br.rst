@@ -3,7 +3,7 @@ Intermediate Git
 
 Who: Daniel Chen
 
-When: April 12, 2016
+When: April 13, 2016
 
 Times: 9:15am-12:15pm PST
 
