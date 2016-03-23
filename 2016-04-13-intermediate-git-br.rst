@@ -27,16 +27,15 @@ Description
 -----------
 
 
-This workshop will cover the intermediate topics of git, a widely 
-used system for managing changes to files.  Git and related systems 
-are key for replicability when doing any kind of computational analysis. 
-Topics covered in this workshop include branching and merging of 
-repositories.
+Git and related systems are key for replicability when doing any kind 
+of computational analysis. Topics covered in this workshop include 
+branching and merging of repositories.
 
-This workshop will be taught remotely at Virginia Tech and streamed
-to UC Davis via Googel Hangouts on Air. It will also be live streamed
-to YouTube for anyone who wishes to watch remotely. If you plan to watch
-remotely, you do not need to register for this workshop.
+This workshop will be taught remotely and broadcast to our classroom
+via Google Hangouts on Air. We will have helpers in our local room to
+facilitate the lesson. The lesson will also be streamed to YouTube and
+saved there for viewing at a later time. **You only need to register to
+this event if you plan on coming to a classroom.**
 
 
 Computer and workshop requirements
