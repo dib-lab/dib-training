@@ -26,22 +26,19 @@ an SVM affiliate.
 Description
 -----------
 
-This half day workshop will introduce biologists to working in Python
-3.  Python is a very powerful language for scientific computing and
-this workshop will give you some exposure to it.  We will be covering
-the basics, including fundamental concepts such as loops, creating
-functions, and debugging.  Some experience working with a scripting
-language (e.g. R or Python) is recommended but not necessary.
+So you've written some Python code and it works! Now what?
 
-Topics overview
-~~~~~~~~~~~~~~~
+This half day workshop will explore "next steps" in Python
+programming -
 
-* Loops and functions
-* Data analysis using python
-* Troubleshooting
+* reusing code by placing it in importable modules;
+* code organization overall;
+* handling command line arguments with argparse;
+* simple testing strategies and tools, including code coverage;
+* using virtualenv to install isolated collections of software on
+  shared machines;
 
-.. The materials for this workshop are available indefinitely
-.. `here <http://2015-mar-semimodel.readthedocs.org/en/latest/>`__.
+Attendees should have some Python experience, but need not be experts.
 
 
 Computer and workshop requirements
