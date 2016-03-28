@@ -11,17 +11,14 @@ Where: `DSI Space <http://dib-training.readthedocs.org/en/pub/DSI-space-directio
 
 Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
-`> Register here < <https://www.eventbrite.com/e/short-read-trimming-and-quality-evaluation-tickets-23825962094>`__
---------------------------------------------------------------------------------------------------------------------
+.. `> Register here < <https://www.eventbrite.com/e/short-read-trimming-and-quality-evaluation-tickets-23825962094>`__
+.. --------------------------------------------------------------------------------------------------------------------
 
 `> Watch on YouTube here < <https://www.youtube.com/watch?v=_nNq4kq1Wx0&feature=youtu.be>`__
 ------------------------------------------------------------------------------------------------
 
 `> Materials < <https://2016-short-read-trimming.readthedocs.org/en/latest/>`__
 -------------------------------------------------------------------------------
-
-.. `> Watch Lesson Here < <http://youtu.be/IFdBD3YdLJc>`__
-.. -------------------------------------------------------
 
 
 Description
