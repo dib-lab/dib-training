@@ -14,7 +14,7 @@ Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 `> Register here < <https://www.eventbrite.com/e/short-read-trimming-and-quality-evaluation-tickets-23825962094>`__
 --------------------------------------------------------------------------------------------------------------------
 
-`> YouTube link will be here < <https://www.youtube.com/watch?v=_nNq4kq1Wx0&feature=youtu.be>`__
+`> Watch on YouTube here < <https://www.youtube.com/watch?v=_nNq4kq1Wx0&feature=youtu.be>`__
 ------------------------------------------------------------------------------------------------
 
 .. `> Materials < <https://2016-feb-aws.readthedocs.org/>`__
