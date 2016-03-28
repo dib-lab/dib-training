@@ -7,7 +7,7 @@ When: April 4, 2016
 
 Times: 9:15am-12:15pm.
 
-Where: TBD, UC Davis campus
+Where: 1043 Valley Hall, UC Davis campus
 
 Host: C. Titus Brown and Jessica Mizzi; contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 
