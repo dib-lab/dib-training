@@ -43,19 +43,17 @@ on github.
 
 
 
-March 28, 2016 - `Short-read trimming and quality evaluation - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-03-28-short-read-trim-qual-br.html>`__
-
 March 30, 2016 - `De novo mRNAseq assembly - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-03-30-de-novo-mrnaseq-assem.html>`__
 
-April 4, 2016 - Python, advanced beginner - half day workshop (broadcast)
+April 4, 2016 - `Python, advanced beginner - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-04-adv-beg-python.html>`__
 
-April 6, 2016 - Introductory git (Daniel Chen) - half day workshop (broadcast)
+April 6, 2016 - `Introductory git (Daniel Chen) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-06-intro-git-br.html>`__
 
-April 8, 2016 - TBD - half day workshop (broadcast)
+.. April 8, 2016 - TBD - half day workshop (broadcast)
 
-April 11, 2016 - TBD - half day workshop (broadcast)
+.. April 11, 2016 - TBD - half day workshop (broadcast)
 
-April 13, 2016 - Intermediate git (Daniel Chen) - half day workshop (broadcast)
+April 13, 2016 - `Intermediate git (Daniel Chen) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-13-intermediate-git-br.html>`__
 
 April 18, 2016 - TBD - half day workshop
 
@@ -90,6 +88,7 @@ June 29, 2016 - TBD - half day workshop
 YouTube Videos from Streamed Workshops
 --------------------------------------
 
+* March 28, 2016 - `Short-read trimming and quality evaluation - half day workshop (broadcast) <https://www.youtube.com/watch?v=_nNq4kq1Wx0>`__
 * March 7, 2016 - `Amazon Web Services (Titus Brown) <https://www.youtube.com/watch?v=IFdBD3YdLJc>`__
 * February 29, 2016 - `Sphinx and Bitbucket (Adelaide Rhodes) <https://www.youtube.com/watch?v=ughHAjjM7Fc>`__
 * February 19, 2016 - `scipy.optimize (Ariel Rokem) <http://www.youtube.com/watch?v=0eFokR-ikaA>`__
@@ -110,6 +109,7 @@ available indefinitely.  Please feel free to send them on to others.
 Past Workshops
 --------------
 .. * November 19-20, 2015: `Advanced IPython Notebook/Project Jupyter <http://dib-training.readthedocs.org/en/pub/2015-11-19-ipython-jupyter.html>`__
+* March 28, 2016 - `Short-read trimming and quality evaluation - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-03-28-short-read-trim-qual-br.html>`__
 * March 9, 2016 - `Jupyter Notebook - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-03-09-jupyter-notebook.html>`__
 * March 7, 2016 - `Amazon Web Services - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-03-03-aws-br.html>`__
 * February 29, 2016 - `Sphinx, Webhooks, and Bitbucket (Adelaide Rhodes) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-02-29-sph-webh-bitb-lr.html>`__ 
