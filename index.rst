@@ -97,14 +97,14 @@ YouTube Videos from Streamed Workshops
 * January 20, 2016 - `pydoit for workflow automation (Camille Scott) <http://www.youtube.com/watch?v=EfD9bWmL-1M&t=20m20s>`__
 * December 4, 2015 - `d3.js for Interactive Data Visualization (Emily Dolson) <https://www.youtube.com/watch?v=eIrZjVH0Zcg>`__
 
-.. Workshop materials
-.. ------------------
+Workshop materials
+------------------
 
-.. All workshop materials are available under an open license, and they are
-.. available indefinitely.  Please feel free to send them on to others.
+All workshop materials are available under an open license, and they are
+available indefinitely.  Please feel free to send them on to others.
 
-.. * `mRNAseq on non-model systems <http://2015-may-nonmodel.readthedocs.org/en/dev/>`__ (last updated: May 2015)
-.. * `mRNAseq assembly with a reference genome <http://2015-mar-semimodel.readthedocs.org/en/latest/>`__ (last updated: March 2015)
+* `mRNAseq on non-model systems <http://2015-may-nonmodel.readthedocs.org/en/dev/>`__ (last updated: May 2015)
+* `mRNAseq assembly with a reference genome <http://2015-mar-semimodel.readthedocs.org/en/latest/>`__ (last updated: March 2015)
 
 Past Workshops
 --------------
