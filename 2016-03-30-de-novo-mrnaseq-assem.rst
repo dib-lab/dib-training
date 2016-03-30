@@ -14,8 +14,8 @@ Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
 `> Register here < <https://www.eventbrite.com/e/de-novo-mrnaseq-assembly-tickets-23826325180>`__
 --------------------------------------------------------------------------------------------------
 
-.. `> Materials < <https://2016-feb-aws.readthedocs.org/>`__
-.. ---------------------------------------------------------
+`> Materials < <https://2016-march-non-model-organism-rnaseq.readthedocs.org/en/latest/>`__
+---------------------------------------------------------
 
 .. `> Watch Lesson Here < <http://youtu.be/IFdBD3YdLJc>`__
 .. -------------------------------------------------------
