@@ -17,9 +17,10 @@ for UC Davis VetMed affiliates; contact the lead instructor if you are
 an SVM affiliate.
 
 
-`> Register here < <https://www.eventbrite.com/e/advanced-beginner-python-half-day-workshop-tickets-24039834793>`__
--------------------------------------------------------------------------------------------------------------------
-
+.. `> Register here < <https://www.eventbrite.com/e/advanced-beginner-python-half-day-workshop-tickets-24039834793>`__
+.. -------------------------------------------------------------------------------------------------------------------
+`> Materials < <https://github.com/ngs-docs/2016-adv-begin-python>`__
+---------------------------------------------------------------------
 `> Watch Here < <http://youtu.be/YTLpUjdHdbI>`__
 ------------------------------------------------
 
