@@ -23,6 +23,8 @@ an SVM affiliate.
 ---------------------------------------------------------------------
 `> Watch Here < <http://youtu.be/YTLpUjdHdbI>`__
 ------------------------------------------------
+`> Watch Part Two Here (Live streaming here currently) < <https://www.youtube.com/watch?v=kYi3qUc4BjM>`__
+---------------------------------------------------------------------------------------------------------
 
 Description
 -----------
