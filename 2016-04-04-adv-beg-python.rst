@@ -21,9 +21,9 @@ an SVM affiliate.
 .. -------------------------------------------------------------------------------------------------------------------
 `> Materials < <https://github.com/ngs-docs/2016-adv-begin-python>`__
 ---------------------------------------------------------------------
-`> Watch Here < <http://youtu.be/YTLpUjdHdbI>`__
+`> Watch Part One Here < <http://youtu.be/YTLpUjdHdbI>`__
 ------------------------------------------------
-`> Watch Part Two Here (Live streaming here currently) < <https://www.youtube.com/watch?v=kYi3qUc4BjM>`__
+`> Watch Part Two Here < <https://www.youtube.com/watch?v=kYi3qUc4BjM>`__
 ---------------------------------------------------------------------------------------------------------
 
 Description
