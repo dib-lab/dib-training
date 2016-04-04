@@ -20,8 +20,8 @@ an SVM affiliate.
 `> Register here < <https://www.eventbrite.com/e/advanced-beginner-python-half-day-workshop-tickets-24039834793>`__
 -------------------------------------------------------------------------------------------------------------------
 
-.. `> Materials link < <https://github.com/ngs-docs/2015-python-intro/blob/master/README.rst>`__
-.. ---------------------------------------------------------------------------------------------
+`> Materials link < <https://github.com/ngs-docs/2016-adv-begin-python/blob/master/README.md>`__
+---------------------------------------------------------------------------------------------
 
 Description
 -----------
