@@ -26,6 +26,9 @@ Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with 
 `> Watch Here < <http://www.youtube.com/watch?v=IpUDlhh8I2E>`__
 ---------------------------------------------------------------
 
+`> Etherpad < <https://etherpad.wikimedia.org/p/2016-04-06-intro-git>`__
+------------------------------------------------------------------------
+
 
 Description
 -----------
