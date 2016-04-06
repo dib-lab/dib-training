@@ -23,6 +23,9 @@ Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with 
 `> Materials Link Here < <http://chendaniely.github.io/2016-04-06-dib-git-intro-intermediate/>`__
 -------------------------------------------------------------------------------------------------
 
+`> Watch Here < <http://www.youtube.com/watch?v=IpUDlhh8I2E>`__
+---------------------------------------------------------------
+
 
 Description
 -----------
