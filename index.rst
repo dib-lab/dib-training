@@ -86,7 +86,7 @@ June 29, 2016 - TBD - half day workshop
 YouTube Videos from Streamed Workshops
 --------------------------------------
 
-* March 30, 2016 - `De novo mRNAseq assembly - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-03-30-de-novo-mrnaseq-assem.html>`__
+.. * March 30, 2016 - `De novo mRNAseq assembly - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-03-30-de-novo-mrnaseq-assem.html>`__
 * March 28, 2016 - `Short-read trimming and quality evaluation - half day workshop (Titus Brown) <https://www.youtube.com/watch?v=_nNq4kq1Wx0>`__
 * March 7, 2016 - `Amazon Web Services (Titus Brown) <https://www.youtube.com/watch?v=IFdBD3YdLJc>`__
 * February 29, 2016 - `Sphinx and Bitbucket (Adelaide Rhodes) <https://www.youtube.com/watch?v=ughHAjjM7Fc>`__
