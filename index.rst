@@ -45,7 +45,6 @@ on github.
 
 
 
-April 6, 2016 - `Introductory git (Daniel Chen) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-06-intro-git-br.html>`__
 
 .. April 8, 2016 - TBD - half day workshop (broadcast)
 
@@ -108,6 +107,7 @@ available indefinitely.  Please feel free to send them on to others.
 Past Workshops
 --------------
 .. * November 19-20, 2015: `Advanced IPython Notebook/Project Jupyter <http://dib-training.readthedocs.org/en/pub/2015-11-19-ipython-jupyter.html>`__
+* April 6, 2016 - `Introductory git (Daniel Chen) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-06-intro-git-br.html>`__
 * April 4, 2016 - `Python, advanced beginner - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-04-adv-beg-python.html>`__
 * March 28, 2016 - `Short-read trimming and quality evaluation - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-03-28-short-read-trim-qual-br.html>`__
 * March 9, 2016 - `Jupyter Notebook - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-03-09-jupyter-notebook.html>`__
