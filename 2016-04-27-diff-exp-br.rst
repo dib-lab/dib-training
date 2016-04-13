@@ -1,5 +1,5 @@
-Differential Expression
-======================
+Differential Gene Expression Using R
+====================================
 
 Who: Meeta Mistry
 
