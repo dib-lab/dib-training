@@ -11,7 +11,7 @@ UC Davis Location: `DSI Space, Shields Library, UC Davis Campus  <http://dib-tra
 
 Virginia Tech Location: Biocomplexity Institute, Room 343
 
-Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any UC Davis or organizational questions or `Daniel Chem <mailto:dcheny@gmail.com>`__ with any VT or workshop materials questions.
+Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any UC Davis or organizational questions or `Daniel Chen <mailto:dcheny@gmail.com>`__ with any VT or workshop materials questions.
 
 
 `> UC Davis Register Here < <https://www.eventbrite.com/e/introductory-git-version-control-your-workflow-tickets-24030735577>`__
