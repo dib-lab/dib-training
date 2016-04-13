@@ -47,7 +47,7 @@ on github.
 
 
 
-April 27, 2016 - Differential Gene Expression in R (Meeta Mistry) - half day workshop (broadcast)
+April 27, 2016 - `Differential Gene Expression in R (Meeta Mistry) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-27-diff-exp-br.html>`__
 
 May 11, 2016 - RMarkdown (Marian Schmidt) - half day workshop (broadcast)
 
