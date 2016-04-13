@@ -10,7 +10,7 @@ Times: 9:15am-12:15pm PST
 UC Davis Location: `DSI Space, Shields Library, UC Davis Campus  <http://dib-training.readthedocs.org/en/pub/DSI-space-directions.html>`__ 
 Virginia Tech Location: Biocomplexity Institute, Room 343
 
-Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any UC Davis or organizational questions or `Daniel Chem <mailto:dcheny@gmail.com>`__ with any VT or workshop materials questions.
+Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any UC Davis or organizational questions or `Daniel Chen <mailto:dcheny@gmail.com>`__ with any VT or workshop materials questions.
 
 
 .. `> UC Davis Register Here < <https://www.eventbrite.com/e/intermediate-git-version-control-your-workflow-tickets-24031382512>`__
