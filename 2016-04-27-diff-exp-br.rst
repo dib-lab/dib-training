@@ -80,10 +80,21 @@ instructions below.
 Installation instructions
 -------------------------
 
-Windows:
+Windows and OS X:
 
 Download `R Statistical Software <https://www.r-project.org/>`__
 
-OS X:
+The R packages required for this workshop can be installed from `Bioconductor <https://www.bioconductor.org/install/>`__. 
+There are three packages required: **edgeR, limma, and DESeq2**. To install, please follow the instructions below:
 
-Download `R Statistical Software <https://www.r-project.org/>`__
+In the R console you will need to first source the BioC installation script: ::
+
+ source("http://bioconductor.org/biocLite.R")
+
+If this is your first time using Bioconductor you will first need to get the latest install of Bioconductor using: ::
+
+ biocLite()
+
+To install a package: ::
+ 
+ biocLite('insert_package_name_in_quotations')
