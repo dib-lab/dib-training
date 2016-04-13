@@ -7,9 +7,7 @@ When: April 27, 2016
 
 Times: 9:15am-12:15pm PST
 
-UC Davis Location: TBD, UC Davis Campus 
-
-.. `DSI Space, Shields Library, UC Davis Campus  <http://dib-training.readthedocs.org/en/pub/DSI-space-directions.html>`__ 
+UC Davis Location: `DSI Space, Shields Library, UC Davis Campus  <http://dib-training.readthedocs.org/en/pub/DSI-space-directions.html>`__ 
 
 
 Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions
