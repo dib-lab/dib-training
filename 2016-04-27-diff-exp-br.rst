@@ -36,7 +36,7 @@ that fall into annotated genes and to perform statistical analysis on
 the table of counts to discover quantitative changes in expression 
 levels between experimental groups. Easy, right? Not exactly.
 
-1. We have integer counts and not continuous measurements. Data is 
+1. We have integer counts and not continuous measurements. Data are 
 not normally distributed, so statistical methods we applied to 
 microarray data don't work here.
 
@@ -46,7 +46,7 @@ is a need for statistical methods that perform well in small sample
 situations.
 
 3. There is a dependence of variance on the mean (which changes with 
-increasing number of replicates)
+increasing number of replicates).
 
 Solution: Appropriate modeling of the mean-variance relationship in 
 DGE data is important for making inferences about differential expression. 
