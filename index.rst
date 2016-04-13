@@ -47,7 +47,7 @@ on github.
 
 
 
-April 27, 2016 - TBD (Meeta Mistry) - half day workshop (broadcast)
+April 27, 2016 - Differential Gene Expression in R (Meeta Mistry) - half day workshop (broadcast)
 
 May 11, 2016 - RMarkdown (Marian Schmidt) - half day workshop (broadcast)
 
@@ -79,8 +79,8 @@ YouTube Videos from Streamed Workshops
 --------------------------------------
 
 .. * March 30, 2016 - `De novo mRNAseq assembly - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-03-30-de-novo-mrnaseq-assem.html>`__
-* April 13, 2016 - Intermediate git (Daniel Chen) `<https://www.youtube.com/watch?v=S8TLL05qVFg>`__
-* April 6, 2016 - Introductory git (Daniel Chen) `<https://www.youtube.com/watch?v=IpUDlhh8I2E>`__
+* April 13, 2016 - `Intermediate git (Daniel Chen) <https://www.youtube.com/watch?v=S8TLL05qVFg>`__
+* April 6, 2016 - `Introductory git (Daniel Chen) <https://www.youtube.com/watch?v=IpUDlhh8I2E>`__
 * April 4, 2016 - Advanced Beginner Python (Titus Brown) `Part One <https://www.youtube.com/watch?v=YTLpUjdHdbI&feature=youtu.be>`__ and `Part Two <https://www.youtube.com/watch?v=kYi3qUc4BjM>`__
 * March 28, 2016 - `Short-read trimming and quality evaluation - half day workshop (Titus Brown) <https://www.youtube.com/watch?v=_nNq4kq1Wx0>`__
 * March 7, 2016 - `Amazon Web Services (Titus Brown) <https://www.youtube.com/watch?v=IFdBD3YdLJc>`__
