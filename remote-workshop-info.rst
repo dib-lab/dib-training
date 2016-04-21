@@ -24,8 +24,6 @@ Guidelines
 
 **Materials used:**
  
-- gitter channel (https://gitter.im/dib-lab/teleconf) is for room leaders and helpers
-
 - etherpad chat used for questions, students should be told that they can ask questions in chat (if they prefer that over raising hand and asking)
 
 - all local sites should have sticky notes in two colors, and use them to monitor room progress like Software Carpentry does (green = all good, red = help!)
