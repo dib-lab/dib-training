@@ -82,7 +82,7 @@ Installation instructions
 
 Windows and OS X:
 
-Download `R Statistical Software <https://www.r-project.org/>`__
+Download `R Studio <https://www.rstudio.com/products/RStudio/>`__ (select the desktop, open source addition, which is free).
 
 The R packages required for this workshop can be installed from `Bioconductor <https://www.bioconductor.org/install/>`__. 
 There are three packages required: **edgeR, limma, and DESeq2**. To install, please follow the instructions below:
