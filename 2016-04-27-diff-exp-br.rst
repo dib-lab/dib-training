@@ -16,6 +16,14 @@ Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with 
 `> UC Davis Register Here < <https://www.eventbrite.com/e/differential-expression-workshop-tickets-24603796618>`__
 ------------------------------------------------------------------------------------------------------------------
 
+> Materials Will Be Here <
+--------------------------
+
+> Video Link Will Be Here <
+---------------------------
+
+> Etherpad Will Be Here <
+-------------------------
 
 .. `> Materials Link Here < <http://chendaniely.github.io/2016-04-06-dib-git-intro-intermediate/>`__
 .. -------------------------------------------------------------------------------------------------
