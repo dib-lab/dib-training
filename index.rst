@@ -42,13 +42,6 @@ be notified when registration opens up; you can also subscribe to many events
 on github.
 
 
-
-
-
-
-
-April 27, 2016 - `Differential Gene Expression in R (Meeta Mistry) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-27-diff-exp-br.html>`__
-
 May 11, 2016 - RMarkdown (Marian Schmidt) - half day workshop (broadcast)
 
 May 13, 2016 - TBD (Ted Hart) - half day workshop (broadcast)
@@ -79,6 +72,7 @@ YouTube Videos from Streamed Workshops
 --------------------------------------
 
 .. * March 30, 2016 - `De novo mRNAseq assembly - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-03-30-de-novo-mrnaseq-assem.html>`__
+* April 27, 2016 - `Differential Gene Expression in R (Meeta Mistry) <https://www.youtube.com/watch?v=7UKMU5HK380>`__
 * April 13, 2016 - `Intermediate git (Daniel Chen) <https://www.youtube.com/watch?v=S8TLL05qVFg>`__
 * April 6, 2016 - `Introductory git (Daniel Chen) <https://www.youtube.com/watch?v=IpUDlhh8I2E>`__
 * April 4, 2016 - Advanced Beginner Python (Titus Brown) `Part One <https://www.youtube.com/watch?v=YTLpUjdHdbI&feature=youtu.be>`__ and `Part Two <https://www.youtube.com/watch?v=kYi3qUc4BjM>`__
@@ -103,6 +97,7 @@ available indefinitely.  Please feel free to send them on to others.
 Past Workshops
 --------------
 .. * November 19-20, 2015: `Advanced IPython Notebook/Project Jupyter <http://dib-training.readthedocs.org/en/pub/2015-11-19-ipython-jupyter.html>`__
+* April 27, 2016 - `Differential Gene Expression in R (Meeta Mistry) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-27-diff-exp-br.html>`__
 * April 13, 2016 - `Intermediate git (Daniel Chen) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-13-intermediate-git-br.html>`__
 * April 6, 2016 - `Introductory git (Daniel Chen) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-06-intro-git-br.html>`__
 * April 4, 2016 - `Python, advanced beginner - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-04-adv-beg-python.html>`__
