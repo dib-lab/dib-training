@@ -16,23 +16,14 @@ Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with 
 `> UC Davis Register Here < <https://www.eventbrite.com/e/differential-expression-workshop-tickets-24603796618>`__
 ------------------------------------------------------------------------------------------------------------------
 
-> Materials Will Be Here <
---------------------------
+`> Materials Link Here < <https://github.com/mistrm82/msu_ngs2015>`__
+---------------------------------------------------------------------
 
-> Video Link Will Be Here <
----------------------------
+`> Watch Here < <http://www.youtube.com/watch?v=7UKMU5HK380>`__
+---------------------------------------------------------------
 
-> Etherpad Will Be Here <
--------------------------
-
-.. `> Materials Link Here < <http://chendaniely.github.io/2016-04-06-dib-git-intro-intermediate/>`__
-.. -------------------------------------------------------------------------------------------------
-
-.. `> Watch Here < <http://www.youtube.com/watch?v=IpUDlhh8I2E>`__
-.. ---------------------------------------------------------------
-
-.. `> Etherpad < <https://etherpad.wikimedia.org/p/2016-04-06-intro-git>`__
-.. ------------------------------------------------------------------------
+`> Etherpad < <https://etherpad.wikimedia.org/p/2016-04-27-diff-exp-r>`__
+-------------------------------------------------------------------------
 
 
 Description
