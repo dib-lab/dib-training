@@ -15,7 +15,10 @@ Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with 
 
 `> UC Davis Register Here < <https://www.eventbrite.com/e/rmarkdown-workshop-tickets-25137452798>`__
 -----------------------------------------------------------------------------------------------------
-
+> Materials Will Be Here <
+--------------------------
+> Video Link Will be Here <
+---------------------------
 .. `> Materials Link Here < <https://github.com/mistrm82/msu_ngs2015>`__
 .. ---------------------------------------------------------------------
 
