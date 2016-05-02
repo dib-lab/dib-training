@@ -13,8 +13,8 @@ UC Davis Location: `DSI Space, Shields Library, UC Davis Campus  <http://dib-tra
 Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions
 
 
-.. `> UC Davis Register Here < <https://www.eventbrite.com/e/differential-expression-workshop-tickets-24603796618>`__
-.. ------------------------------------------------------------------------------------------------------------------
+`> UC Davis Register Here < <https://www.eventbrite.com/e/rmarkdown-workshop-tickets-25137452798>`__
+-----------------------------------------------------------------------------------------------------
 
 .. `> Materials Link Here < <https://github.com/mistrm82/msu_ngs2015>`__
 .. ---------------------------------------------------------------------
