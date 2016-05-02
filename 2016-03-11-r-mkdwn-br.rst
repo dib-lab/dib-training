@@ -1,0 +1,53 @@
+R Markdown
+====================================
+
+Who: Marian Schmidt
+
+When: May 11, 2016
+
+Times: 9:15am-12:15pm PST
+
+UC Davis Location: `DSI Space, Shields Library, UC Davis Campus  <http://dib-training.readthedocs.org/en/pub/DSI-space-directions.html>`__ 
+
+
+Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions
+
+
+.. `> UC Davis Register Here < <https://www.eventbrite.com/e/differential-expression-workshop-tickets-24603796618>`__
+.. ------------------------------------------------------------------------------------------------------------------
+
+.. `> Materials Link Here < <https://github.com/mistrm82/msu_ngs2015>`__
+.. ---------------------------------------------------------------------
+
+.. `> Watch Here < <http://www.youtube.com/watch?v=7UKMU5HK380>`__
+.. ---------------------------------------------------------------
+
+.. `> Etherpad < <https://etherpad.wikimedia.org/p/2016-04-27-diff-exp-r>`__
+.. -------------------------------------------------------------------------
+
+
+Description
+-----------
+
+This 3 hour workshop will introduce scientists to creating dynamic documents with RMarkdown and Knitr.  Dynamic documents contain both program code and narratives and are useful for writing reproducible analysis reports for publication, sharing work with collaborators, writing up homework, and keeping a bioinformatic notebook.  Rmarkdown is a simple formatting syntax for authoring dynamic HTML, PDF, Microsoft Word, Markdown and presentation files.  
+
+In this workshop we will go over the basis of knitr code chunk syntax and options, inline code, plotting, tables, caching, 
+​and ​inserting bibliographies.  We will focus on rendering HTML files, however, resources for rendering other document types will be provided.   
+
+We will assume some experience with R and RStudio, however, people who are new to Rmarkdown and knitr are welcome to attend the workshop.
+
+This workshop will be taught remotely and broadcast to our classroom
+via Google Hangouts on Air. We will have helpers in our local room to
+facilitate the lesson. The lesson will also be streamed to YouTube and
+saved there for viewing at a later time. **You only need to register to
+this event if you plan on coming to a classroom.**
+
+
+
+Installation instructions
+-------------------------
+
+Windows and OS X:
+
+Download and install `RStudio <https://www.rstudio.com/products/RStudio/>`__ (select the desktop, open source addition, which is free).
+
