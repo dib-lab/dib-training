@@ -50,7 +50,10 @@ this event if you plan on coming to a classroom.**
 Installation instructions
 -------------------------
 
-Windows and OS X:
+We will be using `RStudio <http://www.rstudio.com/>`__ to interact with R. Please ensure you have the current release of RStudio, `RStudio v0.99.1172 <https://www.rstudio.com/products/rstudio/download/preview/>`__, installed. 
 
-Download and install `RStudio <https://www.rstudio.com/products/RStudio/>`__ (select the desktop, open source addition, which is free).
+*Windows:* 
+
+Install R by downloading and running `this .exe file <http://cran.r-project.org/bin/windows/base/release.htm`__ from `CRAN <http://cran.r-project.org/index.html>`__. Also, please install the current release of the `RStudio IDE v0.99.1172 <https://www.rstudio.com/products/rstudio/download/preview/>`__.
+
 
