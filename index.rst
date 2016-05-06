@@ -44,7 +44,7 @@ on github.
 
 May 11, 2016 - `RMarkdown (Marian Schmidt) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-05-11-r-mkdwn-br.html>`__
 
-May 13, 2016 - TBD (Ted Hart) - half day workshop (broadcast)
+.. May 13, 2016 - TBD (Ted Hart) - half day workshop (broadcast)
 
 May 18, 2016 - VEGA for visualization (Jeff Heer's group) - half day workshop (broadcast)
 
