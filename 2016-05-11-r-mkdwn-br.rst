@@ -54,7 +54,7 @@ We will be using `RStudio <http://www.rstudio.com/>`__ to interact with R. Pleas
 
 **Windows:** 
 
-Install R by downloading and running `this .exe file <http://cran.r-project.org/bin/windows/base/release.htm`__ from `CRAN <http://cran.r-project.org/index.html>`__. Also, please install the current release of the `RStudio IDE v0.99.1172 <https://www.rstudio.com/products/rstudio/download/preview/>`__.
+Install R by downloading and running `this .exe file <http://cran.r-project.org/bin/windows/base/release.htm>`__ from `CRAN <http://cran.r-project.org/index.html>`__. Also, please install the current release of the `RStudio IDE v0.99.1172 <https://www.rstudio.com/products/rstudio/download/preview/>`__.
 
 **Mac OS X:**
 
