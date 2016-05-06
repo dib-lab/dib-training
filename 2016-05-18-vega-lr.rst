@@ -13,8 +13,8 @@ UC Davis Location: `DSI Space, Shields Library, UC Davis Campus  <http://dib-tra
 Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions
 
 
-.. `> UC Davis Register Here < <https://www.eventbrite.com/e/rmarkdown-workshop-tickets-25137452798>`__
-.. -----------------------------------------------------------------------------------------------------
+`> UC Davis Register Here < <https://www.eventbrite.com/e/vega-for-data-visualization-tickets-25275546841>`__
+-------------------------------------------------------------------------------------------------------------
 > Materials Will Be Here <
 --------------------------
 > Video Link Will be Here <
