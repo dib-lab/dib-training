@@ -1,7 +1,7 @@
 Vega Tutorial for Data Visualizations
 =====================================
 
-Who: Jeff Heer, Dominik Moritz, Kanit Wongsuphasawat
+Who: Jeff Heer, Dominik Moritz, Ham Wongsuphasawat
 
 When: May 18, 2016
 
