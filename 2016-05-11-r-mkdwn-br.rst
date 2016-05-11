@@ -19,14 +19,14 @@ Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with 
 --------------------------
 > Video Link Will be Here <
 ---------------------------
-.. `> Materials Link Here < <https://github.com/mistrm82/msu_ngs2015>`__
-.. ---------------------------------------------------------------------
+`> Materials Link Here < <http://rpubs.com/marschmi/RMarkdown>`__
+-----------------------------------------------------------------
 
-.. `> Watch Here < <http://www.youtube.com/watch?v=7UKMU5HK380>`__
-.. ---------------------------------------------------------------
+`> Watch Here < <http://youtu.be/WFAHJ0NHOEQ>`__
+------------------------------------------------
 
-.. `> Etherpad < <https://etherpad.wikimedia.org/p/2016-04-27-diff-exp-r>`__
-.. -------------------------------------------------------------------------
+`> Etherpad < <http://pad.software-carpentry.org/2016-05-11-RMarkdown>`__
+-------------------------------------------------------------------------
 
 
 Description
