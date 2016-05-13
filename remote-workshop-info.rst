@@ -89,4 +89,12 @@ No, UC Davis will do all the tech stuff.
 
 5. Who do I ask about questions?
 
+Helpful hints for the instructor
+-------------------------------
+
+* Make use of the Software Carpentry sticky note system, explain this before the workshop.
+* Designate one local helper to be in charge of monitoring the Etherpad for questions posted by students. Answer questions when possible, and make sure the lecturer is notified of questions that can be addressed to them. Additionally, type the answers to the questions in the Etherpad for reference for everyone. (This is *very* appreciated by students!)
+* Include remote locations by asking them what they got as answers for challenge questions
+* Go slow at first when introducing new software (such as R) and moving files into the correct location.
+
 Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
