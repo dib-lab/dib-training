@@ -15,18 +15,17 @@ Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with 
 
 `> UC Davis Register Here < <https://www.eventbrite.com/e/vega-for-data-visualization-tickets-25275546841>`__
 -------------------------------------------------------------------------------------------------------------
-> Materials Will Be Here <
---------------------------
+
 > Video Link Will be Here <
 ---------------------------
-.. `> Materials Link Here < <https://github.com/mistrm82/msu_ngs2015>`__
-.. ---------------------------------------------------------------------
+`> Materials Link Here < <https://vega.github.io/vega-lite/tutorials/getting_started.html>`__
+---------------------------------------------------------------------------------------------
 
 .. `> Watch Here < <http://www.youtube.com/watch?v=7UKMU5HK380>`__
 .. ---------------------------------------------------------------
 
-.. `> Etherpad < <https://etherpad.wikimedia.org/p/2016-04-27-diff-exp-r>`__
-.. -------------------------------------------------------------------------
+`> Etherpad < <https://vega.github.io/vega-lite/tutorials/getting_started.html>`__
+----------------------------------------------------------------------------------
 
 
 Description
