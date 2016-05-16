@@ -3,8 +3,7 @@ Local + Remote Workshop Guidelines
 
 **What it is:** A 3 hour lesson taught at a location which is then broadcast
 to remote locations and also streamed to YouTube using Goolge Hangouts on Air.
-The lesson video will be timestamped shortly after the workshop. The video and
-lesson materials will remain online indefinitely for future use.
+The video and lesson materials will remain online indefinitely for future use.
 
 **What this document is:** A description of the roles of people involved, materials, 
 lesson timeline, used as well as examples of past lessons, and frequently asked questions.
@@ -12,15 +11,14 @@ lesson timeline, used as well as examples of past lessons, and frequently asked 
 Guidelines
 ----------
 
-**Roles of people:** 
+**People involved:** 
 
 - **Instructor:** responsible for teaching (using screen sharing on google hangouts), need to have solid draft of teaching materials two weeks in advance
 
 
-- **Helpers:** Go over teaching material in advance to be able to help with questions, act as helpers in normal *Carp fashion. note: helpers at teaching site will be responsible for monitoring gitter for questions from remote sites, writing them down (on stickies or notecards) and giving them to instructor (or whatever system the instructors prefers).  One (or multiple) helpers will go over challenge problem locally with classrooms.  Also have one helper somewhere responsible for taking good notes in etherpad and copying and pasting code that is being taught into etherpad.
+- **Helpers:** Go over teaching material in advance to be able to help with questions, act as helpers in normal *Carp fashion. One helper at teaching location should be in charge of monitoring Etherpad for questions and answering them directly on the Etherpad (if they are simple) or relaying them to the instructor and typing the answer in the Etherpad.
 
-
-- **Room Leader:** Monitor etherpad chat, make sure that questions get  asked via gitter to teachers.  The room leader can also be a helper, but there should be at least one non-room leader helper in addition to a helper who is a room leader.
+- **Room Leader:** At each location, one person should be in charge of making sure the technology is working. This is generally the person hosting the Google Hangout connection.
 
 **Materials used:**
  
