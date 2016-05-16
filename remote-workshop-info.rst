@@ -30,9 +30,11 @@ Helpful hints for the instructor
 -------------------------------
 
 * Make use of the Software Carpentry sticky note system, explain this before the workshop.
-* Designate one local helper to be in charge of monitoring the Etherpad for questions posted by students. Answer questions when possible, and make sure the lecturer is notified of questions that can be addressed to them. Additionally, type the answers to the questions in the Etherpad for reference for everyone. (This is *very* appreciated by students!)
-* Include remote locations by asking them what they got as answers for challenge questions
-* Go slow at first when introducing new software (such as R) and moving files into the correct location.
+* Depending on audience level and workshop topic, go slow at first when introducing new software (such as R) and moving files into the correct location.
+* Designate one local helper to be in charge of monitoring the Etherpad for questions posted by students. Answer questions when possible, and make sure the lecturer is notified of questions that can be addressed to them. Additionally, type the answers to the questions in the Etherpad for reference for everyone. (This is *very* appreciated by students!). Also, have this person monitor the etherpad chat. If the instructor asks if there are any questions from remote sites, it is much quicker for me to type "no questions!" in the chat than to unmute our microphone and answer verbally, and someone monitoring this chat can quickly convey that.
+* When going over challenge questions, don't hesitate to ask remote sites what answers they came up with.
+* Remember to repeat questions asked locally into the mic so remote sites and those watching the YouTube stream can hear them.
+* If your internet connection drops you, you can rejoin the Hangout using the same invitation link.
 
 **Lesson timeline:**
 
