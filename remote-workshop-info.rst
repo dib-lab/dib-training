@@ -18,13 +18,13 @@ Guidelines
 
 - **Helpers:** Go over teaching material in advance to be able to help with questions, act as helpers in normal *Carp fashion. One helper at teaching location should be in charge of monitoring Etherpad for questions and answering them directly on the Etherpad (if they are simple) or relaying them to the instructor and typing the answer in the Etherpad.
 
-- **Room Leader:** At each location, one person should be in charge of making sure the technology is working. This is generally the person hosting the Google Hangout connection.
+- **Room Leader:** At each location, one person should be in charge of making sure the technology is working. At Davis, this person is Jessica. At the location of the instructor, this is generally the helper in charge of answering questions in the Etherpad. At other remote classrooms, this is generally the person hosting the Google Hangout connection on their computer.
 
 **Materials used:**
  
-- etherpad chat used for questions, students should be told that they can ask questions in chat (if they prefer that over raising hand and asking)
+- The Etherpad should used for questions that arise during instruction. Students from all locations should be told that they can type questions there. The instructor can also ask if sites have any questions on topics, but the Etherpad is helpful during lectures because it doesn't interrupt the instructor.
 
-- all local sites should have sticky notes in two colors, and use them to monitor room progress like Software Carpentry does (green = all good, red = help!)
+- all local sites should have sticky notes in two colors, and use them to monitor room progress during challenge questions as is common with Software Carpentry (green = all good, red = help!)
 
 **Lesson timeline:**
 
