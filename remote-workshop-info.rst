@@ -22,9 +22,17 @@ Guidelines
 
 **Materials used:**
  
-- The Etherpad should used for questions that arise during instruction. Students from all locations should be told that they can type questions there. The instructor can also ask if sites have any questions on topics, but the Etherpad is helpful during lectures because it doesn't interrupt the instructor.
+- The Etherpad should used for questions that arise during instruction. Students from all locations should be told that they can type questions there. The instructor can also ask if sites have any questions on topics, but the Etherpad is helpful during lectures because it doesn't interrupt the instructor. An example of an Etherpad from a past workshop is `here <http://pad.software-carpentry.org/2016-05-11-RMarkdown>`__.
 
 - all local sites should have sticky notes in two colors, and use them to monitor room progress during challenge questions as is common with Software Carpentry (green = all good, red = help!)
+
+Helpful hints for the instructor
+-------------------------------
+
+* Make use of the Software Carpentry sticky note system, explain this before the workshop.
+* Designate one local helper to be in charge of monitoring the Etherpad for questions posted by students. Answer questions when possible, and make sure the lecturer is notified of questions that can be addressed to them. Additionally, type the answers to the questions in the Etherpad for reference for everyone. (This is *very* appreciated by students!)
+* Include remote locations by asking them what they got as answers for challenge questions
+* Go slow at first when introducing new software (such as R) and moving files into the correct location.
 
 **Lesson timeline:**
 
@@ -34,23 +42,20 @@ Guidelines
 
 - 1 week before, do tech test. Google hangout on air streaming to youtube. Verify everything works. (see: https://github.com/dib-lab/dib-training-private/blob/master/remote-tech-test-checklist.txt)
 
-- 2-3 days before, send out workshop reminder email with location details, install instructions, and survey (sample questions here: https://github.com/dib-lab/dib-training-private/blob/master/survey-questions.txt)
+- 2-3 days before, send out workshop reminder email with location details, install instructions
 
 *Day of workshop:*
 
-- 10-15 minutes before lesson start, create Google Hangout on Air (instructions in tech-test-checklist.txt doc linked above), make sure it streams to youtube, have everyone join, keep remote mics muted.
+- 10-15 minutes before lesson start, create Google Hangout on Air (instructions in `here <http://jessicamizzi.github.io/broadcast-hangouts/>`__, make sure it streams to youtube, have everyone join, keep remote mics muted.
 
-- for first 5-10 minutes, locally do introductions of helpers/room leader. Explain that workshop is being taught remotely on google hangouts, mention that remote mics are muted, so they should feel free to ask questions, show online teaching materials, show etherpad, explain etherpad chat is  where they can ask questions at any time, explain video will up on youtube (and time stamped) so it can be referred to later, explain stickies
-
-- lesson starts, instructor teachers until first challenge question. Presents challenge question, people work, when they are done (for the most part), helpers go over challenge question locally, when all sites are finished, lesson starts up again. Repeat this each time there is a challenge question.
+- for first 5-10 minutes, locally do introductions of helpers/room leader. Explain that workshop is being taught remotely on google hangouts, mention that remote mics are muted, so they should feel free to ask questions, show online teaching materials, show etherpad, explain etherpad chat is  where they can ask questions at any time, explain video will up on youtube so it can be referred to later, explain stickies
 
 - halfway through, break for coffee for 10-15 minutes
 
-- finish teaching (repeating challenge question protocol each time one arises)
+- finish teaching
 
-- day of workshop, send out survey (to maximize survey response), include link to youtube video, say it will be time stamped, include general DIB training info (website, signing up for mailing list, adding google cal)
+- post workshop survey is sent to participants, along with YouTube video, materials, and general DIB training info
 
-- within a few days after workshop, go through and add time stamps to youtube video.
 
 NOTE: instructors should (be reminded to) repeat questions that are asked locally :)
 
@@ -69,30 +74,26 @@ Lessons will be posted on the main `DIB Training website <http://dib-training.re
 Frequently Asked Questions
 ---------------------------
 
+For Participants:
+
 1. Do I, as a participant, need to register if I am not attending a workshop, only watching from home?
 
 No, you only need to register if you will be attending our workshop in a classroom.
 
-2. Do I, as a remote instructor, need to host a learning site?
+For instructors:
+
+1. Do I, as a remote instructor, need to host a learning site?
 
 We strongly recommend that you do host a site, even if it is only a few people. This will allow you to observe how students are doing with the material, which is not possible if you are only teaching to your computer screen.
 
-3. How do I, as an instructor, keep track of the etherpad, gitter, and teaching?
+2. How do I, as an instructor, keep track of the etherpad and teaching?
 
-As an instructor, you will be sharing your screen to Google Hangouts on Air, so you will not be able to keep track of other screens. Use your helpers! Insert Emily's advice here.
+As an instructor, you will be sharing your screen to Google Hangouts on Air, so you will not be able to keep track of other screens at all times. Some instructors prefer to switch to the Etherpad to check it every so often, and others prefer to be notified by their helper monitoring the Etherpad of questions 
 
-4. Do I need to create a Google Hangout?
+3. Do I need to create a Google Hangout and Etherpad?
 
 No, UC Davis will do all the tech stuff.
 
-5. Who do I ask about questions?
 
-Helpful hints for the instructor
--------------------------------
-
-* Make use of the Software Carpentry sticky note system, explain this before the workshop.
-* Designate one local helper to be in charge of monitoring the Etherpad for questions posted by students. Answer questions when possible, and make sure the lecturer is notified of questions that can be addressed to them. Additionally, type the answers to the questions in the Etherpad for reference for everyone. (This is *very* appreciated by students!)
-* Include remote locations by asking them what they got as answers for challenge questions
-* Go slow at first when introducing new software (such as R) and moving files into the correct location.
 
 Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
