@@ -64,11 +64,19 @@ NOTE: instructors should (be reminded to) repeat questions that are asked locall
 Past Lessons
 ------------
 
-* December 4, 2015 - `d3.js for Interactive Data Visualization (Emily Dolson) <https://www.youtube.com/watch?v=eIrZjVH0Zcg>`__
-* January 20, 2016 - `pydoit for workflow automation (Camille Scott) <http://www.youtube.com/watch?v=EfD9bWmL-1M&t=20m20s>`__
-* January 27, 2016 - `Advanced git (Raniere Silva) <https://www.youtube.com/watch?v=JTnIDMn47Pk&feature=youtu.be>`__
-* February 17, 2016 - `Regular Expressions & Python (Tiffany Timbers) <https://www.youtube.com/watch?v=GklxBhgUR4g>`__
+* May 11, 2016 - `RMarkdown (Marian Schmidt) - half day workshop (broadcast) <https://www.youtube.com/watch?v=WFAHJ0NHOEQ&feature=youtu.be>`__
+* April 27, 2016 - `Differential Gene Expression in R (Meeta Mistry) <https://www.youtube.com/watch?v=7UKMU5HK380>`__
+* April 13, 2016 - `Intermediate git (Daniel Chen) <https://www.youtube.com/watch?v=S8TLL05qVFg>`__
+* April 6, 2016 - `Introductory git (Daniel Chen) <https://www.youtube.com/watch?v=IpUDlhh8I2E>`__
+* April 4, 2016 - Advanced Beginner Python (Titus Brown) `Part One <https://www.youtube.com/watch?v=YTLpUjdHdbI&feature=youtu.be>`__ and `Part Two <https://www.youtube.com/watch?v=kYi3qUc4BjM>`__
+* March 28, 2016 - `Short-read trimming and quality evaluation - half day workshop (Titus Brown) <https://www.youtube.com/watch?v=_nNq4kq1Wx0>`__
+* March 7, 2016 - `Amazon Web Services (Titus Brown) <https://www.youtube.com/watch?v=IFdBD3YdLJc>`__
+* February 29, 2016 - `Sphinx and Bitbucket (Adelaide Rhodes) <https://www.youtube.com/watch?v=ughHAjjM7Fc>`__
 * February 19, 2016 - `scipy.optimize (Ariel Rokem) <http://www.youtube.com/watch?v=0eFokR-ikaA>`__
+* February 17, 2016 - `Regular Expressions & Python (Tiffany Timbers) <https://www.youtube.com/watch?v=GklxBhgUR4g>`__
+* January 27, 2016 - `Advanced git (Raniere Silva) <https://www.youtube.com/watch?v=JTnIDMn47Pk&feature=youtu.be>`__
+* January 20, 2016 - `pydoit for workflow automation (Camille Scott) <http://www.youtube.com/watch?v=EfD9bWmL-1M&t=20m20s>`__
+* December 4, 2015 - `d3.js for Interactive Data Visualization (Emily Dolson) <https://www.youtube.com/watch?v=eIrZjVH0Zcg>`__
 
 Lessons will be posted on the main `DIB Training website <http://dib-training.readthedocs.org/en/pub/>`__
 
