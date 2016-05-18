@@ -1,5 +1,5 @@
-Vega Tutorial for Data Visualizations
-=====================================
+Vega-Lite Tutorial for Data Visualizations
+==========================================
 
 Who: Jeff Heer, Dominik Moritz, Ham Wongsuphasawat
 
