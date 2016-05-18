@@ -16,8 +16,8 @@ Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with 
 `> UC Davis Register Here < <https://www.eventbrite.com/e/vega-for-data-visualization-tickets-25275546841>`__
 -------------------------------------------------------------------------------------------------------------
 
-`> Materials Link Here < <https://vega.github.io/vega-lite/tutorials/getting_started.html>`__
----------------------------------------------------------------------------------------------
+`> Material Slides Here < <https://docs.google.com/presentation/d/10L-yA_Tq2-3r70F8EZHE0y5GCEE4214oJHucUclOhX8/edit#slide=id.g1405c484bf_4_40>`__
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 `> Watch Here < <https://www.youtube.com/watch?v=lFsjrX9GbhY&feature=youtu.be>`__
 ---------------------------------------------------------------------------------
