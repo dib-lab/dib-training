@@ -13,7 +13,7 @@ Guidelines
 
 **People involved:** 
 
-- **Instructor:** responsible for teaching (using screen sharing on google hangouts), need to have solid draft of teaching materials two weeks in advance
+- **Instructor:** Responsible for teaching (using screen sharing on google hangouts), need to have solid draft of teaching materials two weeks in advance to be sent to room leaders at other locations and their helpers to allow time for everyone to review them.
 
 
 - **Helpers:** Go over teaching material in advance to be able to help with questions, act as helpers in normal *Carp fashion. One helper at teaching location should be in charge of monitoring Etherpad for questions and answering them directly on the Etherpad (if they are simple) or relaying them to the instructor and typing the answer in the Etherpad.
