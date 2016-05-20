@@ -36,27 +36,27 @@ Helpful hints for the instructor
 * Remember to repeat questions asked locally into the mic so remote sites and those watching the YouTube stream can hear them.
 * If your internet connection drops you, you can rejoin the Hangout using the same invitation link.
 
-**Lesson timeline:**
+Workshop timeline:
+-----------------
 
-*Before Workshop:*
+**1+ month before:** Plan workshop with instructor, remote sites, advertise workshop at all sites
 
-- 2 weeks before workshop, have instructor send out teaching materials, helpers go over materials, collect phone numbers from one person from each site
+**2 weeks before:** Touch base with everyone involved, instructor should send out teaching materials to all sites, helpers go over materials, collect phone numbers from one person from each site (in case of tech problems)
 
-- 1 week before, do tech test. Google hangout on air streaming to youtube. Verify everything works. (see: https://github.com/dib-lab/dib-training-private/blob/master/remote-tech-test-checklist.txt)
+**1 week before:** Do tech test/having meeting with all sites. Google hangout on air streaming to youtube. Verify everything works. (see: https://github.com/dib-lab/dib-training-private/blob/master/remote-tech-test-checklist.txt) The instructor can get feedback on teaching materials at this time.
 
-- 2-3 days before, send out workshop reminder email with location details, install instructions
+**2-3 days before:** Send out workshop reminder email with location details, install instructions.
 
 *Day of workshop:*
 
-- 10-15 minutes before lesson start, create Google Hangout on Air (instructions in `here <http://jessicamizzi.github.io/broadcast-hangouts/>`__, make sure it streams to youtube, have everyone join, keep remote mics muted.
+**10-15 minutes before lesson start:** Send Google Hangout on Air invitation link (instructions in `here <http://jessicamizzi.github.io/broadcast-hangouts/>`__, make sure it streams to youtube, have everyone join, keep remote mics muted.
 
-- for first 5-10 minutes, locally do introductions of helpers/room leader. Explain that workshop is being taught remotely on google hangouts, mention that remote mics are muted, so they should feel free to ask questions, show online teaching materials, show etherpad, explain etherpad chat is  where they can ask questions at any time, explain video will up on youtube so it can be referred to later, explain stickies
+**First 5 minutes**: Locally do introductions of helpers/room leader. Explain that workshop is being taught remotely on google hangouts, mention that remote mics are muted, so they should feel free to ask questions, show online teaching materials, show etherpad, explain etherpad chat is  where they can ask questions at any time, explain video will up on youtube so it can be referred to later, explain stickies. Have instructor explain etherpad again in case any local sites forgot to mention this.
 
-- halfway through, break for coffee for 10-15 minutes
+**Halfway through:** Break for coffee for 10-15 minutes (this happens whenever is convenient for instructor)
 
-- finish teaching
 
-- post workshop survey is sent to participants, along with YouTube video, materials, and general DIB training info
+**Same day as workshop:** Send workshop followup survey to participants, along with YouTube video, materials, and general DIB training info
 
 
 NOTE: instructors should (be reminded to) repeat questions that are asked locally :)
