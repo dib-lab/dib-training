@@ -13,10 +13,10 @@ Guidelines
 
 **People involved:** 
 
-- **Instructor:** Responsible for teaching (using screen sharing on google hangouts), need to have solid draft of teaching materials two weeks in advance to be sent to room leaders at other locations and their helpers to allow time for everyone to review them.
+- **Instructor:** Responsible for teaching (using screen sharing on google hangouts), need to have solid draft of teaching materials two weeks in advance to be sent to room leaders at other locations and their helpers to allow time for everyone to review them. Also must do all local tasks (reserving room, have video and mic, send out installation instructions and registration information to their local site) or have someone at their local institution complete them.
 
 
-- **Helpers:** Go over teaching material in advance to be able to help with questions and give instructors feedback during tech test, act as helpers in normal *Carp fashion. One helper at teaching location should be in charge of monitoring Etherpad for questions and answering them directly on the Etherpad (if they are simple) or relaying them to the instructor and typing the answer in the Etherpad.
+- **Helpers:** Go over teaching material in advance to be able to help with questions and give instructors feedback during tech test, act as helpers in normal *Carp fashion. One helper at teaching location should be in charge of monitoring Etherpad for questions and answering them directly on the Etherpad (if they are simple) or relaying them to the instructor and typing the answer in the Etherpad, and there should be additional helpers at the instructor's location to help with questions around the room. It is recommended that each room should have 1 helper for every 10 learners (this can change based on lesson topic, level, or helper availability).
 
 - **Room Leader:** At each location, one person should be in charge of making sure the technology is working. At Davis, this person is Jessica. At the location of the instructor, this is generally the helper in charge of answering questions in the Etherpad. At other remote classrooms, this is generally the person hosting the Google Hangout connection on their computer.
 
