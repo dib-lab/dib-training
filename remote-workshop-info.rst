@@ -16,7 +16,7 @@ Guidelines
 - **Instructor:** Responsible for teaching (using screen sharing on google hangouts), need to have solid draft of teaching materials two weeks in advance to be sent to room leaders at other locations and their helpers to allow time for everyone to review them.
 
 
-- **Helpers:** Go over teaching material in advance to be able to help with questions, act as helpers in normal *Carp fashion. One helper at teaching location should be in charge of monitoring Etherpad for questions and answering them directly on the Etherpad (if they are simple) or relaying them to the instructor and typing the answer in the Etherpad.
+- **Helpers:** Go over teaching material in advance to be able to help with questions and give instructors feedback during tech test, act as helpers in normal *Carp fashion. One helper at teaching location should be in charge of monitoring Etherpad for questions and answering them directly on the Etherpad (if they are simple) or relaying them to the instructor and typing the answer in the Etherpad.
 
 - **Room Leader:** At each location, one person should be in charge of making sure the technology is working. At Davis, this person is Jessica. At the location of the instructor, this is generally the helper in charge of answering questions in the Etherpad. At other remote classrooms, this is generally the person hosting the Google Hangout connection on their computer.
 
@@ -43,7 +43,7 @@ Workshop timeline:
 
 **2 weeks before:** Touch base with everyone involved, instructor should send out teaching materials to all sites, helpers go over materials, collect phone numbers from one person from each site (in case of tech problems)
 
-**1 week before:** Do tech test/having meeting with all sites. Google hangout on air streaming to youtube. Verify everything works. (see: https://github.com/dib-lab/dib-training-private/blob/master/remote-tech-test-checklist.txt) The instructor can get feedback on teaching materials at this time.
+**1 week before:** Do tech test/having meeting with all sites. Google hangout on air streaming to youtube. Verify everything works. (see: https://github.com/dib-lab/dib-training-private/blob/master/remote-tech-test-checklist.txt) The instructor can get feedback on teaching materials at this time. If the lesson has challenge questions, remote helpers can give feedback on how long they took to complete them to give the instructor an idea of their length.
 
 **2-3 days before:** Send out workshop reminder email with location details, install instructions.
 
