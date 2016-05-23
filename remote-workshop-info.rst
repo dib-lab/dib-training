@@ -86,26 +86,21 @@ Lessons will be posted on the main `DIB Training website <http://dib-training.re
 Frequently Asked Questions
 ---------------------------
 
-For Participants:
+1. Do participants need to register if they are not attending a workshop, only watching from home?
 
-1. Do I, as a participant, need to register if I am not attending a workshop, only watching from home?
+No, at UC Davis, participants only need to register if you will be attending our workshop in a classroom. This maybe be different at different locations.
 
-No, you only need to register if you will be attending our workshop in a classroom.
-
-For instructors:
-
-1. Do I, as a remote instructor, need to host a learning site?
+2. As a remote instructor, do I need to host a learning site?
 
 We strongly recommend that you do host a site, even if it is only a few people. This will allow you to observe how students are doing with the material, which is not possible if you are only teaching to your computer screen.
 
-2. How do I, as an instructor, keep track of the etherpad and teaching?
+3. As the instructor, how do I keep track of the etherpad and teaching?
 
 As an instructor, you will be sharing your screen to Google Hangouts on Air, so you will not be able to keep track of other screens at all times. Some instructors prefer to switch to the Etherpad to check it every so often, and others prefer to be notified by their helper monitoring the Etherpad of questions 
 
-3. Do I need to create a Google Hangout and Etherpad?
+4. Do I need to create a Google Hangout and Etherpad?
 
-No, UC Davis will do all the tech stuff.
-
+No, UC Davis will do all the tech stuff. :)
 
 
 Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
