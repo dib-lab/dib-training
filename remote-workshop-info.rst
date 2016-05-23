@@ -22,9 +22,11 @@ Guidelines
 
 **Materials used:**
  
-- The Etherpad should used for questions that arise during instruction. Students from all locations should be told that they can type questions there. The instructor can also ask if sites have any questions on topics, but the Etherpad is helpful during lectures because it doesn't interrupt the instructor. An example of an Etherpad from a past workshop is `here <http://pad.software-carpentry.org/2016-05-11-RMarkdown>`__.
-
-- all local sites should have sticky notes in two colors, and use them to monitor room progress during challenge questions as is common with Software Carpentry (green = all good, red = help!)
+1. **Lesson** - Generally a webpage that contains lesson information. Examples include our `RMarkdown lesson <http://rpubs.com/marschmi/RMarkdown>`__, `pydoit lesson <http://www.camillescott.org/pydoit-intermediate/>`__, `Different Expression Using R lesson <https://github.com/mistrm82/msu_ngs2015/blob/master/hands-on.Rmd>`__.
+2. **Etherpad** - should used for questions that arise during instruction. Students from all locations should be told that they can type questions there. The instructor can also ask if sites have any questions on topics, but the Etherpad is helpful during lectures because it doesn't interrupt the instructor. An example of an Etherpad from a past workshop is `here <http://pad.software-carpentry.org/2016-05-11-RMarkdown>`__. A new Etherpad can be created `here <https://etherpad.wikimedia.org/>`__, though the UC Davis organization person is happy to create this.
+3. **Sticky Notes** - all local sites should have sticky notes in two colors, and use them to monitor room progress during challenge questions as is common with Software Carpentry (green = all good, red = help!)
+4. **Projector** - to display your screen to your local classroom
+5. **Video/Audio** - A laptop connected to a projector and Google Hangout has worked in the past, and a laptop microphone has worked well, though if you plan on moving around the room while teaching some instructors have used fancier microphones.
 
 Helpful hints for the instructor
 -------------------------------
