@@ -1,0 +1,80 @@
+R Markdown
+==========
+
+Who: Marian Schmidt
+
+When: May 11, 2016
+
+Times: 9:15am-12:15pm PST
+
+UC Davis Location: `DSI Space, Shields Library, UC Davis Campus  <http://dib-training.readthedocs.org/en/pub/DSI-space-directions.html>`__ 
+
+
+Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions
+
+
+`> UC Davis Register Here < <https://www.eventbrite.com/e/rmarkdown-workshop-tickets-25137452798>`__
+-----------------------------------------------------------------------------------------------------
+
+`> Materials Link Here < <http://rpubs.com/marschmi/RMarkdown>`__
+-----------------------------------------------------------------
+
+`> Watch Here < <http://youtu.be/WFAHJ0NHOEQ>`__
+------------------------------------------------
+
+`> Etherpad < <http://pad.software-carpentry.org/2016-05-11-RMarkdown>`__
+-------------------------------------------------------------------------
+
+
+Description
+-----------
+
+This 3 hour workshop will introduce scientists to creating dynamic documents with RMarkdown and Knitr.  Dynamic documents contain both program code and narratives and are useful for writing reproducible analysis reports for publication, sharing work with collaborators, writing up homework, and keeping a bioinformatic notebook.  Rmarkdown is a simple formatting syntax for authoring dynamic HTML, PDF, Microsoft Word, Markdown and presentation files.  
+
+In this workshop we will go over the basis of knitr code chunk syntax and options, inline code, plotting, tables, caching, 
+​and ​inserting bibliographies.  We will focus on rendering HTML files, however, resources for rendering other document types will be provided.   
+
+We will assume some experience with R and RStudio, however, people who are new to Rmarkdown and knitr are welcome to attend the workshop.
+
+This workshop will be taught remotely and broadcast to our classroom
+via Google Hangouts on Air. We will have helpers in our local room to
+facilitate the lesson. The lesson will also be streamed to YouTube and
+saved there for viewing at a later time. **You only need to register to
+this event if you plan on coming to a classroom.**
+
+
+
+Installation instructions
+-------------------------
+
+We will be using `RStudio <http://www.rstudio.com/>`__ to interact with R. Please ensure you have the current release of RStudio, `RStudio v0.99.1172 <https://www.rstudio.com/products/rstudio/download/preview/>`__, installed, which has both the **RMarkdown** pacakage and **pandoc** installed.
+
+**Windows:** 
+
+Install R by downloading and running `this .exe file <http://cran.r-project.org/bin/windows/base/release.htm>`__ from `CRAN <http://cran.r-project.org/index.html>`__. Also, please install the current release of the `RStudio IDE v0.99.1172 <https://www.rstudio.com/products/rstudio/download/preview/>`__.
+
+**Mac OS X:**
+
+Install R by downloading and running this `.pkg file <http://cran.r-project.org/bin/macosx/R-latest.pkg>`__ from `CRAN <http://cran.r-project.org/index.html>`__. Also, please install the current release of the `RStudio IDE v0.99.1172 <https://www.rstudio.com/products/rstudio/download/preview/>`__.
+
+**Linux:**
+
+You can download the binary files for your distribution from `CRAN <http://cran.r-project.org/index.html>`__. Or you can use your package manager. For Debian/Ubuntu run: ::
+
+ sudo apt-get install r-base 
+
+and for Fedora run: ::
+
+ sudo yum install R
+
+Also, please install the current release of the `RStudio IDE v0.99.1172 <https://www.rstudio.com/products/rstudio/download/preview/>`__.
+
+**All Operating Systems:**
+
+Once R and RStudio are installed, please install the **Knitr** R package by opening RStudio, and typing: ::
+
+  install.packages("knitr")
+
+in the console, or putting it in an R script and running that line.
+
+For more installation information, including instructional videos, see the bottom of `this <http://umswc.github.io/2016-05-11-RMarkdown/>`__ page.

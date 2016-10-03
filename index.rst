@@ -31,49 +31,29 @@ Or, you can simply view the calendar `here <https://calendar.google.com/calendar
 
 
 
-Upcoming Workshops and Dates
-----------------------------
+.. Upcoming Workshops and Dates
+.. ----------------------------
 
-Please click on the link for more information.  Please note that all
-half-day workshops are from 9:15am - 12:15pm Pacific Time, and some of
-them will be live-streamed via YouTube.  Please `subscribe to the mailing
-list <http://lists.idyll.org/listinfo/dib-training>`__ if you want to
-be notified when registration opens up; you can also subscribe to many events
-on github.
+.. Please click on the link for more information.  Please note that all
+.. half-day workshops are from 9:15am - 12:15pm Pacific Time, and some of
+.. them will be live-streamed via YouTube.  Please `subscribe to the mailing
+.. list <http://lists.idyll.org/listinfo/dib-training>`__ if you want to
+.. be notified when registration opens up; you can also subscribe to many events
+.. on github.
 
 
+.. May 13, 2016 - TBD (Ted Hart) - half day workshop (broadcast)
 
-March 30, 2016 - `De novo mRNAseq assembly - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-03-30-de-novo-mrnaseq-assem.html>`__
 
-April 4, 2016 - `Python, advanced beginner - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-04-adv-beg-python.html>`__
+.. June 6, 2016 - TBD - half day workshop (broadcast)
 
-April 6, 2016 - `Introductory git (Daniel Chen) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-06-intro-git-br.html>`__
+.. June 13, 2016 - TBD - half day workshop (broadcast)
 
-.. April 8, 2016 - TBD - half day workshop (broadcast)
+.. June 15, 2016 - TBD - half day workshop (broadcast)
 
-.. April 11, 2016 - TBD - half day workshop (broadcast)
+.. June 22, 2016 - TBD - half day workshop
 
-April 13, 2016 - `Intermediate git (Daniel Chen) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-13-intermediate-git-br.html>`__
-
-April 18, 2016 - TBD - half day workshop
-
-April 27, 2016 - TBD (Meeta Mistry) - half day workshop (broadcast)
-
-May 11, 2016 - RMarkdown (Marian Schmidt) - half day workshop (broadcast)
-
-May 13, 2016 - TBD (Ted Hart) - half day workshop (broadcast)
-
-May 18, 2016 - VEGA for visualization (Jeff Heer's group) - half day workshop (broadcast)
-
-June 6, 2016 - TBD - half day workshop (broadcast)
-
-June 13, 2016 - TBD - half day workshop (broadcast)
-
-June 15, 2016 - TBD - half day workshop (broadcast)
-
-June 22, 2016 - TBD - half day workshop
-
-June 29, 2016 - TBD - half day workshop
+.. June 29, 2016 - TBD - half day workshop
 
 .. Planned workshops
 .. -----------------
@@ -88,7 +68,14 @@ June 29, 2016 - TBD - half day workshop
 YouTube Videos from Streamed Workshops
 --------------------------------------
 
-* March 28, 2016 - `Short-read trimming and quality evaluation - half day workshop (broadcast) <https://www.youtube.com/watch?v=_nNq4kq1Wx0>`__
+.. * March 30, 2016 - `De novo mRNAseq assembly - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-03-30-de-novo-mrnaseq-assem.html>`__
+* May 18, 2016 - `Vega-Lite for visualization (Dominik Moritz and Ham Wongsuphasawat) - half day workshop (broadcast) <https://www.youtube.com/watch?v=lFsjrX9GbhY&feature=youtu.be>`__ 
+* May 11, 2016 - `RMarkdown (Marian Schmidt) - half day workshop (broadcast) <https://www.youtube.com/watch?v=WFAHJ0NHOEQ&feature=youtu.be>`__
+* April 27, 2016 - `Differential Gene Expression in R (Meeta Mistry) <https://www.youtube.com/watch?v=7UKMU5HK380>`__
+* April 13, 2016 - `Intermediate git (Daniel Chen) <https://www.youtube.com/watch?v=S8TLL05qVFg>`__
+* April 6, 2016 - `Introductory git (Daniel Chen) <https://www.youtube.com/watch?v=IpUDlhh8I2E>`__
+* April 4, 2016 - Advanced Beginner Python (Titus Brown) `Part One <https://www.youtube.com/watch?v=YTLpUjdHdbI&feature=youtu.be>`__ and `Part Two <https://www.youtube.com/watch?v=kYi3qUc4BjM>`__
+* March 28, 2016 - `Short-read trimming and quality evaluation - half day workshop (Titus Brown) <https://www.youtube.com/watch?v=_nNq4kq1Wx0>`__
 * March 7, 2016 - `Amazon Web Services (Titus Brown) <https://www.youtube.com/watch?v=IFdBD3YdLJc>`__
 * February 29, 2016 - `Sphinx and Bitbucket (Adelaide Rhodes) <https://www.youtube.com/watch?v=ughHAjjM7Fc>`__
 * February 19, 2016 - `scipy.optimize (Ariel Rokem) <http://www.youtube.com/watch?v=0eFokR-ikaA>`__
@@ -109,6 +96,13 @@ available indefinitely.  Please feel free to send them on to others.
 Past Workshops
 --------------
 .. * November 19-20, 2015: `Advanced IPython Notebook/Project Jupyter <http://dib-training.readthedocs.org/en/pub/2015-11-19-ipython-jupyter.html>`__
+* May 18, 2016 - `Vega-Lite for visualization (Dominik Moritz and Ham Wongsuphasawat) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-05-18-vega-lr.html>`__ 
+* May 11, 2016 - `RMarkdown (Marian Schmidt) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-05-11-r-mkdwn-br.html>`__
+* April 27, 2016 - `Differential Gene Expression in R (Meeta Mistry) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-27-diff-exp-br.html>`__
+* April 13, 2016 - `Intermediate git (Daniel Chen) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-13-intermediate-git-br.html>`__
+* April 6, 2016 - `Introductory git (Daniel Chen) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-06-intro-git-br.html>`__
+* April 4, 2016 - `Python, advanced beginner - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-04-adv-beg-python.html>`__
+* March 30, 2016 - `De novo RNAseq Assembly - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-03-30-de-novo-mrnaseq-assem.html>`__
 * March 28, 2016 - `Short-read trimming and quality evaluation - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-03-28-short-read-trim-qual-br.html>`__
 * March 9, 2016 - `Jupyter Notebook - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-03-09-jupyter-notebook.html>`__
 * March 7, 2016 - `Amazon Web Services - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-03-03-aws-br.html>`__

@@ -1,0 +1,60 @@
+Vega-Lite Tutorial for Data Visualizations
+==========================================
+
+Who: Jeff Heer, Dominik Moritz, Ham Wongsuphasawat
+
+When: May 18, 2016
+
+Times: 9:15am-12:15pm PST
+
+UC Davis Location: `DSI Space, Shields Library, UC Davis Campus  <http://dib-training.readthedocs.org/en/pub/DSI-space-directions.html>`__ 
+
+
+Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions
+
+
+`> UC Davis Register Here < <https://www.eventbrite.com/e/vega-for-data-visualization-tickets-25275546841>`__
+-------------------------------------------------------------------------------------------------------------
+
+`> Material Slides Here < <https://docs.google.com/presentation/d/10L-yA_Tq2-3r70F8EZHE0y5GCEE4214oJHucUclOhX8/edit#slide=id.g1405c484bf_4_40>`__
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+`> Watch Here < <https://www.youtube.com/watch?v=lFsjrX9GbhY&feature=youtu.be>`__
+---------------------------------------------------------------------------------
+
+`> Etherpad < <https://etherpad.wikimedia.org/p/2016-05-18-vegalite>`__
+------------------------------------------------------------------------
+
+
+Description
+-----------
+
+Visualizations can be a powerful to to efficiently explore data and to communicate your research results. 
+However, creating effective visualizations and picking the right tools can be tricky. In our hands on workshop we 
+will show you how you can use `Vega-Lite <https://vega.github.io/vega-lite/>`__  to quickly create visualizations. We have created Vega-Lite as an easy to use 
+visualization library for data exploration with smart defaults but also ways to customize charts for presentation. Our 
+goal for this workshop is to create a visualization with you and then publish it on the internet. 
+
+In this hands on workshop you will learn how to:
+
+* Create basic visualizations with Vega-Lite
+* How to effectively encode your data
+* Transform the data in Vega-Lite
+* Customize visual appearance of the charts
+* Embed visualizations in a web page
+* Load your own data
+
+This workshop will be taught remotely and broadcast to our classroom
+via Google Hangouts on Air. We will have helpers in our local room to
+facilitate the lesson. The lesson will also be streamed to YouTube and
+saved there for viewing at a later time. **You only need to register to
+this event if you plan on coming to a classroom.**
+
+
+
+What to Bring
+-------------
+
+* A computer connected to the internet, that's it!
+* An interesting data set if you have one
+

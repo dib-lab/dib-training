@@ -15,8 +15,8 @@ Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with 
 `> Watch Here < <http://youtu.be/EfD9bWmL-1M>`__
 ------------------------------------------------------------------------------------------------------------------
 
-.. `> Materials Link Here < <http://emilydolson.github.io/D3-visualising-data/>`__
-.. -------------------------------------------------------------------------------
+`> Materials Link Here < <http://www.camillescott.org/pydoit-intermediate/>`__
+------------------------------------------------------------------------------
 
 
 Description

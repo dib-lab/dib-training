@@ -10,18 +10,23 @@ Times: 9:15am-12:15pm PST
 UC Davis Location: `DSI Space, Shields Library, UC Davis Campus  <http://dib-training.readthedocs.org/en/pub/DSI-space-directions.html>`__ 
 Virginia Tech Location: Biocomplexity Institute, Room 343
 
-Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any UC Davis or organizational questions or `Daniel Chem <mailto:dcheny@gmail.com>`__ with any VT or workshop materials questions.
+Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any UC Davis or organizational questions or `Daniel Chen <mailto:dcheny@gmail.com>`__ with any VT or workshop materials questions.
 
 
-`> UC Davis Register Here < <https://www.eventbrite.com/e/intermediate-git-version-control-your-workflow-tickets-24031382512>`__
---------------------------------------------------------------------------------------------------------------------------------
+.. `> UC Davis Register Here < <https://www.eventbrite.com/e/intermediate-git-version-control-your-workflow-tickets-24031382512>`__
+.. --------------------------------------------------------------------------------------------------------------------------------
 
-`> Virginia Tech Register Here < <https://www.eventbrite.com/e/using-git-to-version-control-your-work-tickets-23187618792>`__
------------------------------------------------------------------------------------------------------------------------------
+.. `> Virginia Tech Register Here < <https://www.eventbrite.com/e/using-git-to-version-control-your-work-tickets-23187618792>`__
+.. -----------------------------------------------------------------------------------------------------------------------------
 
 `> Materials Link Here < <http://chendaniely.github.io/2016-04-06-dib-git-intro-intermediate/>`__
 -------------------------------------------------------------------------------------------------
 
+`> Watch Here < <https://www.youtube.com/watch?v=S8TLL05qVFg>`__
+----------------------------------------------------------------
+
+`> Etherpad Here < <https://etherpad.wikimedia.org/p/2016-04-13-int-git>`__
+---------------------------------------------------------------------------
 
 Description
 -----------
