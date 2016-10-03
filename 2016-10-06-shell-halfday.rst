@@ -18,11 +18,8 @@ postdocs, staff, faculty, and community members.  We have extra space
 for UC Davis VetMed affiliates; contact the lead instructor if you are
 an SVM affiliate.
 
-.. (These spaces will be released to the wait list
-   on Thursday, February 26th.)
-
-.. `> Register here < <https://www.eventbrite.com/e/shell-half-day-workshop-tickets-19301439124>`__
-.. ---------------------------------------------------------------------------------------------------------------
+`> Register here < <https://www.eventbrite.com/e/the-unix-shell-a-half-day-tutorial-registration-28338033822>`__
+---------------------------------------------------------------------------------------------------------------
 
 `> Reference Materials link < <https://github.com/ngs-docs/2015-shell-genomics/blob/gh-pages/README.rst>`__
 -----------------------------------------------------------------------------------------------------------
