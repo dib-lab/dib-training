@@ -31,16 +31,16 @@ Or, you can simply view the calendar `here <https://calendar.google.com/calendar
 
 
 
-.. Upcoming Workshops and Dates
-.. ----------------------------
+Upcoming Workshops and Dates
+----------------------------
 
-.. Please click on the link for more information.  Please note that all
-.. half-day workshops are from 9:15am - 12:15pm Pacific Time, and some of
-.. them will be live-streamed via YouTube.  Please `subscribe to the mailing
-.. list <http://lists.idyll.org/listinfo/dib-training>`__ if you want to
-.. be notified when registration opens up; you can also subscribe to many events
-.. on github.
+Please click on the link for more information.  Please note that all
+half-day workshops are from 9:15am - 12:15pm Pacific Time, and some of
+them will be live-streamed via YouTube.  Please `subscribe to the mailing
+list <http://lists.idyll.org/listinfo/dib-training>`__ if you want to
+be notified when registration opens up.
 
+October 6, 2016 - `UNIX Shell - half-day workshop <http://dib-training.readthedocs.org/en/pub/2016-10-06-shell-halfday.html>`__
 
 .. May 13, 2016 - TBD (Ted Hart) - half day workshop (broadcast)
 
