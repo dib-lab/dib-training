@@ -18,8 +18,17 @@ postdocs, staff, faculty, and community members.  We have extra space
 for UC Davis VetMed affiliates; contact the lead instructor if you are
 an SVM affiliate.
 
-`> Register here < <https://www.eventbrite.com/e/the-unix-shell-a-half-day-tutorial-registration-28338033822>`__
----------------------------------------------------------------------------------------------------------------
+> YouTube videos available <
+----------------------------
+
+(Apologies for the bad sound...)
+
+`Part 1 <https://www.youtube.com/watch?v=KKotOYd3bBo>`__
+
+`Part 2 <https://www.youtube.com/watch?v=3E1CWu55qCY>`__
+
+.. `> Register here < <https://www.eventbrite.com/e/the-unix-shell-a-half-day-tutorial-registration-28338033822>`__
+.. ---------------------------------------------------------------------------------------------------------------
 
 `> Reference Materials link < <https://github.com/ngs-docs/2015-shell-genomics/blob/gh-pages/README.rst>`__
 -----------------------------------------------------------------------------------------------------------
