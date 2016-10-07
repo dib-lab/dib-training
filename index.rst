@@ -40,7 +40,7 @@ them will be live-streamed via YouTube.  Please `subscribe to the mailing
 list <http://lists.idyll.org/listinfo/dib-training>`__ if you want to
 be notified when registration opens up.
 
-October 20th, 2016 - Open Refine for working with large spreadsheets.
+October 20th, 2016 - `Open Refine for working with large spreadsheets. <2016-10-20-openrefine-halfday.html>`__
 
 November 1, 2016 - Introductory version control with git.
 
