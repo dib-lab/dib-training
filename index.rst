@@ -42,28 +42,24 @@ be notified when registration opens up.
 
 October 6, 2016 - `UNIX Shell - half-day workshop <http://dib-training.readthedocs.org/en/pub/2016-10-06-shell-halfday.html>`__
 
-.. May 13, 2016 - TBD (Ted Hart) - half day workshop (broadcast)
+October 20th, 2016 - Open Refine for working with large spreadsheets.
 
+November 1, 2016 - Introductory version control with git.
 
-.. June 6, 2016 - TBD - half day workshop (broadcast)
+November 17th, 2016 - Amazon Web Services for cloud computing.
 
-.. June 13, 2016 - TBD - half day workshop (broadcast)
+November 29th, 2016 - Introduction to UNIX shell.
 
-.. June 15, 2016 - TBD - half day workshop (broadcast)
+December 6th, 2016 - Open Refine for working with large spreadsheets.
 
-.. June 22, 2016 - TBD - half day workshop
+December 8th, 2016 - Introductory version control with git.
 
-.. June 29, 2016 - TBD - half day workshop
+December 13th, 2016 - Amazon Web Services for cloud computing.
 
-.. Planned workshops
-.. -----------------
+December 15th, 2016 - R, RStudio, and RMarkdown for exploring your data.
 
-.. These are tentative dates and topics; we will post details about
-.. the workshops closer to the date.  
+December 20th, 2016 - Jupyter Notebook for exploring your data.
 
-.. nov 9, 10 - microbial genomics, transcriptomics
-.. dec 3, 4 - metagenome assembly/foo
-.. oct 5-6 - workflow tracking, automation, and reproducibility hands-on
 
 YouTube Videos from Streamed Workshops
 --------------------------------------
