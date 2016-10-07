@@ -136,7 +136,7 @@ are part of the fledgling Data Sciences Initiative at UC Davis.
 
 `UC Davis Genome Center <http://genomecenter.ucdavis.edu/>`__ - Dr. Brown
 is a member of the Genome Center at UC Davis.  Note that the Genome Center
-hosts a `Bioinformatics Training Program <http://training.bioinformatics.ucdavis.edu/>`__!
+hosts a `Bioinformatics Training Program <http://bioinformatics.ucdavis.edu/training/>`__!
 
 ---
 
