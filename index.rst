@@ -40,15 +40,13 @@ them will be live-streamed via YouTube.  Please `subscribe to the mailing
 list <http://lists.idyll.org/listinfo/dib-training>`__ if you want to
 be notified when registration opens up.
 
-October 6, 2016 - `UNIX Shell - half-day workshop <http://dib-training.readthedocs.org/en/pub/2016-10-06-shell-halfday.html>`__
-
 October 20th, 2016 - Open Refine for working with large spreadsheets.
 
 November 1, 2016 - Introductory version control with git.
 
 November 17th, 2016 - Amazon Web Services for cloud computing.
 
-November 29th, 2016 - Introduction to UNIX shell.
+November 29th, 2016 - `Introduction to UNIX shell <2016-11-29-shell-halfday.html>`__
 
 December 6th, 2016 - Open Refine for working with large spreadsheets.
 
@@ -64,8 +62,8 @@ December 20th, 2016 - Jupyter Notebook for exploring your data.
 YouTube Videos from Streamed Workshops
 --------------------------------------
 
-.. * March 30, 2016 - `De novo mRNAseq assembly - half day workshop <http://dib-training.readthedocs.org/en/pub/2016-03-30-de-novo-mrnaseq-assem.html>`__
-* May 18, 2016 - `Vega-Lite for visualization (Dominik Moritz and Ham Wongsuphasawat) - half day workshop (broadcast) <https://www.youtube.com/watch?v=lFsjrX9GbhY&feature=youtu.be>`__ 
+* October 6, 2016 - `UNIX Shell - half-day workshop <http://dib-training.readthedocs.org/en/pub/2016-10-06-shell-halfday.html>`__
+  * May 18, 2016 - `Vega-Lite for visualization (Dominik Moritz and Ham Wongsuphasawat) - half day workshop (broadcast) <https://www.youtube.com/watch?v=lFsjrX9GbhY&feature=youtu.be>`__ 
 * May 11, 2016 - `RMarkdown (Marian Schmidt) - half day workshop (broadcast) <https://www.youtube.com/watch?v=WFAHJ0NHOEQ&feature=youtu.be>`__
 * April 27, 2016 - `Differential Gene Expression in R (Meeta Mistry) <https://www.youtube.com/watch?v=7UKMU5HK380>`__
 * April 13, 2016 - `Intermediate git (Daniel Chen) <https://www.youtube.com/watch?v=S8TLL05qVFg>`__
@@ -91,7 +89,8 @@ available indefinitely.  Please feel free to send them on to others.
 
 Past Workshops
 --------------
-.. * November 19-20, 2015: `Advanced IPython Notebook/Project Jupyter <http://dib-training.readthedocs.org/en/pub/2015-11-19-ipython-jupyter.html>`__
+
+* October 6, 2016 - `UNIX Shell - half-day workshop <http://dib-training.readthedocs.org/en/pub/2016-10-06-shell-halfday.html>`__
 * May 18, 2016 - `Vega-Lite for visualization (Dominik Moritz and Ham Wongsuphasawat) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-05-18-vega-lr.html>`__ 
 * May 11, 2016 - `RMarkdown (Marian Schmidt) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-05-11-r-mkdwn-br.html>`__
 * April 27, 2016 - `Differential Gene Expression in R (Meeta Mistry) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-04-27-diff-exp-br.html>`__
