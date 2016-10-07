@@ -42,23 +42,23 @@ be notified when registration opens up.
 
 October 6, 2016 - `UNIX Shell - half-day workshop <http://dib-training.readthedocs.org/en/pub/2016-10-06-shell-halfday.html>`__
 
-October 20th, 2016 - Open Refine and spreadsheets
+October 20th, 2016 - Open Refine for working with large spreadsheets.
 
-November 1, 2016 - Introductory version control with git
+November 1, 2016 - Introductory version control with git.
 
-November 17th, 2016 - Amazon Web Services
+November 17th, 2016 - Amazon Web Services for cloud computing.
 
-November 29th, 2016 - Introduction to UNIX shell
+November 29th, 2016 - Introduction to UNIX shell.
 
-December 6th, 2016 - Open Refine and Spreadsheets
+December 6th, 2016 - Open Refine for working with large spreadsheets.
 
-December 8th, 2016 - Introductory version control with git
+December 8th, 2016 - Introductory version control with git.
 
-December 13th, 2016 - Amazon Web Services
+December 13th, 2016 - Amazon Web Services for cloud computing.
 
-December 15th, 2016 - TBD
+December 15th, 2016 - R, RStudio, and RMarkdown for exploring your data.
 
-December 20th, 2016 - TBD
+December 20th, 2016 - Jupyter Notebook for exploring your data.
 
 
 YouTube Videos from Streamed Workshops
