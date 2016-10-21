@@ -18,21 +18,22 @@ postdocs, staff, faculty, and community members.  We have extra space
 for UC Davis VetMed affiliates; contact the lead instructor if you are
 an SVM affiliate.
 
-`> Register here < <https://www.eventbrite.com/e/open-refine-for-working-with-large-spreadsheets-registration-28460341648>`__
+.. `> Register here < <https://www.eventbrite.com/e/open-refine-for-working-with-large-spreadsheets-registration-28460341648>`__
 -----------------------------------------------------------------------------------------------------------------------------
 
 `> Reference Materials link < <http://www.datacarpentry.org/lessons/#ecology-workshop>`__
 -----------------------------------------------------------------------------------------------------------
 
+`> Video recording of workshop < <https://www.youtube.com/watch?v=0sKPGLXMlf0>`__
+---------------------------------------------------------------------------------
+
 Description
 -----------
 
-This half day workshop will provide an introduction to working with
-large spreadsheets, and using the OpenRefine tool to clean and correct
-spreadsheet data.  It is intended for anyone who uses spreadsheets
-for data analysis.
-
-The workshop will be recorded and recordings will be posted to this page.
+This half day workshop provides an introduction to working with large
+spreadsheets, and using the OpenRefine tool to clean and correct
+spreadsheet data.  It is intended for anyone who uses spreadsheets for
+data analysis.
 
 Topics overview
 ~~~~~~~~~~~~~~~
