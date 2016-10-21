@@ -40,8 +40,6 @@ them will be live-streamed via YouTube.  Please `subscribe to the mailing
 list <http://lists.idyll.org/listinfo/dib-training>`__ if you want to
 be notified when registration opens up.
 
-October 20th, 2016 - `Open Refine for working with large spreadsheets. <2016-10-20-openrefine-halfday.html>`__
-
 November 1, 2016 - Introductory version control with git.
 
 November 17th, 2016 - Amazon Web Services for cloud computing.
@@ -62,6 +60,7 @@ December 20th, 2016 - Jupyter Notebook for exploring your data.
 YouTube Videos from Streamed Workshops
 --------------------------------------
 
+* October 20, 2016 - `Open Refine for working with large spreadsheets - half day workshop <https://dib-training.readthedocs.io/en/pub/2016-10-20-openrefine-halfday.html>`__
 * October 6, 2016 - `UNIX Shell - half-day workshop <http://dib-training.readthedocs.org/en/pub/2016-10-06-shell-halfday.html>`__
 * May 18, 2016 - `Vega-Lite for visualization (Dominik Moritz and Ham Wongsuphasawat) - half day workshop (broadcast) <https://www.youtube.com/watch?v=lFsjrX9GbhY&feature=youtu.be>`__ 
 * May 11, 2016 - `RMarkdown (Marian Schmidt) - half day workshop (broadcast) <https://www.youtube.com/watch?v=WFAHJ0NHOEQ&feature=youtu.be>`__
@@ -90,6 +89,7 @@ available indefinitely.  Please feel free to send them on to others.
 Past Workshops
 --------------
 
+October 20th, 2016 - `Open Refine for working with large spreadsheets. <2016-10-20-openrefine-halfday.html>`__
 * October 6, 2016 - `UNIX Shell - half-day workshop <http://dib-training.readthedocs.org/en/pub/2016-10-06-shell-halfday.html>`__
 * May 18, 2016 - `Vega-Lite for visualization (Dominik Moritz and Ham Wongsuphasawat) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-05-18-vega-lr.html>`__ 
 * May 11, 2016 - `RMarkdown (Marian Schmidt) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-05-11-r-mkdwn-br.html>`__
