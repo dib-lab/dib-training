@@ -63,7 +63,7 @@ YouTube Videos from Streamed Workshops
 --------------------------------------
 
 * October 6, 2016 - `UNIX Shell - half-day workshop <http://dib-training.readthedocs.org/en/pub/2016-10-06-shell-halfday.html>`__
-  * May 18, 2016 - `Vega-Lite for visualization (Dominik Moritz and Ham Wongsuphasawat) - half day workshop (broadcast) <https://www.youtube.com/watch?v=lFsjrX9GbhY&feature=youtu.be>`__ 
+* May 18, 2016 - `Vega-Lite for visualization (Dominik Moritz and Ham Wongsuphasawat) - half day workshop (broadcast) <https://www.youtube.com/watch?v=lFsjrX9GbhY&feature=youtu.be>`__ 
 * May 11, 2016 - `RMarkdown (Marian Schmidt) - half day workshop (broadcast) <https://www.youtube.com/watch?v=WFAHJ0NHOEQ&feature=youtu.be>`__
 * April 27, 2016 - `Differential Gene Expression in R (Meeta Mistry) <https://www.youtube.com/watch?v=7UKMU5HK380>`__
 * April 13, 2016 - `Intermediate git (Daniel Chen) <https://www.youtube.com/watch?v=S8TLL05qVFg>`__
