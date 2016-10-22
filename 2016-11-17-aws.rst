@@ -1,0 +1,63 @@
+Amazon Web Services
+===================
+
+Who: Titus Brown, lead instructor. 
+
+When: March 7, 2016
+
+Times: 9:15am-12:15pm PST
+
+Where: `DSI Space <http://dib-training.readthedocs.org/en/pub/DSI-space-directions.html>`__, Shields Library UC Davis campus
+
+Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
+
+`> Materials < <https://2016-feb-aws.readthedocs.org/>`__
+---------------------------------------------------------
+
+.. `> SFU attendees Registration < <https://www.eventbrite.com/e/regular-expressions-python-tickets-20923856819>`__
+.. ----------------------------------------------------------------------------------------------------------------
+`> Watch Lesson Here < <http://youtu.be/IFdBD3YdLJc>`__
+-------------------------------------------------------
+
+
+Description
+-----------
+
+Amazon Web Services is one of a number of cloud computing services that offers “rental compute” - a way to buy compute time as you need it.  This is an increasingly common way for scientists to scale up their work, and it also has a number of benefits for reproducibility and teaching.
+
+This tutorial will introduce people to using Amazon Web Services to run programs on a Linux computer rented through their Web interface (“EC2”). I’ll demonstrate the basic process, discuss different options and pricing schemes, and cover the use of AWS disk storage. I’ll also demonstrate S3 (Simple Storage Service) which is a way to store and distribute large files.
+
+Attendees will need to pay their own AWS costs - it will be less than $5 total for the workshop. You will need a reasonably modern computer and there will be some software to pre-install (but not much).
+
+This workshop will be broadcast via Google Hangouts on Air/YouTube for those who wish to participate remotely.
+
+Installation Instructions
+-------------------------
+
+For this workshop, you need an AWS account and a terminal.
+
+**AWS account**
+
+Please make sure to register for an `Amazon Web Services account <https://aws.amazon.com/>`__. Attendees will need to provide a credit card and cover their own computing costs, which should be less than $5 for the entire workshop. You should see an "Amazon Web Services" menu page, and see an "EC2" button on the top left corner after signing in.
+
+**Terminal Program**
+
+Windows:
+
+1. Download the Git for Windows installer `here <https://git-for-windows.github.io/>`__.
+2. Follow install instructions.
+
+   * Click "next"
+   * Click "next"
+   * Click "next"
+   * Click "next"
+   * Click "next"
+   * Select **"Use Git from the Windows Command Prompt"** and click on "next".  If you forget to do this, re-run the installer and select the correct option.
+   * Click "next", keep **"Checkout Windows-style, commit Unix-style line endings"** selected.
+   * Select **"Use Windows' default console window"** and click on "next"
+   * Click on "next"
+   * Click on "finish"
+
+Mac OS X:
+
+The default shell in Mac OS X is bash, so you can access the Terminal from /Applications/Utilities (go to your Applications folder, then go to the Utilities window.  You should see "Terminal" there)

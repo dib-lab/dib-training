@@ -1,0 +1,78 @@
+Introductory Git
+================
+
+Who: Titus Brown, lead instructor; Sherine Awad and Luiz Irber, TAs.
+
+When: February 5, 2016
+
+Times: 9:15am-12:15pm PST
+
+Where: `DSI Space, Shields Library, UC Davis Campus  <http://dib-training.readthedocs.org/en/pub/DSI-space-directions.html>`__ 
+
+Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
+
+
+ `> Register Here < <https://www.eventbrite.com/e/introductory-git-half-day-workshop-tickets-20040916922>`__
+-----------------------------------------------------------------------------------------------------------
+
+`> Materials Link Here < <https://swcarpentry.github.io/git-novice/>`__
+-----------------------------------------------------------------------
+
+
+Description
+-----------
+
+
+This workshop will introduce the basics of git, a widely used system
+for managing changes to files.  Git and related systems are key for
+replicability when doing any kind of computational analysis.
+
+This will be a gentle introduction to git that follows the Software
+Carpentry lesson.
+
+Some experience with the command line is strongly suggested, but you
+don't need to be an expert by any means; we will have friendly TAs,
+too!
+
+We will also talk about github, a site that enables collaboration
+around files in git.
+ 
+
+Computer and workshop requirements
+----------------------------------
+
+Attendees will need to bring a computer with an Internet connection.
+
+Please install git before the workshop by following the
+instructions below.
+
+Installation instructions
+-------------------------
+
+Windows:
+
+1. Download the Git for Windows installer `here <https://git-for-windows.github.io/>`__.
+2. Follow install instructions.
+
+   * Click "next"
+   * Click "next"
+   * Click "next"
+   * Click "next"
+   * Click "next"
+   * Select **"Use Git from the Windows Command Prompt"** and click on "next".  If you forget to do this, re-run the installer and select the correct option.
+   * Click "next", keep **"Checkout Windows-style, commit Unix-style line endings"** selected.
+   * Select **"Use Windows' default console window"** and click on "next"
+   * Click on "next"
+   * Click on "finish"
+
+OS X:
+
+For versions **10.9 and higher**:
+
+Download and run the most recent "mavericks" installer from `this list 
+<http://sourceforge.net/projects/git-osx-installer/files/>`__.
+
+For versions **10.5-10.8**:
+
+Download and run the most recent "snow-leopards" installer from
+`this list <http://sourceforge.net/projects/git-osx-installer/files/>`__.

@@ -89,7 +89,7 @@ available indefinitely.  Please feel free to send them on to others.
 Past Workshops
 --------------
 
-October 20th, 2016 - `Open Refine for working with large spreadsheets. <2016-10-20-openrefine-halfday.html>`__
+* October 20th, 2016 - `Open Refine for working with large spreadsheets. <2016-10-20-openrefine-halfday.html>`__
 * October 6, 2016 - `UNIX Shell - half-day workshop <http://dib-training.readthedocs.org/en/pub/2016-10-06-shell-halfday.html>`__
 * May 18, 2016 - `Vega-Lite for visualization (Dominik Moritz and Ham Wongsuphasawat) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-05-18-vega-lr.html>`__ 
 * May 11, 2016 - `RMarkdown (Marian Schmidt) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-05-11-r-mkdwn-br.html>`__
