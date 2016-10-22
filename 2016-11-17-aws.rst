@@ -11,6 +11,9 @@ Where: 1043 Valley Hall, UC Davis campus.
 
 Contact `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ with any questions.
 
+This workshop will be recorded and the recording will be available for
+viewing through this Web page.
+
 `> Materials < <https://2016-feb-aws.readthedocs.org/>`__
 ---------------------------------------------------------
 
