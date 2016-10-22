@@ -3,21 +3,20 @@ Introductory Git
 
 Who: Titus Brown, lead instructor; Sherine Awad and Luiz Irber, TAs.
 
-When: February 5, 2016
+When: November 1st, 2016
 
 Times: 9:15am-12:15pm PST
 
-Where: `DSI Space, Shields Library, UC Davis Campus  <http://dib-training.readthedocs.org/en/pub/DSI-space-directions.html>`__ 
+Where: 1043 Valley Hall, UC Davis campus.
 
-Contact: Please contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
+Contact: Please contact `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ with any questions.
 
 
- `> Register Here < <https://www.eventbrite.com/e/introductory-git-half-day-workshop-tickets-20040916922>`__
------------------------------------------------------------------------------------------------------------
+`> Register Here < <https://www.eventbrite.com/e/introductory-version-control-with-git-registration-28808148949>`__
+-------------------------------------------------------------------------------------------------------------------
 
 `> Materials Link Here < <https://swcarpentry.github.io/git-novice/>`__
 -----------------------------------------------------------------------
-
 
 Description
 -----------

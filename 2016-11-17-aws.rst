@@ -3,22 +3,19 @@ Amazon Web Services
 
 Who: Titus Brown, lead instructor. 
 
-When: March 7, 2016
+When: November 17, 2016
 
 Times: 9:15am-12:15pm PST
 
-Where: `DSI Space <http://dib-training.readthedocs.org/en/pub/DSI-space-directions.html>`__, Shields Library UC Davis campus
+Where: 1043 Valley Hall, UC Davis campus.
 
-Contact `Jessica Mizzi <mailto:jessica.mizzi@gmail.com>`__ with any questions.
+Contact `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ with any questions.
 
 `> Materials < <https://2016-feb-aws.readthedocs.org/>`__
 ---------------------------------------------------------
 
-.. `> SFU attendees Registration < <https://www.eventbrite.com/e/regular-expressions-python-tickets-20923856819>`__
-.. ----------------------------------------------------------------------------------------------------------------
-`> Watch Lesson Here < <http://youtu.be/IFdBD3YdLJc>`__
--------------------------------------------------------
-
+`> Register here < <https://www.eventbrite.com/e/amazon-web-services-for-cloud-computing-registration-28808156973>`__
+-----------------------------------------------------------------------------------------------------------------------------
 
 Description
 -----------
@@ -28,8 +25,6 @@ Amazon Web Services is one of a number of cloud computing services that offers �
 This tutorial will introduce people to using Amazon Web Services to run programs on a Linux computer rented through their Web interface (“EC2”). I’ll demonstrate the basic process, discuss different options and pricing schemes, and cover the use of AWS disk storage. I’ll also demonstrate S3 (Simple Storage Service) which is a way to store and distribute large files.
 
 Attendees will need to pay their own AWS costs - it will be less than $5 total for the workshop. You will need a reasonably modern computer and there will be some software to pre-install (but not much).
-
-This workshop will be broadcast via Google Hangouts on Air/YouTube for those who wish to participate remotely.
 
 Installation Instructions
 -------------------------
