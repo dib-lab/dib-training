@@ -1,7 +1,7 @@
 Introductory Git
 ================
 
-Who: Titus Brown, lead instructor; Sherine Awad and Luiz Irber, TAs.
+Who: Titus Brown, lead instructor.
 
 When: November 1st, 2016
 
