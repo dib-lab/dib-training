@@ -40,7 +40,7 @@ them will be live-streamed via YouTube.  Please `subscribe to the mailing
 list <http://lists.idyll.org/listinfo/dib-training>`__ if you want to
 be notified when registration opens up.
 
-November 1, 2016 - `Introductory version control with git. <https://dib-training.readthedocs.io/en/pub/2016-11-01-intro-git.html>`__
+.. November 1, 2016 - `Introductory version control with git. <https://dib-training.readthedocs.io/en/pub/2016-11-01-intro-git.html>`__
 
 November 17th, 2016 - `Amazon Web Services for cloud computing. <https://dib-training.readthedocs.io/en/pub/2016-11-17-aws.html>`__
 
