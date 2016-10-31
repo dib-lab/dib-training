@@ -1,6 +1,9 @@
 Introductory Git
 ================
 
+**This workshop has been cancelled due to illness.  We will run another
+git workshop on December 8th.**
+
 Who: Titus Brown, lead instructor.
 
 When: November 1st, 2016
@@ -14,8 +17,8 @@ Contact: Please contact `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ with any qu
 This workshop will be recorded and the recording will be available for
 viewing through this Web page.
 
-`> Register Here < <https://www.eventbrite.com/e/introductory-version-control-with-git-registration-28808148949>`__
--------------------------------------------------------------------------------------------------------------------
+.. `> Register Here < <https://www.eventbrite.com/e/introductory-version-control-with-git-registration-28808148949>`__
+.. -------------------------------------------------------------------------------------------------------------------
 
 `> Materials Link Here < <https://swcarpentry.github.io/git-novice/>`__
 -----------------------------------------------------------------------
