@@ -36,26 +36,23 @@ For this workshop, you need an AWS account and a terminal.
 
 **AWS account**
 
-Please make sure to register for an `Amazon Web Services account <https://aws.amazon.com/>`__. Attendees will need to provide a credit card and cover their own computing costs, which should be less than $5 for the entire workshop. You should see an "Amazon Web Services" menu page, and see an "EC2" button on the top left corner after signing in.
-
-**Terminal Program**
+Please make sure to register for an `Amazon Web Services account
+<https://aws.amazon.com/>`__. Attendees will need to provide a credit
+card and cover their own computing costs, which should be less than $5
+for the entire workshop. You should see an "Amazon Web Services" menu
+page, and see an "EC2" button on the top left corner after signing in.
 
 Windows:
 
-1. Download the Git for Windows installer `here <https://git-for-windows.github.io/>`__.
-2. Follow install instructions.
+Please download `MobaXTerm Home
+<http://mobaxterm.mobatek.net/download-home-edition.html>`__, Portable
+Edition `(direct link)
+<http://mobaxterm.mobatek.net/MobaXterm_v9.4.zip>`__.
 
-   * Click "next"
-   * Click "next"
-   * Click "next"
-   * Click "next"
-   * Click "next"
-   * Select **"Use Git from the Windows Command Prompt"** and click on "next".  If you forget to do this, re-run the installer and select the correct option.
-   * Click "next", keep **"Checkout Windows-style, commit Unix-style line endings"** selected.
-   * Select **"Use Windows' default console window"** and click on "next"
-   * Click on "next"
-   * Click on "finish"
+Please also make sure you have the Firefox or Chrome Web browsers installed!
 
 Mac OS X:
 
-The default shell in Mac OS X is bash, so you can access the Terminal from /Applications/Utilities (go to your Applications folder, then go to the Utilities window.  You should see "Terminal" there)
+The default shell in Mac OS X is bash, so you can access the Terminal
+from /Applications/Utilities (go to your Applications folder, then go
+to the Utilities window.  You should see "Terminal" there)
