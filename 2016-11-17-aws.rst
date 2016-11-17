@@ -20,6 +20,8 @@ viewing through this Web page.
 `> Register here < <https://www.eventbrite.com/e/amazon-web-services-for-cloud-computing-registration-28808156973>`__
 -----------------------------------------------------------------------------------------------------------------------------
 
+In-workshop etherpad: https://public.etherpad-mozilla.org/p/2016-nov-aws
+
 Description
 -----------
 
