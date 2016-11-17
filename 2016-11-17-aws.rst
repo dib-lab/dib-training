@@ -1,6 +1,8 @@
 Amazon Web Services
 ===================
 
+This will be live streamed via YouTube Live, `here <https://www.youtube.com/watch?v=PEhqXETrLcw>`__.
+
 Who: Titus Brown, lead instructor. 
 
 When: November 17, 2016
