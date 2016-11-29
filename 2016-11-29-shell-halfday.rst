@@ -21,8 +21,8 @@ an SVM affiliate.
 `In-class Etherpad <https://public.etherpad-mozilla.org/p/2016-nov-shell>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`> Register here < <https://www.eventbrite.com/e/the-unix-shell-a-half-day-tutorial-registration-28338204332>`__
-----------------------------------------------------------------------------------------------------------------
+.. `> Register here < <https://www.eventbrite.com/e/the-unix-shell-a-half-day-tutorial-registration-28338204332>`__
+   ----------------------------------------------------------------------------------------------------------------
 
 `> Reference Materials link < <https://github.com/ngs-docs/2015-shell-genomics/blob/gh-pages/README.rst>`__
 -----------------------------------------------------------------------------------------------------------
