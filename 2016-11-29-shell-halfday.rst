@@ -55,10 +55,11 @@ Installation instructions
 
 **The Bash Shell**
 
-Windows: Download and install `msysgit <http://msysgit.github.io/>`__.
+Windows:
 
-.. 1. Download the Git for Windows installer `here <https://git-for-windows.github.io/>`__.
-  2. Follow install instructions.
+1. Download the Git for Windows installer `here <https://git-for-windows.github.io/>`__.
+
+2. Follow install instructions.
 
       * Click "next"
       * Click "next"
@@ -70,5 +71,7 @@ Windows: Download and install `msysgit <http://msysgit.github.io/>`__.
       * Select **"Use Windows' default console window"** and click on "next"
       * Click on "next"
       * Click on "finish"
+
+There is a video tutorial under "The Bash shell - Windows" on `this page <https://uio-carpentry.github.io/2016-10-12-unix/>`__ if you run into trouble.
 
 Mac OS X: nothing needs to be installed.
