@@ -40,10 +40,6 @@ them will be live-streamed via YouTube.  Please `subscribe to the mailing
 list <http://lists.idyll.org/listinfo/dib-training>`__ if you want to
 be notified when registration opens up.
 
-.. November 1, 2016 - `Introductory version control with git. <https://dib-training.readthedocs.io/en/pub/2016-11-01-intro-git.html>`__
-
-November 17th, 2016 - `Amazon Web Services for cloud computing. <https://dib-training.readthedocs.io/en/pub/2016-11-17-aws.html>`__
-
 November 29th, 2016 - `Introduction to UNIX shell <2016-11-29-shell-halfday.html>`__
 
 December 6th, 2016 - Open Refine for working with large spreadsheets.
@@ -89,6 +85,7 @@ available indefinitely.  Please feel free to send them on to others.
 Past Workshops
 --------------
 
+* November 17th, 2016 - `Amazon Web Services for cloud computing. <https://dib-training.readthedocs.io/en/pub/2016-11-17-aws.html>`__
 * October 20th, 2016 - `Open Refine for working with large spreadsheets. <2016-10-20-openrefine-halfday.html>`__
 * October 6, 2016 - `UNIX Shell - half-day workshop <http://dib-training.readthedocs.org/en/pub/2016-10-06-shell-halfday.html>`__
 * May 18, 2016 - `Vega-Lite for visualization (Dominik Moritz and Ham Wongsuphasawat) - half day workshop (broadcast) <http://dib-training.readthedocs.org/en/pub/2016-05-18-vega-lr.html>`__ 
