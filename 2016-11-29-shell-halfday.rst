@@ -1,7 +1,7 @@
 UNIX Shell Half Day Workshop 
 ============================
 
-Who: `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ (instructor)
+Who: `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ (instructor), Catalina Anghel (TA)
 
 When: November 29th, 2016
 
