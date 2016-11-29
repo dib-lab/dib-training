@@ -18,6 +18,9 @@ postdocs, staff, faculty, and community members.  We have extra space
 for UC Davis VetMed affiliates; contact the lead instructor if you are
 an SVM affiliate.
 
+`YouTube video <https://www.youtube.com/watch?v=_N3iK3nCEeM>`__
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 `In-class Etherpad <https://public.etherpad-mozilla.org/p/2016-nov-shell>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
