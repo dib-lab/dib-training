@@ -15,7 +15,7 @@ This workshop will be recorded and the recording will be available for
 viewing through this Web page.
 
 `> Register Here < <https://www.eventbrite.com/e/introductory-version-control-with-git-registration-29891921542>`__
-.. -------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
 
 `> Materials Link Here < <https://swcarpentry.github.io/git-novice/>`__
 -----------------------------------------------------------------------
