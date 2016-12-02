@@ -40,15 +40,15 @@ them will be live-streamed via YouTube.  Please `subscribe to the mailing
 list <http://lists.idyll.org/listinfo/dib-training>`__ if you want to
 be notified when registration opens up.
 
-December 6th, 2016 - Open Refine for working with large spreadsheets.
+.. December 6th, 2016 - Open Refine for working with large spreadsheets.
 
-December 8th, 2016 - Introductory version control with git.
+`December 8th, 2016 - Introductory version control with git. <2016-12-08-intro-git.html>`__
 
-December 13th, 2016 - Amazon Web Services for cloud computing.
+.. December 13th, 2016 - Amazon Web Services for cloud computing.
 
-December 15th, 2016 - R, RStudio, and RMarkdown for exploring your data.
+`December 15th, 2016 - R, RStudio, and RMarkdown for exploring your data. <2016-12-15-r-intro.html>`__
 
-December 20th, 2016 - Jupyter Notebook for exploring your data.
+`December 20th, 2016 - Jupyter Notebook for exploring your data. <2016-12-20-jupyter-intro.html>`__
 
 
 YouTube Videos from Streamed Workshops
