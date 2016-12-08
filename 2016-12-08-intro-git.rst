@@ -14,11 +14,17 @@ Contact: Please contact `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ with any qu
 This workshop will be recorded and the recording will be available for
 viewing through this Web page.
 
-`> Register Here < <https://www.eventbrite.com/e/introductory-version-control-with-git-registration-29891921542>`__
--------------------------------------------------------------------------------------------------------------------
+.. `> Register Here < <https://www.eventbrite.com/e/introductory-version-control-with-git-registration-29891921542>`__
+   -------------------------------------------------------------------------------------------------------------------
 
 `> Materials Link Here < <https://swcarpentry.github.io/git-novice/>`__
 -----------------------------------------------------------------------
+
+`> Video link here < <https://www.youtube.com/watch?v=WDYPzfYK9Tw>`__
+---------------------------------------------------------------------
+
+`> Etherpad link here < <https://public.etherpad-mozilla.org/p/2016-dec-git>`__
+-------------------------------------------------------------------------------
 
 Description
 -----------

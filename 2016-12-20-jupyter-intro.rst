@@ -3,7 +3,7 @@ Jupyter Notebook for exploring your data
 
 Who: Titus Brown, lead instructor.
 
-When: December 8th, 2016
+When: December 20th, 2016
 
 Times: 9:15am-12:15pm PST
 
