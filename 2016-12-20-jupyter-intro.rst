@@ -15,7 +15,7 @@ This workshop will be recorded and the recording will be available for
 viewing through this Web page.
 
 `> Register Here < <https://www.eventbrite.com/e/jupyter-notebook-for-exploring-your-data-registration-30167296195>`__
-.. -------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------
 
 `> Video recording < <https://www.youtube.com/watch?v=RqeniPZBzTM>`__
 ---------------------------------------------------------------------
