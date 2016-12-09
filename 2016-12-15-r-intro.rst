@@ -14,11 +14,14 @@ Contact: Please contact `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ with any qu
 This workshop will be recorded and the recording will be available for
 viewing through this Web page.
 
-.. `> Register Here < <https://www.eventbrite.com/e/introductory-version-control-with-git-registration-28808148949>`__
-.. -------------------------------------------------------------------------------------------------------------------
+`> Register Here < <https://www.eventbrite.com/e/r-rstudio-and-rmarkdown-for-exploring-your-data-registration-30166702419>`__
+-----------------------------------------------------------------------------------------------------------------------------
 
-.. `> Materials Link Here < <https://swcarpentry.github.io/git-novice/>`__
-.. -----------------------------------------------------------------------
+`> Video recording < <https://www.youtube.com/watch?v=S57_JAOCJj0>`__
+---------------------------------------------------------------------
+
+`> Materials Link Here < <http://www.datacarpentry.org/R-ecology-lesson/>`__
+----------------------------------------------------------------------------
 
 Description
 -----------
@@ -27,10 +30,12 @@ This workshop will introduce the basics of R, RStudio, and RMarkdown
 for working with data and doing reproducible data analyses.  No previous
 experience with R or Rstudio or RMarkdown is needed.
 
+The workshop will be based on the `Data Carpentry R Lesson for
+Ecologists <http://www.datacarpentry.org/R-ecology-lesson/>`__.
+
 Computer and workshop requirements
 ----------------------------------
 
 Attendees will need to bring a computer with an Internet connection.
 
-There will be some software to install as well; we'll update this page
-closer to the day.
+Please follow the installation instructions `at the bottom of this page <http://www.datacarpentry.org/R-ecology-lesson/>`__.

@@ -14,8 +14,11 @@ Contact: Please contact `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ with any qu
 This workshop will be recorded and the recording will be available for
 viewing through this Web page.
 
-.. `> Register Here < <https://www.eventbrite.com/e/introductory-version-control-with-git-registration-28808148949>`__
+`> Register Here < <https://www.eventbrite.com/e/jupyter-notebook-for-exploring-your-data-registration-30167296195>`__
 .. -------------------------------------------------------------------------------------------------------------------
+
+`> Video recording < <https://www.youtube.com/watch?v=RqeniPZBzTM>`__
+---------------------------------------------------------------------
 
 .. `> Materials Link Here < <https://swcarpentry.github.io/git-novice/>`__
 .. -----------------------------------------------------------------------
@@ -34,4 +37,6 @@ the Binder service (http://mybinder.org).
 Computer and workshop requirements
 ----------------------------------
 
-Attendees will need to bring a computer with an Internet connection.
+Attendees will need to bring a computer with an Internet connection
+and with at least one of the Firefox, Chrome, or Safari browsers
+installed. No other software installation will be required.
