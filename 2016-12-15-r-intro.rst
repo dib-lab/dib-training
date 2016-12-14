@@ -1,11 +1,11 @@
 R, RStudio, and RMarkdown for exploring your data
 =================================================
 
-Who: Titus Brown, lead instructor.
+Who: Titus Brown, lead instructor; Chris Hamm and Daniel Standage.
 
 When: December 15th, 2016
 
-Times: 9:15am-12:15pm PST
+Times: 9:30am-12:15pm PST
 
 Where: 1043 Valley Hall, UC Davis campus.
 
@@ -30,8 +30,8 @@ This workshop will introduce the basics of R, RStudio, and RMarkdown
 for working with data and doing reproducible data analyses.  No previous
 experience with R or Rstudio or RMarkdown is needed.
 
-The workshop will be based on the `Data Carpentry R Lesson for
-Ecologists <http://www.datacarpentry.org/R-ecology-lesson/>`__.
+The workshop will be based on the `Data Carpentry "gapminder" R Lesson
+<http://data-lessons.github.io/gapminder-R/>`__.
 
 Computer and workshop requirements
 ----------------------------------
@@ -39,3 +39,15 @@ Computer and workshop requirements
 Attendees will need to bring a computer with an Internet connection.
 
 Please follow the installation instructions `at the bottom of this page <http://www.datacarpentry.org/R-ecology-lesson/>`__.
+
+In addition, we will need the 'tidyverse' installs; we can do this in class,
+but it's better if you can try it out in advance!  You can either run
+RSTudio and then go to 'Tools' and 'Install packages', and then enter
+'tidyverse'; OR, you can start R and type/execute::
+
+    install.packages('tidyverse')
+
+If you run into any problems, please do hesitate to `e-mail the lead
+instructor <ctbrown@ucdavis.edu>`__.  You can also ask us questions on
+the `UC Davis Slack site <http://ucdavis.slack.com>`__ on the
+``#maddibs`` channel.
