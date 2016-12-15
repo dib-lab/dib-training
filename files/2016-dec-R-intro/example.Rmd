@@ -1,0 +1,49 @@
+---
+title: "An Example R Markdown Document"
+author: "Titus Brown, modified from Andrew Marder"
+date: "12/15/2016"
+output: html_document
+---
+
+R Markdown is really cool! It allows one to combine text and code smoothly, which lets you convey the full analysis together with a discussion all in one document (you know, like a paper for publication, but better).
+
+Text is written using Markdown syntax, and code is placed inside code chunks. In RStudio, clicking the **Knit** button will generate a document that knits together the text, code, and output from executing the code chunks. Let's jump into why R Markdown is so great.
+
+To start, let's load the gapminder data set using `read.csv()`.
+
+```{r}
+library(tidyverse)
+gapminder <- read.csv('../data/gapminder-FiveYearData.csv')
+```
+
+Now that we've loaded the data, let's take a quick look at it:
+
+```{r}
+head(gapminder)
+```
+
+...and embed one of our pretty graphs:
+
+```{r}
+ggplot(gapminder, aes(x = gdpPercap, y = lifeExp)) +
+    geom_point(aes(color = continent)) + 
+    scale_x_log10() +
+    geom_smooth(method = 'lm') +
+    theme_bw()
+```
+
+How cool is that!? Rendering this R Markdown document creates an image file of the graph above and embeds that image file in the final HTML document.
+
+The default behavior of R Markdown is to "echo" each code chunk in the resulting document. The easiest way to remove code from the final document is the set the `echo` option to `FALSE`.
+
+```{r, echo = FALSE}
+ggplot(gapminder, aes(x = gdpPercap, y = lifeExp)) +
+    geom_point(aes(color = continent)) + 
+    scale_x_log10() +
+    geom_smooth(method = 'lm') +
+    theme_bw()
+```
+
+An exercise to try for yourself, assuming you can get everything running:
+
+pick your favorite plot from [the gapminder lesson](http://data-lessons.github.io/gapminder-R/04-ggplot.html) and modify the final plot (just above) in the RMarkdown file to make that plot instead of this one.  
