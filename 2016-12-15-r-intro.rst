@@ -14,14 +14,17 @@ Contact: Please contact `Titus Brown <mailto:ctbrown@ucdavis.edu>`__ with any qu
 This workshop will be recorded and the recording will be available for
 viewing through this Web page.
 
-`> Register Here < <https://www.eventbrite.com/e/r-rstudio-and-rmarkdown-for-exploring-your-data-registration-30166702419>`__
------------------------------------------------------------------------------------------------------------------------------
+.. `> Register Here < <https://www.eventbrite.com/e/r-rstudio-and-rmarkdown-for-exploring-your-data-registration-30166702419>`__
+.. -----------------------------------------------------------------------------------------------------------------------------
 
 `> Video recording < <https://www.youtube.com/watch?v=S57_JAOCJj0>`__
 ---------------------------------------------------------------------
 
-`> Materials Link Here < <http://www.datacarpentry.org/R-ecology-lesson/>`__
-----------------------------------------------------------------------------
+`> Materials Link Here < <http://data-lessons.github.io/gapminder-R/>`__
+------------------------------------------------------------------------
+
+`> Etherpad < <https://public.etherpad-mozilla.org/p/2016-dec-r-intro>`__
+-------------------------------------------------------------------------
 
 Description
 -----------
