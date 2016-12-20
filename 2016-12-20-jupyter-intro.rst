@@ -20,8 +20,11 @@ viewing through this Web page.
 `> Video recording < <https://www.youtube.com/watch?v=RqeniPZBzTM>`__
 ---------------------------------------------------------------------
 
-.. `> Materials Link Here < <https://swcarpentry.github.io/git-novice/>`__
-.. -----------------------------------------------------------------------
+`> Materials Link Here < <https://github.com/ngs-docs/2016-mar-jupyter>`__
+--------------------------------------------------------------------------
+
+`> Etherpad < <https://public.etherpad-mozilla.org/p/2016-dec-jupyter>`__
+-------------------------------------------------------------------------
 
 Description
 -----------
