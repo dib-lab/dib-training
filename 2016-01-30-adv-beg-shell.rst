@@ -12,9 +12,8 @@ Where: 1043 Valley Hall, UC Davis Campus
 
 Contact: Please contact `Titus Brown <ctbrown@ucdavis.edu>`__
 
-
-.. `> Register Here < <https://www.eventbrite.com/e/advanced-beginner-shell-half-day-workshop-tickets-20039831676>`__
-.. ------------------------------------------------------------------------------------------------------------------
+`> Register Here < <https://docs.google.com/forms/d/e/1FAIpQLSdP6CDaDhR_hV9Hs1CUu_GRKlMTrX9FVekxo4KRUUf29tc9NQ/viewform>`__
+------------------------------------------------------------------------------------------------------------------
 
 `> Materials Link Here < <https://github.com/ngs-docs/2016-adv-begin-shell-genomics>`__
 ---------------------------------------------------------------------------------------
