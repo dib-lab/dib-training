@@ -40,9 +40,7 @@ them will be live-streamed via YouTube.  Please `subscribe to the mailing
 list <http://lists.idyll.org/listinfo/dib-training>`__ if you want to
 be notified when registration opens up.
 
-`December 15th, 2016 - R, RStudio, and RMarkdown for exploring your data. <2016-12-15-r-intro.html>`__
-
-`December 20th, 2016 - Jupyter Notebook for exploring your data. <2016-12-20-jupyter-intro.html>`__
+`January 30th, 2017 - Advanced beginner UNIX shell. <2017-01-30-adv-beg-shell.html>`__
 
 
 YouTube Videos from Streamed Workshops
@@ -77,6 +75,7 @@ available indefinitely.  Please feel free to send them on to others.
 Past Workshops
 --------------
 
+* `December 15th, 2016 - R, RStudio, and RMarkdown for exploring your data. <2016-12-15-r-intro.html>`__
 * `December 8th, 2016 - Introductory version control with git. <2016-12-08-intro-git.html>`__
 * November 29th, 2016 - `Introduction to UNIX shell <2016-11-29-shell-halfday.html>`__
 * November 17th, 2016 - `Amazon Web Services for cloud computing. <https://dib-training.readthedocs.io/en/pub/2016-11-17-aws.html>`__
