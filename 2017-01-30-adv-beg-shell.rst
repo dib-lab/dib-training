@@ -1,7 +1,7 @@
 Advanced Beginner Shell
 =======================
 
-Who: Titus Brown, lead instructor; Shannon Joslin, TA.
+Who: Titus Brown and Lisa Cohen, instructors; Shannon Joslin, TA.
 
 When: January 30, 2017
 
