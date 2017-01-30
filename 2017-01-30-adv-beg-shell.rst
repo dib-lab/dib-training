@@ -18,6 +18,11 @@ Contact: Please contact `Titus Brown <ctbrown@ucdavis.edu>`__
 `> Materials Link Here < <https://github.com/ngs-docs/2016-adv-begin-shell-genomics>`__
 ---------------------------------------------------------------------------------------
 
+`> Etherpad link < <https://public.etherpad-mozilla.org/p/2017-jan-adv-beginner-shell>`__
+------------------------------------------------------------------------------------------
+
+`> YouTube recording < <https://www.youtube.com/watch?v=VN3MBF72OUI>`__
+-----------------------------------------------------------------------
 
 Description
 -----------
@@ -25,6 +30,8 @@ Description
 This half-day workshop will continue from the end of the 
 Beginning Shell lesson (see materials here: 
 https://github.com/ngs-docs/2015-shell-genomics/blob/gh-pages/README.rst).
+
+The new materials are `here <https://github.com/ngs-docs/2016-adv-begin-shell-genomics>`__ (also linked above)
 
 We will cover loops, if statements, scripting, and I/O redirection (>, <, etc.).  
 We will also talk a bit about how to put together shell scripts for 
