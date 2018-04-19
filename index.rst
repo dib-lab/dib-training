@@ -14,12 +14,12 @@ taken from the `Next-Gen Sequence Analysis Workshops
 <http://software-carpentry.org/>`__ and `Data Carpentry
 <http://datacarpentry.org>`__.
 
-* All workshops are on UC Davis campus unless otherwise specified.
+* All workshops and community events are on UC Davis campus unless otherwise specified.
 * Workshops are open to everyone whether or not they are part
   of the UC Davis community, subject to space constraints.
 * Workshops are free unless otherwise specified.
 
-If you want to be notified of new workshops you can sign up for the
+If you want to be notified of new workshops or events happening in the data science community at UC Davis, you can sign up for the
 `dib-training mailing list
 <http://lists.idyll.org/listinfo/dib-training>`__; workshops are
 generally announced there first.
@@ -29,6 +29,14 @@ You can subscribe to our Google Calendar containing all of our events
 
 Or, you can simply view the calendar `here <https://calendar.google.com/calendar/embed?src=mqcgc13fqifh9ocb7l8novguik%40group.calendar.google.com&ctz=America/Los_Angeles>`__.
 
+
+Meet and Analyze Data (MAD)
+----------------------------
+Weekly meetup with the data science community at UC Davis, :doc:`Bennett Conference room <Bennett-room>` on the Veterinary Medicine campus from 3-5pm on Wednesdays (updated 4/192/2018).
+
+* Have questions? Come, bring your questions! There are no silly questions. You don't need to have researched answers before you come.
+* Have skills? Come! This is a relaxed co-working space with a group of friendly, computationally-minded people who enjoy discussing a diversity of data analysis problems and methods.
+* Want to come work in silence and eavesdrop on other peoples' struggles to gain inspiration? Great!
 
 
 Upcoming Workshops and Dates
