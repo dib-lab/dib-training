@@ -19,7 +19,7 @@ taken from the `Next-Gen Sequence Analysis Workshops
   of the UC Davis community, subject to space constraints.
 * Workshops are free unless otherwise specified.
 
-If you want to be notified of new workshops or events happening in the data science community at UC Davis, you can sign up for the
+If you want to be notified of new workshops or events, you can sign up for the
 `dib-training mailing list
 <http://lists.idyll.org/listinfo/dib-training>`__; workshops are
 generally announced there first.
@@ -36,7 +36,7 @@ Weekly meetup with the data science community at UC Davis in the :doc:`Bennett C
 
 * Have questions? Come, bring your questions! There are no silly questions. Researching your own answers prior to showing up is not necessary.
 * Have skills? Come! This is a relaxed co-working space with a group of friendly, computationally-minded people who enjoy discussing a diversity of data analysis problems and methods.
-* Want to come work in silence and eavesdrop on other peoples' struggles to gain inspiration? Great!
+* Want to come work in silence and listen in on problem-solving sessions to gain inspiration? Great!
 
 
 Upcoming Workshops and Dates
