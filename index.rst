@@ -32,9 +32,9 @@ Or, you can simply view the calendar `here <https://calendar.google.com/calendar
 
 Meet and Analyze Data (MAD)
 ----------------------------
-Weekly meetup with the data science community at UC Davis, :doc:`Bennett Conference room <Bennett-room>` on the Veterinary Medicine campus from 3-5pm on Wednesdays (updated 4/192/2018).
+Weekly meetup with the data science community at UC Davis in the :doc:`Bennett Conference room <Bennett-room>` on the Veterinary Medicine campus from 3-5 pm on Wednesdays (updated Spring quarter 2018).
 
-* Have questions? Come, bring your questions! There are no silly questions. You don't need to have researched answers before you come.
+* Have questions? Come, bring your questions! There are no silly questions. Researching your own answers prior to showing up is not necessary.
 * Have skills? Come! This is a relaxed co-working space with a group of friendly, computationally-minded people who enjoy discussing a diversity of data analysis problems and methods.
 * Want to come work in silence and eavesdrop on other peoples' struggles to gain inspiration? Great!
 
