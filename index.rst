@@ -20,8 +20,8 @@ taken from the `Next-Gen Sequence Analysis Workshops
 * Workshops are free unless otherwise specified.
 
 If you want to be notified of new workshops or events, you can sign up for the
-`dib-training mailing list
-<http://lists.idyll.org/listinfo/dib-training>`__; workshops are
+`training mailing list
+<https://dib-lab.groups.io/g/training>`__; workshops are
 generally announced there first.
 
 You can subscribe to our Google Calendar containing all of our events 
