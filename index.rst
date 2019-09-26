@@ -32,23 +32,55 @@ Or, you can simply view the calendar `here <https://calendar.google.com/calendar
 
 Meet and Analyze Data (MAD)
 ----------------------------
-Weekly meetup with the data science community at UC Davis in the :doc:`Bennett Conference room <Bennett-room>` on the Veterinary Medicine campus from 3-5 pm on Wednesdays (updated Spring quarter 2018).
+In brief: 
+MAD is a weekly meetup of data scientists and scientists with data at UC Davis, usually in the :doc:`Bennett Conference room <Bennett-room>` on the Veterinary Medicine campus from 3-5 pm on Wednesdays (updated Fall quarter 2019). This year we are asking all participants to share their questions, ideally in advance, on our `Discourse forum <https://mad.oxli.org>`.
 
-* Have questions? Come, bring your questions! There are no silly questions. Researching your own answers prior to showing up is not necessary.
-* Have skills? Come! This is a relaxed co-working space with a group of friendly, computationally-minded people who enjoy discussing a diversity of data analysis problems and methods.
-* Want to come work in silence and listen in on problem-solving sessions to gain inspiration? Great!
+The schedule (Fall 2019):
+Date	   Topic
+2-Oct	   MAD 2.0: how to help us help you **Location TBD**
+9-Oct	   What is the shell?
+16-Oct	Practical software management with conda, Pt 1
+23-Oct	no MAD
+30-Oct	Practical software management with conda, Pt 2
+6-Nov	   Project organization and management
+13-Nov	How to backup data on a remote computer
+20-Nov	Quick sequencing data insights with sourmash
+27-Nov	Thanksgiving -- no MAD
+4-Dec	   Automation with Snakemake, Pt 1
+11-Dec	Automation with Snakemake, Pt 2
 
+The whole story:
+MAD is intended to function as a community of practice. Everyone has a role to play to support this community for the benefit of all participants. Don’t worry, though – novice or expert, bold or shy, you can both benefit from and contribute to this community!
 
-Upcoming Workshops and Dates
-----------------------------
+The goal of this program is to share and distribute skills. We help researchers with solving computational problems, and in this context we ask participants to actively learn and develop computational skills. As those skills advance, researchers are in a better position to share those skills with newer community-members. This is not only fun and rewarding: it keeps the community going and, more broadly, it helps to resolve the scarcity of expertise in computational biology.
 
-Please click on the link for more information.  Please note that all
-half-day workshops are from 9:15am - 12:15pm Pacific Time, and some of
-them will be live-streamed via YouTube.  Please `subscribe to the mailing
-list <http://lists.idyll.org/listinfo/dib-training>`__ if you want to
-be notified when registration opens up.
+Help us help you by actively participating in this community! Participation is fun and open to everyone. To keep it fun, please be sure to check out our DIB-Lab Code of Conduct.
 
-`January 30th, 2017 - Advanced beginner UNIX shell. <2017-01-30-adv-beg-shell.html>`__
+How to get the most out of your visit:
+There are many ways to benefit from participating in this community. Asking a question is only one of them!
+
+* Ask a question on Discourse. It can be hard to formulate a question sometimes, and it’s ok if you can’t! Trying to formulate your problem as a question will help you learn, and will also help you find the right person to assist you. Please post these before MAD if you can! Answers might appear outside of MAD hours, but coming to MAD is the best way to get an answer.
+* Try things out on your own. Once your first question has been answered, try moving forward with some next steps while you are here. The person assisting you may move on, but they can always come back if you get stuck! Working independently in a supported environment is a great way to learn.
+* Listen to other questions. It might be relevant to your work! Feel free to join in on other conversations in the room.
+Talk to your neighbors about their computing problems. Not getting help at the moment? Explaining your work and listening to other problems will advance your understanding more broadly. It’s also more fun.
+* See if you can help! Helping solve other people’s problems is a great way to learn. How do you think our experts got to be so… expert? It’s common to feel underqualified for this role. We’re here to support your attempts!
+
+How to pay it forward:
+This community gets a lot of questions! How can we sustainably answer them all?
+
+* Support our documentation. If you got a question answered, please post the answer to Discourse. This will both secure your understanding and support others who have the same question. Not sure you got the explanation right? Don’t worry – our mods will catch it (and you might learn more in that process!)
+* Respect helper time limits. The volunteers who are most actively engaged in helping roles often get a lot of questions in a day. Working independently after getting a preliminary answer is not only a great way to learn, it really helps to let these folks move on to help others for a while. If a helper has been working with you for 10 minutes or more, consider whether there is anything you can try on your own and have them check back later.
+* Come! Even if you don’t have a question. Attending group lessons, doing your work here, making yourself available to chat about problems (even if you can’t help), getting to know othe people in the community – all of these things support the community.
+
+How to skip the guilt:
+Yes, we want you to come back and give back! But academics have enough to feel guilty about. Some days, you just have to come for the help to get you through, and other days, it just isn’t happening. We get it. Come when you can, enjoy the snacks and the company, and do what you can when you can to pay it forward! Then, feel good about the work that you do to keep this community afloat.
+
+If you need a lot of help:
+Another thing we get is that some projects are really complicated and require extensive expert support. If you need a lot of help from one person on a project, or if it’s turned out that way despite your best efforts, it is appropriate to add your helper as a co-author on publications that result from that work.
+
+Come for the lessons, stay for the snacks, get help along the way!
+We look forward to seeing you at MAD!
+
 
 
 YouTube Videos from Streamed Workshops
