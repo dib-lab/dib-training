@@ -32,24 +32,35 @@ Or, you can simply view the calendar `here <https://calendar.google.com/calendar
 
 Meet and Analyze Data (MAD)
 ----------------------------
+
 In brief: 
-MAD is a weekly meetup of data scientists and scientists with data at UC Davis, usually in the :doc:`Bennett Conference room <Bennett-room>` on the Veterinary Medicine campus from 3-5 pm on Wednesdays (updated Fall quarter 2019). This year we are asking all participants to share their questions, ideally in advance, on our `Discourse forum <https://mad.oxli.org>`.
+.........
+
+MAD is a weekly meetup of data scientists and scientists with data at UC Davis,
+usually in the :doc:`Bennett Conference room <Bennett-room>` on the Veterinary Medicine campus from 3-5 pm on Wednesdays (updated Fall quarter 2019).
+This year we are asking all participants to share their questions, ideally in advance, on our `Discourse forum <https://mad.oxli.org>`.
 
 The schedule (Fall 2019):
-Date	   Topic
-2-Oct	   MAD 2.0: how to help us help you **Location TBD**
-9-Oct	   What is the shell?
-16-Oct	Practical software management with conda, Pt 1
-23-Oct	no MAD
-30-Oct	Practical software management with conda, Pt 2
-6-Nov	   Project organization and management
-13-Nov	How to backup data on a remote computer
-20-Nov	Quick sequencing data insights with sourmash
-27-Nov	Thanksgiving -- no MAD
-4-Dec	   Automation with Snakemake, Pt 1
-11-Dec	Automation with Snakemake, Pt 2
+
+========= =========
+ Date      Topic
+========= =========
+2-Oct	     MAD 2.0: how to help us help you **Location: Valley Hall 1043**
+9-Oct	     What is the shell?
+16-Oct	   Practical software management with conda, Pt 1
+23-Oct	   no MAD
+30-Oct	   Practical software management with conda, Pt 2
+6-Nov	     Project organization and management
+13-Nov	   How to backup data on a remote computer
+20-Nov	   Quick sequencing data insights with sourmash
+27-Nov	   Thanksgiving -- no MAD
+4-Dec	     Automation with Snakemake, Pt 1
+11-Dec	   Automation with Snakemake, Pt 2
+========= =========
 
 The whole story:
+................
+
 MAD is intended to function as a community of practice. Everyone has a role to play to support this community for the benefit of all participants. Don’t worry, though – novice or expert, bold or shy, you can both benefit from and contribute to this community!
 
 The goal of this program is to share and distribute skills. We help researchers with solving computational problems, and in this context we ask participants to actively learn and develop computational skills. As those skills advance, researchers are in a better position to share those skills with newer community-members. This is not only fun and rewarding: it keeps the community going and, more broadly, it helps to resolve the scarcity of expertise in computational biology.
@@ -66,6 +77,8 @@ Talk to your neighbors about their computing problems. Not getting help at the m
 * See if you can help! Helping solve other people’s problems is a great way to learn. How do you think our experts got to be so… expert? It’s common to feel underqualified for this role. We’re here to support your attempts!
 
 How to pay it forward:
+......................
+
 This community gets a lot of questions! How can we sustainably answer them all?
 
 * Support our documentation. If you got a question answered, please post the answer to Discourse. This will both secure your understanding and support others who have the same question. Not sure you got the explanation right? Don’t worry – our mods will catch it (and you might learn more in that process!)
@@ -73,12 +86,18 @@ This community gets a lot of questions! How can we sustainably answer them all?
 * Come! Even if you don’t have a question. Attending group lessons, doing your work here, making yourself available to chat about problems (even if you can’t help), getting to know othe people in the community – all of these things support the community.
 
 How to skip the guilt:
+......................
+
 Yes, we want you to come back and give back! But academics have enough to feel guilty about. Some days, you just have to come for the help to get you through, and other days, it just isn’t happening. We get it. Come when you can, enjoy the snacks and the company, and do what you can when you can to pay it forward! Then, feel good about the work that you do to keep this community afloat.
 
 If you need a lot of help:
+......................
+
 Another thing we get is that some projects are really complicated and require extensive expert support. If you need a lot of help from one person on a project, or if it’s turned out that way despite your best efforts, it is appropriate to add your helper as a co-author on publications that result from that work.
 
 Come for the lessons, stay for the snacks, get help along the way!
+..................................................................
+
 We look forward to seeing you at MAD!
 
 
