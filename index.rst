@@ -38,7 +38,7 @@ In brief:
 
 MAD is a weekly meetup of data scientists and scientists with data at UC Davis,
 usually in the :doc:`Bennett Conference room <Bennett-room>` on the Veterinary Medicine campus from 3-5 pm on Wednesdays (updated Fall quarter 2019).
-This year we are asking all participants to share their questions, ideally in advance, on our `Discourse forum <https://mad.oxli.org>`.
+This year we are asking all participants to share their questions, ideally in advance, on our `Discourse forum <https://mad.oxli.org>`__.
 
 The schedule (Fall 2019):
 
