@@ -1,4 +1,4 @@
 labibi
 ======
 
-See http://labibi.readthedocs.org/en/latest/
+See https://dib-training.readthedocs.io/en/pub/
